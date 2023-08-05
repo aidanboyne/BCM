@@ -107,7 +107,7 @@ Metformin is contraindicated in patients with impaired kidneys, active/severe li
 
 _MOA_ [[ref]](https://www.nature.com/articles/nrendo.2013.256): 
 
-![Metformin MOA](assets/lib/img/metforminMOA.webp)
+![Metformin MOA](/img/metforminMOA.webp)
 
 
 **Sulfonylureas**: insulin secretagogues. Inhibit ATPK activity in beta cells, increasing intracellular Ca<sup>2+</sup> and corresponding insulin release. Contraindicated with renal or hepatic impairment. Relativley cheap. Examples include glyburide, the medication taken by the patient in this case, and Chlorpropamide.
