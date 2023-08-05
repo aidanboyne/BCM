@@ -31,7 +31,7 @@ Indications of DM in undiagnosed patients include:
  - increased thirst and urination
  - low energy, fatigue
  - bacterial and fungal infections with slow wound healing
- - tingling/numbness in extremities (neuropathy should be ruled out by exam/history)
+ - tingling and/or numbness in extremities (neuropathy should be ruled out by exam/history)
  - blurred vision (retinopathy should be excluded by ophtho)
  - high BMI
 
