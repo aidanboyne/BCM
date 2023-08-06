@@ -1,6 +1,6 @@
 ---
 title: Ethics and Patient Privacy
-date: 2023-07-30 12:00:00 -500
+date: 2023-08-06 12:00:00 -500
 categories: [ttm]
 tags: [ttm, clinical]
 ---
