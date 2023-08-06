@@ -9,4 +9,6 @@ order: 3
  - [Brian's Drive](https://drive.google.com/drive/folders/1ve6gBtuR82JzXGzhIzl0xYEXbSgpebA6){:target="_blank"}{:rel="noopener noreferrer"}
  - [Textbook Drive](https://drive.google.com/drive/folders/11MD-FNdN_QDjkMyAlPgY19TNs688sLFK){:target="_blank"}{:rel="noopener noreferrer"}
  - [Student Portal](https://cams.bcm.edu/estudent/BCMLocalLogin.asp){:target="_blank"}{:rel="noopener noreferrer"}
+ - [Specialty Specific Mentors](assets/docs/SpecialtyMentor2324.pdf)
+
 
