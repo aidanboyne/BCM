@@ -2,7 +2,7 @@
 title: TTM, Week 1 Wednesday - Empathetic Interviewing
 date: 2023-08-02 12:00:00 -500
 categories: [ttm]
-tags: [ttm,weeklynotes]
+tags: [ttm,weeklynotes,clinical]
 ---
 
 NOTES TTM: W1 8/02/23 
@@ -41,8 +41,17 @@ Many types of physical exams: focused/systematic, superficial/thorough, symptom/
 	- BP: 90-120/50-80
 	- RR: 12-24 bpm
 	- O2sat: >95% room air
- - Genreal observations
+ - Genreal observations/alertness
+	- Alert
+	- Drowsy/Lethargic: awake but sleepy, needing voice to engage
+	- Obtunded: need touch to awaken; often confused
+	- Stuporous: need painful stimuli to be awake
+	- Comatose: unresponsive 
  - Orientation: full name, where are we, what year, why are you in hospital... often find via interview w/o these questions. Can preface with "A couple silly questions"
+	- themselves (name)
+	- place (where are we)
+	- time (what is the date/time/week/season)
+	- situation (why are we here)
  - Caillary refill, fingernails
 	- blanch fingertip and estimate time for blood to return: normal is 2-3 seconds
 	- clubbing (sign of heart/lung disease or cancer)
@@ -74,7 +83,14 @@ Many types of physical exams: focused/systematic, superficial/thorough, symptom/
 	- Press slowly and check for cyanosis and pitting edema
  - Limb strength
 	- Each limb: don't let me pull, dont let me push
-	- Rate each limb 5/5
+	- Rate each limb 5/5:
+		 - 0/5 no perceptible contraction
+		 - 1/5 barely perceptible contraction/flicker
+		 - 2/5 active movement of body part with gravity eliminated
+		 - 3/5 active movement against gravity
+		 - 4/5 not quite full strength/resistance
+		 - 5/5 full strength 
+
  
 #### Intentional Observation
 
