@@ -76,7 +76,7 @@ Dependent edema is an important finding and is graded on a scale of +1 to +4:
 #### Auscultation
 
 Listen to aortic, pulmonic, tricuspid, and mitral regions with diaphragm of stethoscope and patient in supine, left lateral decubitus (on the side), upright, and upright leaning forward positions.
-![Auscultation Points](\img\AuscultationPoints.PNG)
+![Auscultation Points](/img/AuscultationPoints.PNG)
 
 Left lower sternal border should be checked for S3 and S4 heart sounds. Mitral stenosis murmur is a diastolic murmur heard most easily in the left lateral decubitus position. Check for S1 and S2 sounds along with any systolic or diastolic murmurs while patient is upright. Pleural rubs should be checked while patient is leaning forward. Note right sided murmurs can be accentuated with inspiration.
 
