@@ -16,7 +16,7 @@ DVT are more common after inactivity or immobilization. Cancer, old age, previou
 #### Symptoms and testing
 
 Swelling, warmth, pain, and tenderness to the tough in the affected leg. Weekly compression ultrasound is the diagnostic test of choice, but d-dimer (>500 ng/mL) or MRI/CT may also be used. In positive DVT, vein will not compress with pressure under ultrasound.
-![DVT Ultrasound](/img/DVTUltrasound.png)
+![DVT Ultrasound](/img/DVTUltrasound.PNG)
 
 #### Treatment
 
