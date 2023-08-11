@@ -11,5 +11,6 @@ order: 3
  - [Payton's Drive](https://drive.google.com/drive/folders/1J6K2DGhh1EMQRhOHP7zbTdDS5urTUeRj){:target="_blank"}{:rel="noopener noreferrer"}
  - [Student Portal](https://cams.bcm.edu/estudent/BCMLocalLogin.asp){:target="_blank"}{:rel="noopener noreferrer"}
  - [Specialty Specific Mentors](https://aidanboyne.github.io/BCM/assets/docs/SpecialtyMentor2324.pdf){:target="_blank"}{:rel="noopener noreferrer"}
+ - [Hx Presentations Guide](https://meded.ucsd.edu/clinicalmed/oral.html){:target="_blank"}{:rel="noopener noreferrer"}
 
 
