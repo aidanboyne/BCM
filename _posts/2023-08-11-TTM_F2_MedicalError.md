@@ -28,5 +28,11 @@ situation.
     - Cognitive errors: Faulty knowledge, data gathering/synthesis
 
 
+Error prevention and recognition should occur at level of
+ - the individual physician
+ - the team
+ - systems-based approaches
+
+
 Rule of thumb - look at the behavior, not the outcome. Following procedure in system of care provides safety net to catch rare mess-ups.
 

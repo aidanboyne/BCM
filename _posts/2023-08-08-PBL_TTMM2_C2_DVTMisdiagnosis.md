@@ -9,9 +9,11 @@ tags: [ttm,pbl]
 
 ### DVT
 
-DVT occurs when a blood clot occurs in the "deep veins" (popliteal, femoral, or iliac) of the legs, thighs, or pelvis - proximal DVT. If part or all of the thrombus breaks off, it can cause pulmonary embolism (PE). Can also occur in peroneal, posterior, anterior tibial, and muscular veins of calf (distal DVT) with lower risk of PE.
+DVT occurs when a blood clot occurs in the "deep veins" (popliteal, femoral, or iliac) of the legs, thighs, or pelvis - proximal DVT. If part or all of the thrombus breaks off, it can cause pulmonary embolism (PE). Can also occur in peroneal, posterior, anterior tibial, and muscular veins of calf (distal DVT) with lower risk of PE. In this case, the DVT in left femoral vein is known as an illiofemoral DVT which is associated with higher PE risk and higher reoccurrence.
 
 DVT are more common after inactivity or immobilization. Cancer, old age, previous DVT/PE, obesity, pregnancy, smoking, heart failure, kidney issues, some medications, and recent surgery all increase DVT risk. People with inherited or acquired thrombophilia are also at higher risk.
+
+Generally look for increased clotting risk: Virchow's triad for clot risk includes intravascular vessel wall damage, stasis of flow, and the presence of a hypercoagulable state.
 
 #### Symptoms and testing
 
@@ -30,7 +32,7 @@ Patients with >13% risk of bleed should not be anticoagulated.
 
 ### Cellulitis
 
-Cellulitis is bacterial infection of the epidermis and dermis. Erysipelas is similar, but only infects superficial skin layers and usually can be distinguished due to clearly demarcated raised border.
+Cellulitis is bacterial infection of the epidermis and dermis. Erysipelas is similar, but only infects superficial skin layers and usually can be distinguished due to clearly demarcated raised border. Look for peau d'orange (skin that has orange-peel texture) to differentiate with DVT. However, note peau d'orange on breast can indicate breast cancer.
 
 #### Symptoms
 - Fever with chills and sweating
@@ -81,9 +83,9 @@ Findings suggest that analyzing vital sign data as cumulative durations or frequ
 Bacterial infection can cause a change in vitals. Tachycardia and tachypnea are the most sensitive and specific in predicting serious bacterial infections, while high temperature, severe hypoxemia and hypotension are the least sensitive but highly specific signs of serious bacterial infections. [[ref]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4949796/).
 
 #### Post-op red flags
- - Tachycardia >100 bpm
+ - **Tachycardia >100 bpm**
  - Pain, Hypovolemia (dry, bleeding), Arrythmia
- - Hypotension <100/60
+ - **Hypotension <100/60**
  - Hypovolemia, drugs, epidural, MI, PTX, normal?
  - Low urinary output
  - Increased RR or WOB, decreased RR or not breathing
@@ -92,6 +94,8 @@ Bacterial infection can cause a change in vitals. Tachycardia and tachypnea are 
  - Delirium
 
 General idea is to check for complaints, pain control, nausea, vomiting, tolerating diet. Monitor any lines and medications. Also ask if they've been urinating. Check if thy have been out of bed and give focused physical exam depending on surgical site. Always check mental status, heart, lungs, operative site, drains.
+
+Make sure to coordinate well with care team: nurses, therapists, etc. Good relationships ensure rapid communication of results and higher quality patient care.
 
 #### Recovery Process
 **Immediate Postoperative Phase**:
@@ -139,7 +143,7 @@ Major takeaways are
 
 ![Cognitive biases case study](/img/CogBias2.jpg)
 
-Interruptions can also lead to errors - Flynn et al.[19] found that interruptions during drug dispensing increased the error rate by 3.42%. Sevdalis et al.[28] found that surgical team members perceived patient-related disruptions contributed most to errors (p < 0.01). Wiegmann et al.[34] found a linear relationship between surgical flow disruptions and errors; as the number of disruptions increased, so did the number of errors (r = .47, p < 0.05) [[ref]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3007093/).
+Interruptions can also lead to errors - Flynn et al. found that interruptions during drug dispensing increased the error rate by 3.42%. Sevdalis et al. found that surgical team members perceived patient-related disruptions contributed most to errors (p < 0.01). Wiegmann et al. found a linear relationship between surgical flow disruptions and errors; as the number of disruptions increased, so did the number of errors (r = .47, p < 0.05) [[ref]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3007093/).
 
 Reflection (guided or self) is key to overcoming bias.
 1. Physicians must fully appreciate the contribution of cognitive biases to errors in medical decision making
@@ -155,4 +159,6 @@ In the case of error, the general guidelines are to inform the patient:
  - Express personal regret and apologize
  - Elicit questions or concerns and address them
  - Plan the next step and next contact with the patient
+
+It's important to tailor the response to each patient - it is usually good to involve supervisors and certain cases require the involvement of risk management. 
 
