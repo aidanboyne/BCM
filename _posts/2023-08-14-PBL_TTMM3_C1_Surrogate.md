@@ -48,6 +48,22 @@ Pharmacologic therapy typically starts with oral Acetaminophen and/or oral/topic
 
 ### Dementia
 
+#### Intro
+Dementia is characterized by an overall decline in memory and other cognitive skills severe enough to reduce a person's ability to perform everyday activities. It is characterized by the progressive and persistent deterioration of cognitive function. Affected patients often have memory loss and a partial or significant lack of insight into their deficits. It is most commonly caused by Alzheimer's Disease (70-80%), but can also result from vascular disease, frontotemporal lobar degeneration, Lewy body disease, Parkinson's, HIV, Huntington, TBI, prion diseases, or unknown causes.
+
+#### Pathophysiology
+
+- Alzheimer's: widespread atrophy of the cortex and deposition of amyloid plaques, and neurofibrillary tangles of hyperphosphorylated tau protein in neurons which contribute to their degeneration
+- Parkinson's and Lewy body:  intracellular accumulation of Lewy bodies, which are insoluble aggregates of alpha-synuclein protein in the brain
+- Frontotemporal: various mutations leading to the deposition of ubiquitinated TDP-43 and hyperphosphorylated tau proteins in the frontal and temporal lobes resulting in dementia, early personality, behavioral changes, and aphasia depending on the subtype
+- Vascular: ischemic injury (e.g. stroke) leading to permanent neuronal death
+
+HIV causes toxic inflammation, prions cause self spreading protein misfolding, and Huntington is a autosomal dominant mutation causing late onset cognitive impairment and tendency to insanity and suicide.
+
+#### Management
+
+No known cure, but exercise along with social and cognitive activity are thought to slow progression. Medication such as acetylcholinesterase inhibitors and NMDA antagonists have shown some benefit in slowing cognitive decline. Rivastigmine is approved for Parkinson disease subtype.
+
 ## Pharmacology
 
 ### Acetaminophen [[ref]](https://www.ncbi.nlm.nih.gov/books/NBK482369/)
