@@ -5,7 +5,7 @@ categories: [ttm]
 tags: [ttm,practicecases]
 ---
 
-# Case 1: Mr. Johnson's Chest Discomfort
+## Case 1: Mr. Johnson's Chest Discomfort
 
 ### Chief Complaint (CC):
 Mr. Johnson, a 45-year-old male, presents with chest discomfort.
@@ -53,7 +53,7 @@ He has no known allergies or adverse reactions to any medications.
 ### General Review of Systems:
 - General review of systems: No recent weight loss, fever, chills, or fatigue.
 
-## Physical Exam Findings
+### Physical Exam Findings
 
 - Vital Signs:
     - Blood pressure: 112/73
@@ -86,7 +86,7 @@ He has no known allergies or adverse reactions to any medications.
     - No visible signs of recent weight loss.
 <br><br>
 
-# Case 2: Mr. Martinez Abdominal Pain
+## Case 2: Mr. Martinez Abdominal Pain
 
 ### Chief Complaint (CC):
 Mr. Martinez, a 55-year-old male with a history of diabetes, presents with severe acute pain in his lower right abdomen.
@@ -133,7 +133,7 @@ Mr. Martinez mentions that the pain has greatly affected his ability to move aro
 ### General Review of Systems:
  - No fever, chills, or recent weight loss.
 
-## Physical Examination Findings:
+### Physical Examination Findings:
 
 - Vital Signs:
     - Blood pressure: 101/68
