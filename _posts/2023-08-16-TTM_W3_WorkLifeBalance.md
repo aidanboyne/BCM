@@ -1,6 +1,6 @@
 ---
 title: TTM, Week 3 Wednesday - Work Life Balance
-date: 2023-08-016 12:00:00 -500
+date: 2023-08-16 12:00:00 -500
 categories: [ttm]
 tags: [ttm,weeklynotes]
 ---
