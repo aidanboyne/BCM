@@ -131,7 +131,7 @@ Mr. Martinez mentions that the pain has greatly affected his ability to move aro
  - Substance use history: He denies tobacco and recreational drug use, but he occasionally drinks alcohol on weekends.
 
 ### General Review of Systems:
- - No fever, chills, or recent weight loss.
+ - Low grade fever. No chills or recent weight loss.
 
 ### Physical Examination Findings:
 
