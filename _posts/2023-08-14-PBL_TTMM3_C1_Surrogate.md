@@ -32,7 +32,7 @@ In H&P, look for
 4. bony joint enlargement
 5. limitation in range of motion. 
 
-A differential diagnosis should include rheumatoid arthritis, psoriatic arthritis, crystalline arthritis, hemochromatosis, bursitis, avascular necrosis, tendinitis, radiculopathy, among other soft tissue abnormalities. Blood test for WBC can rule out RA. Note radiological findings such as joint space narrowing and subchondral sclerosis do not correlate with severity of disease.
+A differential diagnosis should include rheumatoid arthritis, psoriatic arthritis, crystalline arthritis, hemochromatosis, bursitis, avascular necrosis, tendinitis, radiculopathy, among other soft tissue abnormalities. Blood test for WBC can rule out RA. Note radiological findings such as joint space narrowing and subchondral sclerosis do not correlate with severity of disease. Worsening of OA over time can be measured by ultrasound using ACS (articular cartilage score).
 
 ![First MTP joint degeneration](/img/FirstMTPDegeneration.png)
 
@@ -50,6 +50,8 @@ Pharmacologic therapy typically starts with oral Acetaminophen and/or oral/topic
 
 #### Intro
 Dementia is characterized by an overall decline in memory and other cognitive skills severe enough to reduce a person's ability to perform everyday activities. It is characterized by the progressive and persistent deterioration of cognitive function. Affected patients often have memory loss and a partial or significant lack of insight into their deficits. It is most commonly caused by Alzheimer's Disease (70-80%), but can also result from vascular disease, frontotemporal lobar degeneration, Lewy body disease, Parkinson's, HIV, Huntington, TBI, prion diseases, or unknown causes.
+
+![Dementia Criteria](/img/Dimentia_criteria.png)
 
 #### Pathophysiology
 
@@ -155,14 +157,14 @@ When talking to a patient with dementia, the following can help (depending on th
  - let them speak for themselves during discussions about their welfare or health issues
  - acknowledge what they have said, even if they do not answer your question, or what they say seems out of context – show that you've heard them and encourage them to say more about their answer
  - give them simple choices – avoid creating complicated choices or options for them
-    - pictographic pain charts, for example, give an easy to understand list of options
+    - pictographic pain charts or the abbey pain scale (see below), for example, give an easy to understand list of options
  - use other ways to communicate – such as rephrasing questions because they cannot answer in the way they used to
 
 Turn to the surrogate if the patient is unable to satisfactorily answer your question or if they explicitly defer the question to their guardian/surrogate 
 
 #### Communicating with families of dementia patients [[ref]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3135450/)
 
-
+![Abbey Pain Scale](/img/AbbeyPainScale.png)
 
 
 
