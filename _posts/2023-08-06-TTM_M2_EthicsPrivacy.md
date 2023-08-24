@@ -12,13 +12,13 @@ resource: true
  - Beneficence: the duty of a physician to try to bring about improvements in physical or psychological health that medicine can achieve.
  - Justice: physicians must accept the requirement of fairness to their patients.
  
-Decisions in medical ethics are made via a framework: Identify the question --> gather facts --> identify ethical considerations (perhaps using a sub-framework) --> make a reasoned argument and reccomendation
+Decisions in medical ethics are made via a framework: Identify the question --> gather facts --> identify ethical considerations (perhaps using a sub-framework) --> make a reasoned argument and recommendation
 
 ## Confidentiality and Privacy
  - Privacy is the right to keep one's information private
- - Confidentiality is the clinician's duty to keep the pateitn's infromation private.
+ - Confidentiality is the clinician's duty to keep the patient's information private.
  
-Confidentiality is broken often, especially in informal situations such as rides in the eleveator when discussing cases with other practitioners not involved in the patient's care. 
+Confidentiality is broken often, especially in informal situations such as rides in the elevator when discussing cases with other practitioners not involved in the patient's care. 
 
 **HIPAA** (Health insurance portability and accountability act): the legal obligation of physicians and health care workers to avoid disclosure of protected health information (PHI). PHI includes
  - Medical history, current conditions, and future prognosis (physical or mental)

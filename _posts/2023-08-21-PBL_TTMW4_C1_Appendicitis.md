@@ -143,5 +143,3 @@ CMS audits a sample of hospitals, in addition to investigating complaints that a
 ### Medical Bill Services
 
 Generally, if your income is less than or equal to 200% of the federal poverty guidelines you may receive some financial assistance from Texas Health. Many hospitals also have individual financial assistance programs that can reduce or eliminate debt based on income and other measures. The [national financial resource directory](https://www.patientadvocate.org/explore-our-resources/national-financial-resource-directory/) provides a list of personalized resources based on patient needs.
-
-Worst case scenario here is still good.

@@ -5,13 +5,10 @@ categories: [pbl]
 tags: [ttm]
 ---
 
-# PBL Case 2
 
 ## Diabetes Mellitus
 
-### History and Physical
-
-#### History with chronic illness
+### History of Chronic Illness
 
 Goal is to summarize history and current state of chronic conditions with implications for management in mind. Try to assess current control of illness and minimize its impact and potential complications. In addition, include medications, pysiologic parameters measured at home, and recent lab/specialist visits.
 
@@ -26,6 +23,7 @@ OLD CARTSS for chronic illness
  - **associated Syndromes**: What complications are associated with the chronic condition, and what are we doing / need to do to prevent these. For example, patients with diabetes need eye exams and monitoring of kidney function. Patients with high blood pressure are at risk for cardiac disease. Etc. Data may include relevant symptoms (no shortness of breath), blood work (normal kidney function 2 months ago), or specialist visits (last eye exam 1 year ago, needs another one). 
  - **Severity**: Some overlap with level Control, but how advanced or significant is the condition. 
 
+### Diagnosing DM
 
 Indications of DM in undiagnosed patients include:
  - increased thirst and urination

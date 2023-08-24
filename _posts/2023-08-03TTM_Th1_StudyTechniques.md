@@ -6,7 +6,7 @@ tags: [ttm]
 resource: true
 ---
 
-### Memory formation
+## Memory formation
  - Encoding: sense info into short term memory
  - Consolidation: transfer to long term
  - Retrieval
@@ -26,15 +26,11 @@ resource: true
  
  Practically, acute stress can improve learning. Steps to reduce stress at time of retrival (i.e. practice exams and thorough rehearsal) can improve long term retrival and performance.
  
-### Learning Strategies
+## Learning Strategies
 
  - Spaced Repetition: Process to increase long term retention. Flatten slope of forgetting curve via spaced review 
- 
  - Interleaving: Mix order of subject review to increase connections between different topics and improve overall retention.
- 
  - Testing Effect: Active learning that helps improve retrival. Good even if you get it wrong.
- 
  - Adaptive Learning: use experience to increase learning. Find gaps in your knowledge, prioritize what you need/what is in scope, then learn and apply.
- 
  - Pomodoro: Choose task and set timer for work interval. Work with focus until timer goes off then take a short break. (25:5 or 25:10)
  

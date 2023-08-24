@@ -6,15 +6,14 @@ tags: [ttm]
 resource: true
 ---
 
-NOTES TTM: M1 7/31/23 
-------
-
-### PBL
+## PBL
 #### Finding Appropriate Resources
  - Foundational Science: **Textbooks**
  - Current epidimiological information: **CDC Website**. 
  Governent websites give good info on medical system science (i.e. copay, deductible...)
  - Recent clinical/treatment information: **PubMed**
+
+ ![Evidence Pyramid](/img/EvidencePyramid.png)
 
 #### Pharmacology
 When considering a drug, remember the 5 Ws
@@ -24,13 +23,13 @@ When considering a drug, remember the 5 Ws
  - When effect is on/off (don't have to think about this yet)
  - Why it is right for the patient 
 
-#### Using AI
-You can use AI (LLMs) like you would Wikipedia - not a reliable source but can be a good place to start. Need to verify what is said using quality resources.
+> Using AI: You can use AI (LLMs) like you would Wikipedia - not a reliable source but can be a good place to start. Need to verify what is said using quality resources.
+{: .prompt-danger }
 
 
-### Critical Thinking in Medicine
+## Critical Thinking in Medicine
 
-#### Problem solving framework (Decisions)
+### Problem solving framework (Decisions)
 1. ID the problem and ask question
 2. Information measurement
 3. Consider solutions
@@ -40,16 +39,16 @@ You can use AI (LLMs) like you would Wikipedia - not a reliable source but can b
 
 Formal approach is important and allows efficient iteration
 
-#### Self directed learning (Learning)
+### Self directed learning
 1. Assess/prioritize learning needs (knowledge gaps, focus points)
 2. Identify, analyze, synthesize relevant info
 3. Appraise source credibility
 4. Seek feedback
 
 #### Asking the right question
- - Background questions (who, what, when, why)
+ - **Background questions** (who, what, when, why)
 	 - Definitions, processes, etc. to establish framework of knowledge
- - Foreground questions
+ - **Foreground questions**
 	 - Specific questions to compare treatment options
 	 - PICOT format (patient, intervention, comparison, outcome (specific), time)
 	 
@@ -62,7 +61,8 @@ Ex. 41yo female for annual check-up. Asks opinion on screening mammograms and wh
 
 
 ## Taking a History
-#### What does a doctor do?
+
+### What does a doctor do?
  - Many contexts of care each with different knowledge, skills, thinking and decisions that vary patient to patient
  - First thing to understand is what is this encounter about - _"What brings you in today?"_
 	- Ex. Healthy man goes into ED with 2 days of worsening abdominal pain: Need to make diagnosis --> informs management plan
@@ -70,7 +70,7 @@ Ex. 41yo female for annual check-up. Asks opinion on screening mammograms and wh
 	- Ex. Teen broke leg: Fracture needs to be fixed
 	- Ex. New metastatic colon cancer diagnosis: educate and guide patient in selecting amoung options based on individual
 	- Ex. Healthy patient in for checkup: Build/maintain relationship to discuss heath concerns, questions, goals, and prevent future disease
-#### Clinical Tasks
+### Clinical Tasks
 1. Take history
 2. Take physicals
 3. Gather "collateral history": EMR, family, etc.
@@ -85,21 +85,22 @@ Ex. 41yo female for annual check-up. Asks opinion on screening mammograms and wh
 In any given encounter, we do subset of above.
 
 #### Encounter with new symptom --> diagnosis
-Diagnosis is central: ID of nature/cause of phenomenon. Patients want to know what is wrong and diagnosis informs treatment and prognisis.  **Differential Diagnosis** refers to multiple possible diagnoses to explain problem. **Working Diagnosis** is likley diagnosis that is acted upon while we may not be 100% sure.
+Diagnosis is central: ID of nature/cause of phenomenon. Patients want to know what is wrong and diagnosis informs treatment and prognosis.  **Differential Diagnosis** refers to multiple possible diagnoses to explain problem. **Working Diagnosis** is likely diagnosis that is acted upon while we may not be 100% sure.
 
 Diagnoses are made by matching illness characteristics with "illness scripts". Diagnoses can be:
- - Singular, well-defined disease (Heart failure due to genetic dialated cardiomyopathy)
+ - Singular, well-defined disease (Heart failure due to genetic dilated cardiomyopathy)
  - Broad and heterogeneous category of diseases (Heart failure)
  - Somewhere inbetween
  
  **Proximate Diagnosis** is a diagnosis that serves as an intermediary label... we want to arrive at an **endpoint diagnosis** that informs us what exactly is causing the problem and how to treat it.
  
- #### History of present illness
+ ### History of present illness
+
  "What brings you in today" establishes chief concern - narrows worlds of possibility. More broadly, the clinical history is the most important category of info for diagnosis, sufficient for diagnosis in >80% of cases is some contexts. Always will guide subsequent evaluation and leads to hypotheses.
  
 **Chief concern / reason for visit: headache**
 
-History of present illness: Dev is a 31-year-old woman with no past medical history who comes to urgent care with 3 days of headache. 
+_History of present illness_: Dev is a 31-year-old woman with no past medical history who comes to urgent care with 3 days of headache. 
 She was in her usual state of health until 10 days ago, when she developed a urinary tract infection. She had some burning with urination. She took trimethoprim-sulfamethoxazole for 3 days and her symptoms resolved quickly. 
 The headache started right as she was finishing the antibiotics. The pain started gradually while she was relaxing at home after work. She gets mild headaches sometimes, and she didn’t think much of it at the time. But the next day it was still there, and in fact it has remained constant and continued to get worse for the last two days. 
 The pain is all over her head, feels like a heaviness, and extends/radiates to her neck. It has gotten as bad as 8/10 in severity but improves to 5/10 when she takes ibuprofen, which she has done 2-3 times per day since it started. She hasn’t noticed anything else that makes it better or worse, except maybe that lying still helps and moving around and moving her neck makes it hurt more. 
@@ -124,12 +125,4 @@ A patient history should be :a complete, clear, and chronologic description of t
   4. Aggravating and alleviating factors
   5. Symptoms associated
   
-  "OLDCARTSS" see slide 48
-  
  **Always get patient perspective**: What do you think might be going on, what are you worried about, what were you hoping for/expecting to come out of this visit?
- 
- _See slide 51 for HPI example_
- 
- Dr. Quadri contact
- email: yquadri@bcm.edu
- cell: (713) 444-1560

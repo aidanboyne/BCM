@@ -5,8 +5,6 @@ categories: [pbl]
 tags: [ttm]
 ---
 
-# PBL Case 1
-
 ## Asthma
 
 ### Overview
@@ -56,7 +54,9 @@ Asthma is typically treated using inhaled medications. Inhalers are an unpowered
 
 Muscarinic antagonists offer an alternative to β2-agonists for acute episode treatment. Leukotrine antoagonists can also be prescribed but have been shown to be inferior to ICS. Tiotropium (Atrovent) (anticholinergic) can be added to regimine if ICS + 1 other regulator are insufficient and works by inhibiting parasympathetic nervous system receptors. Allergy meds such as antihistamines (i.e. Claritin) help, especially in pediatric patients.
 
-### Social and Environmental Factors
+## Social Determinants 
+
+### Social and Environmental Contributors to Asthma
 Allergens include pollen, mold, animal dander, insect (esp. cockroach) parts. Irritants include smoke, environmental tobacco smoke (ETS), dust, gas or diesel fumes, and chlorine. Particularly important to this case are gas and diesel fumes (patient is driver) and his childhood exposure to ETS and cockraoch/mouse allergens.
 
 Black and Latinx Americans have a higher asthma prevalence and greater asthma morbidity than White
@@ -68,7 +68,6 @@ food and health care, all of which are risk factors for asthma and
 asthma morbidity.<sup>4</sup>
 
 ### Insurance 
-
  - (Texas) County indigent health care program: for those inelegible for medicaid
  - Clinical trials
  - Free clinics, especially near academic centers

@@ -25,6 +25,18 @@ Major sources of bias include training data, context specificity and model choic
 
 We also contribute to bias as users. Algorithmic appreciation or aversion and social/cultural norms can affect how we prompt and interpret AI tools.
 
+## Lecture 3: Hypothesis Driven Medicine
+
+**Clinical/Diagnostic reasoning**: the collection of cognitive processes through which a clinician evaluates, manages, and communicates about a patient’s health condition. This often takes the form of a **diagnostic schema** - a general approach to a health problem, that can be used in a given patient to construct a differential diagnosis. Note the this is not the same as a **differential diagnosis** - a prioritized list of possible diagnoses for a particular patient at a given point in time.
+
+#### Components of Diagnostic Reasoning
+* Data gathering (some habitual, some hypothesis-driven)
+* Initial hypothesis generation (differential dx)
+* Problem representation (key features into summary statement)
+* Prioritization of differential diagnosis (diagnostic justification)
+* High-value diagnostic evaluation, interpretation
+* Awareness of cognitive tendencies and emotional factors
+
 ## Lecture 5: Funding Systems in US Healthcare
 
 ### Payers
@@ -40,7 +52,7 @@ Medicare is largely a program for the elderly (65+) run through CMS (federal gov
 
 Medicaid and CHIP (Children's Healthcare Insurance Program) are state-federal partnerships that are dually funded. Eligibility is determined on a state level but generally provides coverage for the (very) poor. 
 
-Texas did not choose to expand medicaid with the ACA (to all individuals within 138% of federal poverty line). Thus, in Texas you do not qualify on income alone - you must also be pregnant, blind, disabled, have a dependent, or > 65yo.
+Texas did not choose to expand medicaid with the ACA (to all individuals within 138% of federal poverty line). Thus, in Texas you do not qualify on income alone - you must also be pregnant, blind, disabled, have a dependent,K or > 65yo.
 
 The monthly income levels in texas are startlingly low:
 
@@ -56,7 +68,7 @@ If you are out-of-network you may be charged additional amounts regardless of wh
    - Employers pay for a portion (often large portion) of insurance policies purchased via the private market.
  - Model 2 - Government Marketplace (Healthcare.gov)
 
-#### Fee for service
+#### Fee for serviceKs
 
 - RVU (relative value unit) - standard measure of value to compare different types of healthcare
 - CPT - code assigned to each healthcare service with corresponding amount of RVUs.
@@ -84,7 +96,7 @@ Quality is measured via:
  - Patient-centered medical home is an attempt to center as many aspects of care within one clinic to keep you healthy.
  - Government organized healthcare (VA, IHS) is the broadest solution and spreads cost among the entire population. 
 
- ## Lecture 6: Imperative to think
+## Lecture 6: Imperative to think
 
  Thought errors cause significant morbidity and mortality. Vulnerable populations in particular have increased risk of cognitive bias
   - Metacognition is key to reducing thought errors - understanding how we think and what our biases are allow us to fix errors in the thought process when given post-hoc data

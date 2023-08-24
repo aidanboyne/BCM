@@ -6,9 +6,6 @@ tags: [ttm]
 resource: true
 ---
 
-NOTES TTM: W1 8/02/23 
-------
-
 ## Compassion, Empathy, and Communication
 
 Factors in Communication
@@ -93,7 +90,7 @@ Many types of physical exams: focused/systematic, superficial/thorough, symptom/
 		 - 5/5 full strength 
 
  
-#### Intentional Observation
+### Intentional Observation
 
  - Conciousness
 	- Alert --> Drowsy --> Obtunded --> Stuporous --> Comatose

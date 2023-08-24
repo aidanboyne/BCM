@@ -29,9 +29,3 @@ Ambiguity is inevitable, but a lack of tolerance toward uncertainty leads to:
  - Plan for uncertainty: what if I am right and what if I am wrong - follow up with patients
  - Discuss uncertainty openly
  - Don't worry alone: may be multiple treatments, accept fallibility and seek help if needed
-
-#### Tips
- - Review material on patient writeup for exam.
- - Go to `SOAR` for research projects
- - Check out ADEG
-

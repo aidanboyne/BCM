@@ -7,7 +7,7 @@ resource: true
 ---
 
 ## Health system science
- _How healthcare is delivered and how providers collaborate to improve patient care. Population helath is one piece of this puzzle._
+ _How healthcare is delivered and how providers collaborate to improve patient care. Population health is one piece of this puzzle._
 
 Clinical care (quality and access) is only a factor in health outcomes. 
 
