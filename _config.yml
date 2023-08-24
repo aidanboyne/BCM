@@ -193,5 +193,3 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
-
-category-list: [notes, pbl, resources]
