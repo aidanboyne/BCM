@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-icon: fas fa-info-circle
+icon: fas fa-laptop-medical	
 order: 3
 ---
  - [Class Google Drive](https://drive.google.com/drive/folders/1XqcQ2-GdQ1mJgteP2DBnJThAKhDx_ed7){:target="_blank"}{:rel="noopener noreferrer"}

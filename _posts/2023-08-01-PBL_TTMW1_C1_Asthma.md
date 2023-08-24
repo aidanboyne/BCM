@@ -1,8 +1,8 @@
 ---
 title: PBL - Asthma
 date: 2023-08-01 12:00:00 -500
-categories: [ttm]
-tags: [ttm,pbl]
+categories: [pbl]
+tags: [ttm]
 ---
 
 # PBL Case 1

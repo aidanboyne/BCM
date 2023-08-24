@@ -1,8 +1,8 @@
 ---
 title: PBL - Appendicitis and the Obligation to Inform
 date: 2023-08-14 12:00:00 -500
-categories: [ttm]
-tags: [ttm,pbl]
+categories: [pbl]
+tags: [ttm]
 ---
 
 Goal: To consider the importance of systems issues in the ethical care of an individual patient. To recognize the importance of communication in shared decision making with patients. To discuss the importance of life-long learning in the medical profession.
@@ -59,8 +59,11 @@ Amoxicillin in particular covers a wide range of Gram(+) bacteria and some negat
 Cephalosporins are a subclass of Beta-lactams which can be further divided into 5 generations with varying coverage. Some later generation cephalosprins are reserved for use in suspected abx-resistant infections.
 
 ## Clinical
-What is triage? How do you usually triage in the emergency center?
-What is code blue and the protocol for when one occurs?
+
+### Code Blue
+Code blue is used to indicate a major medical emergency, usually cardiac or respiratory arrest. Teams may use more than one method to revive someone. These methods include CPR, intubation, a defibrillator and medications. There may be people assigned to each of these activities, with the process coordinated by one person. The “crash cart” holds all the supplies needed in code blue situations.
+
+![Triage Chart](/img/triagechart.gif)
 
 
 ### Appendicitis Differential [[ref]](https://www.visualdx.com/visualdx/diagnosis/?moduleId=101&diagnosisId=50527)
@@ -89,7 +92,7 @@ What is code blue and the protocol for when one occurs?
 
 ### GI ROS
 
-Check for: trouble swallowing, heartburn, appetite, and nausea. Ask for bowel movement frequency, stool color and size, changes in bowel habits, pain with defecation, rectal bleeding or black/tarry stools, hemorrhoids, constipation, and diarrhea. Finally, inquire about abdominal pain, food intolerance, excessive gas or belching, jaundice, and past liver or gallbladder trouble.
+Check for: trouble swallowing, heartburn, appetite, nausea, recent abdominal surgery. Ask for bowel movement frequency, stool color and size, changes in bowel habits, pain with defecation, rectal bleeding or black/tarry stools, hemorrhoids, constipation, and diarrhea. Finally, inquire about abdominal pain, food intolerance, excessive gas or belching, jaundice, past liver or gallbladder trouble, and pregnancy in women of childbearing age.
 
 #### Insurance terminology: see [[ref]](https://www.cms.gov/cciio/resources/files/downloads/dwnlds/uniform-glossary-final.pdf)
 
@@ -112,13 +115,6 @@ Unstable angina, myocardial infarction within six weeks and aortic or peripheral
 
 Continuing medical education has been shown to increase patient health outcomes and improve physician knowledge [[ref]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3758945). However, selection of relevant sources is important. Journal surveillance, either on your own or via services such as The New England Journal of Medicine's _Journal Watch_ which has experts review the literature in various fields, select the most important articles, summarize the findings, and discuss their clinical implications. 
 
-### Patient Education
-
-
-How to effectively communicate physician recommendations to patients?
-Best practices for physician-patient disagreements?
-Consider ethical dilemmas surrounding disagreements
-What are American vs European guidelines regarding patient treatment?
 
 ### Physician-Patient Disagreement [[ref]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2720466/)
 
@@ -137,13 +133,15 @@ Medical debt is the most common debt collection tradeline in the US and is thoug
 
 The costs of services are set by individual hospitals and outlined in a document known as the chargemaster rates. However, almost no one actually pays the publicized chargemaster rates. The vast majority of health care consumers are represented by a payer of some kind, such as a commercial health insurance company, Medicaid, or Medicare. Commercial insurers negotiate the actual prices they pay during the process of contracting with providers. Medicare and Medicaid establish their own payment levels independent of hospitals’ chargemaster lists – Medicare through the federal government and Medicaid through state governments. 
 
+Hospital price transparency helps Americans know the cost of a hospital item or service before receiving it. Starting January 1, 2021, each hospital operating in the United States will be required to provide clear, accessible pricing information online about the items and services they provide in two ways:
+
+ - As a comprehensive machine-readable file with all items and services.
+ - In a display of shoppable services in a consumer-friendly format.
+
+CMS audits a sample of hospitals, in addition to investigating complaints that are submitted to CMS, and hospitals may face civil monetary penalties for noncompliance.
+
 ### Medical Bill Services
 
-Generally, if your income is less than or equal to 200% of the federal poverty guidelines you may receive some financial assistance from Texas Health. Many hospitals also have individual financial assistance programs that can reduce or eliminate debt based on income and other measures. 
+Generally, if your income is less than or equal to 200% of the federal poverty guidelines you may receive some financial assistance from Texas Health. Many hospitals also have individual financial assistance programs that can reduce or eliminate debt based on income and other measures. The [national financial resource directory](https://www.patientadvocate.org/explore-our-resources/national-financial-resource-directory/) provides a list of personalized resources based on patient needs.
 
-What is the relationship between credit card debt/bankruptcy and medical bills? How to navigate a patient’s financial concerns and what resources are available?
-Bedside resources for patient and for physician
-What entities are responsible for setting procedure, prescription, hospital visit costs? Interplay of insurance, pharm, and hospital.
-
-
-
+Worst case scenario here is still good.

@@ -1,8 +1,8 @@
 ---
 title: PBL - Anxiety and Stomach Pain
 date: 2023-08-07 12:00:00 -500
-categories: [ttm]
-tags: [ttm,pbl]
+categories: [pbl]
+tags: [ttm]
 ---
 
 ## Pathophysiology

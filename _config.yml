@@ -20,7 +20,7 @@ timezone: America/Chicago
 
 title: BCM Resources # the main title
 
-tagline: Collected notes from class of 2027 # it will display as the sub-title
+tagline: Collected notes for class of 2027 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Notes and links to resources for Baylor College of Medicine Class of 2027.
@@ -193,3 +193,5 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+category-list: [notes, pbl, resources]

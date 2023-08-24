@@ -1,8 +1,8 @@
 ---
 title: PBL - DVT Misdiagnosis
 date: 2023-08-08 12:00:00 -500
-categories: [ttm]
-tags: [ttm,pbl]
+categories: [pbl]
+tags: [ttm]
 ---
 
 ## Pathophysiology

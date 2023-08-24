@@ -1,8 +1,8 @@
 ---
 title: PBL - Type 2 Diabetes Mellitus
 date: 2023-08-03 12:00:00 -500
-categories: [ttm]
-tags: [ttm,pbl]
+categories: [pbl]
+tags: [ttm]
 ---
 
 # PBL Case 2

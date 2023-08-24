@@ -1,8 +1,8 @@
 ---
 title: Point of Care Ultrasound 1
 date: 2023-07-30 12:00:00 -500
-categories: [ttm]
-tags: [ttm,pocus]
+categories: [notes]
+tags: [ttm]
 ---
 
 ## POCUS Notes

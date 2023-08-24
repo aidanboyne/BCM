@@ -1,8 +1,8 @@
 ---
 title: TTM Practice Cases
 date: 2023-08-16 12:00:00 -500
-categories: [ttm]
-tags: [ttm,practicecases]
+categories: [cases]
+tags: [ttm]
 ---
 
 ## Case 1: Mr. Johnson's Chest Discomfort
