@@ -44,7 +44,7 @@ Texas did not choose to expand medicaid with the ACA (to all individuals within 
 
 The monthly income levels in texas are startlingly low:
 
-![Dependents](img/Medicaid_texas.png)
+![Dependents](/img/Medicaid_texas.png)
 
 ### Private Insurance
 
