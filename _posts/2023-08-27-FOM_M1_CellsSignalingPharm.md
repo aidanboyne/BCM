@@ -9,9 +9,7 @@ resource: true
 ## Cellular structure and function
 
 - The **cell** is the fundamental unit of every living organism.
-- Despite diversity, cells have shared features.
-- The cell can be visualized as an apartment.
-- **Cell membrane** (plasma membrane) is like the apartment's walls, made of a **phospholipid bilayer**.
+- **Cell membrane** (plasma membrane or plasmalemma) contains the cell contents and controls what enters and exits. It is made of a **phospholipid bilayer**.
   - **Phospholipids** have a hydrophilic "head" and a hydrophobic "tail".
   - The membrane is **semipermeable**, allowing certain molecules through using protein channels.
 - The internal structure is supported by the **cytoskeleton**, made of proteins like microfilaments and microtubules.
