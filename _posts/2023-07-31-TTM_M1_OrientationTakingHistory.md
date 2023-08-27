@@ -70,7 +70,9 @@ Ex. 41yo female for annual check-up. Asks opinion on screening mammograms and wh
 	- Ex. Teen broke leg: Fracture needs to be fixed
 	- Ex. New metastatic colon cancer diagnosis: educate and guide patient in selecting amoung options based on individual
 	- Ex. Healthy patient in for checkup: Build/maintain relationship to discuss heath concerns, questions, goals, and prevent future disease
+    
 ### Clinical Tasks
+
 1. Take history
 2. Take physicals
 3. Gather "collateral history": EMR, family, etc.
@@ -94,7 +96,7 @@ Diagnoses are made by matching illness characteristics with "illness scripts". D
  
  **Proximate Diagnosis** is a diagnosis that serves as an intermediary label... we want to arrive at an **endpoint diagnosis** that informs us what exactly is causing the problem and how to treat it.
  
- ### History of present illness
+### History of present illness
 
  "What brings you in today" establishes chief concern - narrows worlds of possibility. More broadly, the clinical history is the most important category of info for diagnosis, sufficient for diagnosis in >80% of cases is some contexts. Always will guide subsequent evaluation and leads to hypotheses.
  
@@ -113,7 +115,7 @@ She is concerned about this headache both because of the severity of symptoms, w
 A patient history should be :a complete, clear, and chronologic description of the problems prompting the patient’s visit” and “should reveal the patient’s responses to his or her symptoms and what effect the illness has had on the patient’s life”
 
  
- #### Introductions
+#### Introductions
   - Wash hands, introduce yourself "Hi, my name is ... working with ... Is it ok if we talk while we are waiting?" ... "who's with you today, is it ok if they stay while we talk."
   - What brings you in today... I heard x... I want to hear the story of what's been going on... Tell me more, what else...
   - Follow up with detailed questions on specific symptoms/exposures, get Y/N to the pertinent positives and negatives
