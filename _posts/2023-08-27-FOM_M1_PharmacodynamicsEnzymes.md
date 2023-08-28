@@ -1,5 +1,5 @@
 ---
-title: Pharmacodynamics and Enzymes
+title: Pharmacodynamics and Enzymes (FOM 1.2)
 date: 2023-08-27 12:00:00 -500
 categories: [notes]
 tags: [fom]
