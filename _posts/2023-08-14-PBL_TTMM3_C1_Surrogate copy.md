@@ -20,6 +20,7 @@ _Estrogen and Breast Cancer_
 * Age 
 * Genetic predisposition
 * BRCA1 and 2, PTEN, PalB2 mutations
+  * BRCA1 and 2 produce proteins that assist in gene repair
 * Family / personal history of breast cancer
 * Radiation exposure
 * Secondary to radiation therapy – Lymphoma treatment
@@ -29,16 +30,18 @@ Breast cancer is most common in non-hispanic white and black women, followed by 
 
 #### BRCA1 and BRCA2 [[ref]](https://www.ncbi.nlm.nih.gov/books/NBK470239/)
 
-Both are autosomal dominant tumor suppressor genes that significantly increase risk of breast and ovarian cancers. Ashkenazi Jewish people are known to have higher rates of BRCA1/2 mutations.
+Both are autosomal dominant tumor suppressor genes that significantly increase risk of breast and ovarian cancers. Ashkenazi Jewish people are known to have higher rates of BRCA1/2 mutations. However, only 5-8% of breast cancer cases are positive for BRCA when tested.
 
 **BRCA 1 Mutation**
 * Responsible for approximately 35% of hereditary breast cancer
+* Typically triple negative breast cancer
 * Increased risk of developing breast cancer by age 70 to 44% to 78%
 * Increased risk of developing ovarian cancer by age 70 to 18% to 54%
 * Increased risk of developing male breast cancer by age 70 to 0.22 to 2.8%
 
 **BRCA 2 Mutation**  
 * Responsible for approximately 25% of hereditary breast cancer
+* Typically ER+ subtype
 * Increased risk of developing breast cancer by age 70 to 31% to 56%
 * Increased risk of developing ovarian cancer by age 70 to 2.4% to 19%
 * Increased risk of developing male breast cancer by age 70 to 3.2% to 12%
@@ -57,15 +60,13 @@ There is 1/100k chance of incorrect base pairing (mismatch) or about 60k times p
 3. DNA polymerase repairs the segment
 4. DNA ligase re-seals nucleotide bonds
 
-On average, 6 errors are left after each replication cycle.
+On average, 6 errors are left after each replication cycle. Lynch syndrome and constitutional mismatch repair deficiency syndrome are disorders in the mismatch genes that lead to higher cancer relevance.
 
 
 ## Clinical Guidelines
 
 ### Classification
-Ductal carcinoma progresses from a normal duct to DCIS (ductal carcinoma in situ). It can then escape the duct becoming _invasive_ ductal carcinoma. If it travels beyond breast tissue, it is _metastatic_ ductal carcinoma.
-
-Lobular carcinoma similarly can progress from in situ to invasive lobular carcinoma. 
+Ductal carcinoma progresses from a normal duct to DCIS (ductal carcinoma in situ). It can then escape the duct becoming _invasive_ ductal carcinoma. If it travels beyond breast tissue, it is _metastatic_ ductal carcinoma. Lobular carcinoma similarly can progress from in situ to invasive lobular carcinoma. We can also have cancers originating from fat (lymphoma), other organs (metastatic tumors), blood vessels (angiosarcomas), etc.
 
 #### Histology
 
@@ -87,6 +88,7 @@ If breast cancer is suspected, biopsy is usually performed. Imaged guided biopsy
  - Fibroadenoma: benign breast lesion. Often asymptomatic and found incidentally.
  - Fibrotic Disease of the breast: benign cystic changes in fibrous breast tissue occurring prior to menstruation.
  - Lipoma: Benign tumor of mature fat cells.
+ - Mastitis: inflammation of milk duct often caused by infection. More common during lactation
 
 Once diagnosis is confirmed and type is determined:
 How well the carcinoma resembles normal breast tissue (Grade of carcinoma)
@@ -138,6 +140,9 @@ Sequential steps in IHC:
     - **M0**: No distant metastasis.
     - **M1**: Distant metastasis present (e.g., bones, liver, lungs).
 
+
+**Grading** takes into account **histologic characteristics** (well differentiated (similarity to local tissue), mitotic figures)
+
 After the TNM values have been determined, they are combined to assign an overall stage, from stage 0 (in situ), I (small tumor), to stage IV (metastatic).
 
 
@@ -156,10 +161,14 @@ The 2 basic principles of treatment are to reduce the chance of local recurrence
  Mastectomy is usually accompanied with sentinel lymph node biopsy. If cancer has spread to lymphatic system, total axillary lymph removal is indicated. Mastectomy may be contraindicated in patients with proven distant metastatic disease. Also, frail or elderly patients with significant medical co-morbidities or systemic organ dysfunction may not be candidates for surgery due to the burden of their overall health and poor performance status.
 
 #### Biologics
+
+**HER2 Receptor**: transmembrane tyrosine kinase receptor that consists of an extracellular ligand-binding domain, a transmembrane region, and an intracellular or cytoplasmic tyrosine kinase domain. It is activated by the formation of homodimers or heterodimers with other EGFR proteins, leading to dimerization and autophosphorylation and/or transphosphorylation of specific tyrosine residues in EGFR intracellular domains 4. Further downstream molecular signaling cascades are activated, such as the Ras/Raf/mitogen-activated protein kinase (MAPK), the phosphoinositide 3-kinase/Akt, and the phospholipase Cγ (PLCγ)/protein kinase C (PKC) pathways that promote cell growth and survival and cell cycle progression
+
+
  - Trastuzumab: HER2 targeted monoclonal Ab infusion. Targets subdomain IV of the HER2 extracellular domain, exerting its antitumor effect by blocking HER2 cleavage, downstream proliferation pathways, and promoting apoptosis. Additionally, it stimulates endocytosis and prevents shedding of the extracellular domain of HER2. Lastly, it triggers antibody-dependent cellular cytotoxicity.
     - Generally well tolerated
     - Has shown increase in cardiotoxicity when taken with chemotherapy.
- - Pertuzumab: HER2-targeted monoclonal antibody that belongs to the class of HER dimerization inhibitors. It binds to a different domain of HER2 than trastuzumab (subdomain II), preventing the HER2/HER3 heterodimerization and homodimerization.14 Preclinical studies, both in vitro and xenograft models, have demonstrated synergistic effects when pertuzumab and trastuzumab are given together.
+ - Pertuzumab: HER2-targeted monoclonal antibody that belongs to the class of HER dimerization inhibitors. It binds to a different domain of HER2 than trastuzumab (subdomain II), preventing the HER2/HER3 heterodimerization and homodimerization. This inhibits ligand-initiated intracellular signaling via the MAP kinase and PI3K pathways. Inhibition of these pathways results in inhibition of cell growth and the initiation of apoptosis, respectively.
     - No indication of increased cardiotoxicity with chemo.
     - Frequent side effects include diarrhea
 
@@ -169,7 +178,7 @@ The risk of cancer recurrence decreases by about 50% at 10 years, and the risk o
 
 #### Chemotherapy
 
-General guidelines indicate three to 6-month period for adjuvant and neoadjuvant chemotherapy with first gen drugs or Anthracyclines. Adjuvant treatment of early-stage HR+ breast cancer with tamoxifen for at least 5 years has been shown to reduce the recurrence rate by about half throughout the first 10 years and reduces breast cancer mortality by about 30% throughout the first 15 years. Recent studies support extended adjuvant tamoxifen (10 years versus 5 years) to reduce reoccurrence and mortality so clinical practice guidelines now recommend consideration of adjuvant tamoxifen therapy for 10 years.
+General guidelines indicate three to 6-month period for adjuvant and neoadjuvant chemotherapy with first gen drugs or Anthracyclines. Adjuvant treatment of early-stage HR+ breast cancer with tamoxifen (Selective estrogen receptor modulator) for at least 5 years has been shown to reduce the recurrence rate by about half throughout the first 10 years and reduces breast cancer mortality by about 30% throughout the first 15 years. Recent studies support extended adjuvant tamoxifen (10 years versus 5 years) to reduce reoccurrence and mortality so clinical practice guidelines now recommend consideration of adjuvant tamoxifen therapy for 10 years. 
 
 ### Screening [[ref]](https://www.cancer.org/cancer/types/breast-cancer/screening-tests-and-early-detection/american-cancer-society-recommendations-for-the-early-detection-of-breast-cancer.html)
 
