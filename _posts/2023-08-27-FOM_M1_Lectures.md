@@ -48,9 +48,6 @@ Levels of various signals in the blood increase under different conditions, with
 
 # 1.2
 
-### See histology figures [here](/assets/docs/Hist_figures_1.pdf)
-
-
 ## Connective Tissues
 
 1. **Loose Connective (Areolar) Tissue**
