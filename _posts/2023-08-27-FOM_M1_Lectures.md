@@ -12,7 +12,7 @@ resource: true
 
 ### Four ways of cell signaling
 1. **Ion Channel-linked**: Fast on/off response, typically in milliseconds. Examples include Nicotine and GABA.
-2. **G Protein-linked**: Faster than ion channels but with a response time of seconds. Examples include Epinephrine and Albuterol.
+2. **G Protein-linked**: Slower than ion channels but with a response time of seconds. Examples include Epinephrine and Albuterol.
 3. **Enzyme-linked**: Slower response time, ranging from minutes to hours. Examples are insulin and growth factors.
 4. **DNA-linked**: Alters gene expression. This is the slowest form, taking hours to weeks. Examples include Cortisol and Prednisone.
 
@@ -169,8 +169,6 @@ Levels of various signals in the blood increase under different conditions, with
  - Cifloflaxin
    - inhibits bacterial gyrase (bacterial analouge of topoisomerase II)
    - In class of fluoroquinolones
-
-Certainly! Here's a concise summary of the **replisome** formatted in markdown:
 
 ### Replisome
 
