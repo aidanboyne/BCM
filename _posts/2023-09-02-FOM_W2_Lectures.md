@@ -180,3 +180,57 @@ Complication leading to Kawasaki-like disease in children and adolescents follow
   - TLRs 3, 7, 8, and 9 are intracellular and bind to viral RNA.
   - Activation leads to the release of **proinflammatory cytokines** (e.g., TNFalpha, IL-1beta, and IL-6) causing vasodilation, leukocyte attraction, and fever.
   - Intracellular pathogens trigger the release of **interferon alpha and beta** to inhibit viral replication in nearby cells
+
+## Blood Components
+
+Total blood volume approx 6L. Analysed via blood smear stained with Wright's stain (Eosin, Methylene Blue, and Azures). We look at middle-right of smear. 
+
+
+### Erythrocytes (45%)
+ - % is called hematocrit
+	- Low = not being made/destroyed
+	- High = dehydration or disease increasing production
+ - Carry O2 and CO2, lack organelles and nucleus (more room for hemoglobin)
+ - Live about 120 days, regenerated in bone marrow
+ - Biconcave shape for increased SA and fit through vessels
+ - Stain bright pink/red. Pale center when parallel to slide. 7-8um in diameter
+
+### Buffy Coat
+ - Platelets and leukocytes (<1%)
+ - Platelets come from megakaryocyte
+	- Platlets are small, non-nucleated, basophilic dots 
+ - Leukocyte only complete cells and ward off pathogens, destroy cancer cells, and neutralize toxins. Can leave vessels
+	- Granulocytes most common (neutrophils mostly, about 60%). Prominent gains in cytoplasm. Neutrophils have 2-5 lobes (Polymorphonuclear leukocytes) with many lysosome and specific granules. Basophils have S-shaped or 2-lobed nucleus with large basophilic/purple granules. Eosinophils have larage eosinophilic pink granules and 2-lobed nuclei.
+	- Lymphocytes and monocytes make up about 35%. Large round nuclei with dense staining. Small lymphocytes have low cytoplasm.
+	- Monocytes make remaining 5% and are primarily phagocytotic. Largest WBC with large nucleus along edge with horseshoe/indented shape.
+
+### Plasma (55%)
+ - 90% water, 10% proteins, ions, and gasses
+ 	- Albumin maintains oncotic pressure
+	- Transport proteins shuttle FA, Ca, Hormones, Meds
+	- Globulins include Ab and fat/metal transporters
+	- Fibrinogen and other clotting factors assist platlet plug formation. Removing them from plasma leaves you with serum.
+ - Electrolytes include Na, Ca, Cl, K, HCO3 and maintain acid base balance and osmolarity.
+
+### Erythropoietin (EPO)
+
+Kidney (and liver) production which stimulates RBC production in the bone marrow. It does so by preventing proerthyroblast apoptosis.
+ - Proerythroblasts are immature RBC which mature due to EPO. 
+ - Low O2 increases EPO production
+	- Decreased bloodflow is not helped by increased erythrocytes. Detected by kidney as lower fluid filtering by glomerulus hence less O2 demand by tubular cells which do not make erythropoietin in response.
+	- Decreased O2 content is helped by increased erythrocytes. Tubular cells now have O2 deficit and **do** produce EPO.
+
+All kidney cells can produce EPO. Thus, kidney disease can result in anemia.
+
+![HIF1 pathway](/img/hif1.png)
+
+### Platelet Plug Formation
+First step in primary hemostasis.
+1. Endothelial Injury - injury to innermost layer of artery (along with SM, protein, and fibrous layer). Nerves trigger reflexive contraction (vascular spasm) to reduce blood flow. Endothelial cells stop producing NO and prostaglandins, instead secreting endothelin (up contraction)
+2. Exposure: VWF realeased by damaged endothelial cells binds to exposed collagen
+3. Adhesion: platlets contact bound VWF and bind via GP1B surface protein.
+4. Activation: Platlet binding via GP1B causes shape change (arms), release of more VWF, Seratonin (platlet attractor) and Ca (secondary homeostasis). They also release ADP and Thromboxane A2 into blood to activate platelets not yet bound to VWF (**Positive Feedback** via platelet activators) limited to injury site due to prostaglandins and NO in undamaged areas inhibiting platelet (platelet inhibitors). Once ADP and Thromboxane A2 bind, platelets express GPIIB/IIIA (fully activated)
+5. Aggregation: GPIIB/IIIA receptors bind to fibrinogen and from cross links between other platelets allowing plug formation.
+
+
+
