@@ -6,8 +6,9 @@ tags: [fom,lecture,review]
 resource: true
 ---
 
+# Week 1 Monday Notes
 
-# Cell signaling
+## Cell signaling
 **Objective**: Describe the four most common types of cell signaling and their role in the regulation of homeostasis in terms of positive and negative feedback.
 
 ### Four ways of cell signaling
@@ -46,108 +47,6 @@ Levels of various signals in the blood increase under different conditions, with
 - **Insulin binding** to a surface receptor initiates a series of phosphorylation reactions, leading to the recruitment of more glucose transporters. All these steps in the signaling cascade are potential targets for drugs.
 - **Insulin mechanism**: It works through enzyme-linked receptor signaling. Type 2 Diabetes mellitus (often termed insulin resistance) is due to defects in this signaling system.
 
-# 1.2
-
-## Connective Tissues
-
-1. **Loose Connective (Areolar) Tissue**
-   - **Components**: Fibroblasts, collagen fibers, elastic fibers, ground substance.
-   - **Function**: Fills spaces between organs, provides cushioning.
-
-2. **Dense Regular Connective Tissue**
-   - **Components**: Fibroblasts, densely packed collagen fibers.
-   - **Function**: Provides strength in one direction (e.g., tendons, ligaments).
-
-3. **Dense Irregular Connective Tissue**
-   - **Components**: Fibroblasts, densely packed collagen fibers in random directions.
-   - **Function**: Provides strength in multiple directions (e.g., dermis of skin).
-
-4. **Adipose Tissue**
-   - **Components**: Adipocytes (fat cells), minimal extracellular matrix.
-   - **Function**: Energy storage, insulation, cushioning.
-
-5. **Cartilage**
-   - **Components**: Chondrocytes, collagen fibers, proteoglycans in the extracellular matrix.
-   - **Types**: Hyaline, Fibrocartilage, Elastic.
-   - **Function**: Support, cushioning, flexibility.
-
-6. **Bone (Osseous Tissue)**
-   - **Components**: Osteocytes, collagen fibers, hydroxyapatite in the extracellular matrix.
-   - **Function**: Support, protection, calcium storage.
-
-7. **Blood**
-   - **Components**: Red blood cells, white blood cells, platelets, plasma.
-   - **Function**: Transport of nutrients, gases, wastes; immunity; clotting.
-
-
-## Epithelial Tissues
-
-1. **Simple Squamous Epithelium**
-   - **Components**: Single layer of flat cells.
-   - **Function**: Diffusion, filtration (e.g., alveoli, blood vessels).
-
-2. **Simple Cuboidal Epithelium**
-   - **Components**: Single layer of cube-shaped cells.
-   - **Function**: Secretion, absorption (e.g., kidney tubules, glandular ducts).
-
-3. **Simple Columnar Epithelium**
-   - **Components**: Single layer of column-like cells; may have microvilli or cilia.
-   - **Function**: Absorption, secretion (e.g., digestive tract).
-
-4. **Pseudostratified Columnar Epithelium**
-   - **Components**: Single layer, but appears layered due to varying cell heights; often ciliated.
-   - **Function**: Secretion, movement of mucus (e.g., respiratory tract).
-
-5. **Stratified Squamous Epithelium**
-   - **Components**: Multiple layers; cells at surface are flat.
-   - **Function**: Protection against abrasion (e.g., skin, mouth, esophagus).
-
-6. **Stratified Cuboidal Epithelium**
-   - **Components**: Multiple layers of cube-shaped cells.
-   - **Function**: Protective tissue, usually found in some gland ducts.
-
-7. **Stratified Columnar Epithelium**
-   - **Components**: Several cell layers; surface cells columnar.
-   - **Function**: Secretion, protection (e.g., male urethra).
-
-8. **Transitional Epithelium**
-   - **Components**: Resembles both stratified squamous and stratified cuboidal; changes shape when stretched.
-   - **Function**: Allows for stretching (e.g., bladder).
-
-
-# 1.4
-
-1. **Epinephrine (Adrenaline): hormone**
-    - Produced by: Adrenal medulla
-    - Actions: Activates both α and β adrenergic receptors. It increases heart rate, force of contraction, and cardiac output (β1 effects), induces bronchodilation (β2 effects), and also has vasoconstrictive effects especially at high doses (α effects) due to preferential binding to β receptor being overwhelmed with greater α number on blood vessels.
-    - Uses: Anaphylaxis, cardiac arrest, bronchospasm, croup, local hemostasis (when combined with local anesthetics).
-
-2. **Isoproterenol**
-    - Produced synthetically.
-    - Actions: It's a non-selective β-adrenergic agonist. Increases heart rate and force of contraction (β1 effects) and causes bronchodilation (β2 effects).
-    - Uses: Was once used for asthma and bradycardia, but there are safer alternatives now. Rarely used in modern medicine due to the potential for causing arrhythmias.
-
-3. **Norepinephrine (Noradrenaline): Neurotransmitter**
-    - Produced by: Locus coeruleus in the brain and postganglionic sympathetic nerve endings.
-    - Actions: Primarily α-adrenergic receptor agonist with some β1 effects. Causes vasoconstriction, increasing systemic vascular resistance and blood pressure.
-    - Uses: Septic shock and other forms of shock to raise blood pressure.
-
-4. **Dopamine**
-    - Produced by: Several areas of the brain, including the substantia nigra.
-    - Actions: At low doses, it stimulates dopamine receptors causing vasodilation in renal and splanchnic circulation. At moderate doses, it stimulates β1 receptors increasing heart contractility and output. At high doses, it has α effects causing vasoconstriction.
-    - Uses: Shock, especially when renal perfusion needs support, and heart failure.
-
-5. **Dobutamine**
-    - Produced synthetically.
-    - Actions: Primarily a β1-adrenergic agonist. Increases the force of heart muscle contraction and, to a lesser degree, heart rate, leading to increased cardiac output.
-    - Uses: Heart failure (especially in acute decompensated cases), cardiac stress testing.
-
-6. **Phenylephrine**
-    - Produced synthetically.
-    - Actions: Selective α1-adrenergic receptor agonist. Causes vasoconstriction.
-    - Uses: Nasal congestion (as a nasal spray), raising blood pressure (intravenous), pupil dilation during ophthalmic procedures, and as a spinal anesthetic adjunct.
-
-![Sympathomimetics](/img/sympathomimetics.png)
 
 
 # Week 1 Wednesday Notes
@@ -207,11 +106,6 @@ Eukaryotes have proteins starting with Methionine, prokaryotes start with formyl
 
 ![Central Dogma](/img/central_dogma.png)
 
-
-
-ADD TYPES OF PLASIA
-
-
 ## Motivational Interviewing (MI)
  - Increase healthy behaviors: exercise, diet, medication adherence
  - Decrease unhealthy behaviours: substance abuse
@@ -250,3 +144,159 @@ Elicit-Provide-Elicit
  - Affirm and give targeted info
  - Get pt perception and understanding
 
+## Human Pathogens
+ 10x more symbiotic microbes in human body than cells (100 vs 10 trillion). **Pathogens** cause disease and **virulence** is the severity of the disease that they cause.
+
+ |    <br>Feature    |    <br>Prokaryotes    |    <br>Eukaryotes    |
+|---|---|---|
+|    <br>Uni- or   multi-cellular    |    <br>Unicellular<br>   <br>•Bacteria<br>   <br>•Archaea    |    <br>Unicellular <br>   <br>•yeast,   single cell protozoa<br>   <br>Mostly multicellular <br>   <br>•multicellular   protozoa, fungi, plants, animals<br>   <br>    |
+|    <br>Nucleus    |    <br>Absent    |    <br>Present    |
+|    <br>DNA form    |    <br>Circular dsDNA free in the cytoplasm    |    <br>Chromosomes in nuclear membrane    |
+|    <br>Membrane-bound   organelles (mitochondria)    |    <br>Absent    |    <br>Present    |
+|    <br>Ribosome size    |    <br>50S + 30S =   70S    |    <br>60S + 40S = 80S    |
+|    <br>Peptidoglycan in cell wall    |    <br>Yes (most)    |    <br>No    |
+|    <br>Sterols in   membranes    |    <br>No    |    <br>Yes    |
+|    <br>Mitosis    |    <br>No (binary fission)    |    <br>Yes    |
+
+
+### Bacterial Classification
+ - Morphology (cocci, diplococci, bacilli, ) and staining (gram and Acid fast)
+ - Oxygen requirements
+ - Hemolysis patterns and chemicals produced
+ - Nutrient metabolism (lactose fermenting/non-lactose)
+ - Toxin production
+
+ #### Gram Staining (CIAS)
+ 1. Crystal Violet stains all purple
+ 2. Iodine fixes crystal violet to G+
+ 3. Alcohol removes from G-
+ 4. Safranin stains G- red
+
+|         |     Cocci    |     Bacilli/Rods    |
+|---|---|---|
+|     Gram Positive    |        Staphylococcus,     Streptococcus,     Enterococcus    |     Bacillus,     Listeria, Clostridium/Clostridioides,     Corynebacteria,     Lactobacillus    |
+|     Gram Negative    |     Neisseria,     Moraxella, catarrhalis    |       Escherichia   coli,     Klebsiella,     Enterobacter,     Salmonella,     Shigella,     Campylobacter,     Proteus,     Pseudomonas,     Haemophilus,     Bacteroides,     Fusobacterium    |
+
+#### Bacterial Structures
+ - Pili: allows adherence to cell surfaces (fimbria have similar function)
+ - Flagella: allows movement
+ - Capsule: protects from phagocytosis
+ - Cell wall: protects from osmotic pressure damage
+ - Endotoxin: in G- cells outer membrane
+ - Outer membrane: porins, membrane transport proteins
+ - Keratin-like coat that helps resist dehydration, heat, and chemicals
+ - Glycocalyx: slime layer good for adhereing to catheters and foreign bodies
+ - Cytoplasmic Membrane: Site of oxidation and transport enzymes (contains lipotechoic acid in G+)
+
+### Viruses
+
+![Virus Tree](/img/virus_tree.png)
+
+![Virus Cycle](/img/virus_cycle.png)
+
+### Fungi
+- Yeast, mold, or dimorphic fungi
+- Key cell membrane protein is ergosterol. They have glucan layer in cell wall
+
+# Osmosis Notes
+
+## Connective Tissues (1.2)
+
+1. **Loose Connective (Areolar) Tissue**
+   - **Components**: Fibroblasts, collagen fibers, elastic fibers, ground substance.
+   - **Function**: Fills spaces between organs, provides cushioning.
+
+2. **Dense Regular Connective Tissue**
+   - **Components**: Fibroblasts, densely packed collagen fibers.
+   - **Function**: Provides strength in one direction (e.g., tendons, ligaments).
+
+3. **Dense Irregular Connective Tissue**
+   - **Components**: Fibroblasts, densely packed collagen fibers in random directions.
+   - **Function**: Provides strength in multiple directions (e.g., dermis of skin).
+
+4. **Adipose Tissue**
+   - **Components**: Adipocytes (fat cells), minimal extracellular matrix.
+   - **Function**: Energy storage, insulation, cushioning.
+
+5. **Cartilage**
+   - **Components**: Chondrocytes, collagen fibers, proteoglycans in the extracellular matrix.
+   - **Types**: Hyaline, Fibrocartilage, Elastic.
+   - **Function**: Support, cushioning, flexibility.
+
+6. **Bone (Osseous Tissue)**
+   - **Components**: Osteocytes, collagen fibers, hydroxyapatite in the extracellular matrix.
+   - **Function**: Support, protection, calcium storage.
+
+7. **Blood**
+   - **Components**: Red blood cells, white blood cells, platelets, plasma.
+   - **Function**: Transport of nutrients, gases, wastes; immunity; clotting.
+
+
+## Epithelial Tissues (1.2)
+
+1. **Simple Squamous Epithelium**
+   - **Components**: Single layer of flat cells.
+   - **Function**: Diffusion, filtration (e.g., alveoli, blood vessels).
+
+2. **Simple Cuboidal Epithelium**
+   - **Components**: Single layer of cube-shaped cells.
+   - **Function**: Secretion, absorption (e.g., kidney tubules, glandular ducts).
+
+3. **Simple Columnar Epithelium**
+   - **Components**: Single layer of column-like cells; may have microvilli or cilia.
+   - **Function**: Absorption, secretion (e.g., digestive tract).
+
+4. **Pseudostratified Columnar Epithelium**
+   - **Components**: Single layer, but appears layered due to varying cell heights; often ciliated.
+   - **Function**: Secretion, movement of mucus (e.g., respiratory tract).
+
+5. **Stratified Squamous Epithelium**
+   - **Components**: Multiple layers; cells at surface are flat.
+   - **Function**: Protection against abrasion (e.g., skin, mouth, esophagus).
+
+6. **Stratified Cuboidal Epithelium**
+   - **Components**: Multiple layers of cube-shaped cells.
+   - **Function**: Protective tissue, usually found in some gland ducts.
+
+7. **Stratified Columnar Epithelium**
+   - **Components**: Several cell layers; surface cells columnar.
+   - **Function**: Secretion, protection (e.g., male urethra).
+
+8. **Transitional Epithelium**
+   - **Components**: Resembles both stratified squamous and stratified cuboidal; changes shape when stretched.
+   - **Function**: Allows for stretching (e.g., bladder).
+
+
+## Sympathomimetics (1.4)
+
+1. **Epinephrine (Adrenaline): hormone**
+    - Produced by: Adrenal medulla
+    - Actions: Activates both α and β adrenergic receptors. It increases heart rate, force of contraction, and cardiac output (β1 effects), induces bronchodilation (β2 effects), and also has vasoconstrictive effects especially at high doses (α effects) due to preferential binding to β receptor being overwhelmed with greater α number on blood vessels.
+    - Uses: Anaphylaxis, cardiac arrest, bronchospasm, croup, local hemostasis (when combined with local anesthetics).
+
+2. **Isoproterenol**
+    - Produced synthetically.
+    - Actions: It's a non-selective β-adrenergic agonist. Increases heart rate and force of contraction (β1 effects) and causes bronchodilation (β2 effects).
+    - Uses: Was once used for asthma and bradycardia, but there are safer alternatives now. Rarely used in modern medicine due to the potential for causing arrhythmias.
+
+3. **Norepinephrine (Noradrenaline): Neurotransmitter**
+    - Produced by: Locus coeruleus in the brain and postganglionic sympathetic nerve endings.
+    - Actions: Primarily α-adrenergic receptor agonist with some β1 effects. Causes vasoconstriction, increasing systemic vascular resistance and blood pressure.
+    - Uses: Septic shock and other forms of shock to raise blood pressure.
+
+4. **Dopamine**
+    - Produced by: Several areas of the brain, including the substantia nigra.
+    - Actions: At low doses, it stimulates dopamine receptors causing vasodilation in renal and splanchnic circulation. At moderate doses, it stimulates β1 receptors increasing heart contractility and output. At high doses, it has α effects causing vasoconstriction.
+    - Uses: Shock, especially when renal perfusion needs support, and heart failure.
+
+5. **Dobutamine**
+    - Produced synthetically.
+    - Actions: Primarily a β1-adrenergic agonist. Increases the force of heart muscle contraction and, to a lesser degree, heart rate, leading to increased cardiac output.
+    - Uses: Heart failure (especially in acute decompensated cases), cardiac stress testing.
+
+6. **Phenylephrine**
+    - Produced synthetically.
+    - Actions: Selective α1-adrenergic receptor agonist. Causes vasoconstriction.
+    - Uses: Nasal congestion (as a nasal spray), raising blood pressure (intravenous), pupil dilation during ophthalmic procedures, and as a spinal anesthetic adjunct.
+
+![Sympathomimetics](/img/sympathomimetics.png)
