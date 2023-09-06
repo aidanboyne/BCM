@@ -238,7 +238,7 @@ Measuring blood:
 
 OR cell counter which measures change in resistance to count cells automatically
 
-![Blood cell quantification and description](/img/hemocount.png)
+![Blood cell quantification and description](/img/hemocount.PNG)
 
 Blood cells are visualized using **Wright Giemsa Staining**. Important components of RBC include membrane, hemoglobin, enzymes, 2,3-BPG (DPG). Hemoglobin is composed of 2 alpha and 2 beta chains which bind iron (Fe2+) via prophyrin rings. BPG favors taut (T) form --> O2 offloading.
  - Biconcave shape is due to cytoskeleton. It can deform to fit into small capillary spaces. Most important elements include Band3, Ankryn, spectrin, and ___4.1
