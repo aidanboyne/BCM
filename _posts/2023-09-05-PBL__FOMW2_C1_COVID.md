@@ -62,6 +62,8 @@ The hospital antibiogram is a periodic summary of antimicrobial susceptibilities
 
 **Urine Albumin**: analyze urine for albumin/creatine ratio. Albumin should be completely filtered by kidney. A value of 30 or higher suggests you may be at a higher risk for kidney failure.
 
+Routine monitoring of BUN and blood creatinine give kidney trends for in patient.
+
 ### RT-PCR
 
 Reverse transcription polymerase chain reaction (RT-PCR) is a laboratory technique combining reverse transcription of RNA into DNA (in this context called complementary DNA or cDNA) and amplification of specific DNA targets using polymerase chain reaction (PCR). It is primarily used to measure the amount of a specific RNA. This is achieved by monitoring the amplification reaction using fluorescence, a technique called real-time PCR or quantitative PCR (qPCR). [_From Wikipedia_]

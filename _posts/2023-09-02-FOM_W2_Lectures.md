@@ -8,7 +8,279 @@ resource: true
 
 # Week 2 Tuesday Notes
 
+FOR TEST: focus mostly on viral response
+
+Physical barriers
+ - Structural
+ - Chemical
+ - Microbiological
+
+
+* Monocytes (reneform nucleus) leave vasculature into tissues and differentiate into macrophages
+* Innate lymphoid cells act like innate T-cells
+* TLR found on Macrophage and NK cell. Some found only in endosomes (3,7,8,9) others on surface (1,2,4,5,6)
+* Viral infection upregulates TNFa and B type 1
+* ALmost all immune cells are hanging out under the skin and in gut mucosa.
+* Neutrophil, Macrophage, and Dendritic cells are phagocytotic. 
+* Specific adaptive cells are B and T cells
+* Granulocytes: Neutrophil, Basophil, Eosinophil, Mast Cell, NK Cell, platelets
+* Lymphocytes: B, T, NK cells, Innate Lymphoid cells
+* Professional APC: Macrophage, Dendritic, B-cells
+
+#### Lymphoid Organs
+* Primary(central) lymphoid organs: Bone-marrow (clavicle, backbone, pelvis) and thymus (much bigger in pediatric, replaced mostly by fat in adults)
+* Secondary(peripheral) lymphoid organs: Lymph nodes, Spleen, Peyer's patch (all have distinct areas for T and B cells)
+
+Lymphocytes are naive until they bind to cognate antigen (antigen they can bind to stablely)
+Inflammation brings in immune cells and creates hostile environment for pathogens. Inflammation mediated primarily by macrophage.
+Extravasation and diakenesis describe movement of neutrophil and other immune cells.
+
+IgM is initial Ab (with relativley low affinity) that starts B-cell mediated immunity
+
+T-helper cells aid in activation of other cells
+Cytotoxic T-cells kill cells with cognate antigen presentation
+B-cells mediate humoral immunity. They are activated by microbe and then clonally expands with help of helper T-cell. Few then stay as IgM and most start with IgG which gets better binding over time with affinity maturation.
+
+Both B and T cells undergo clonal selection in response to antigen recognition. T-cells only recognize antigen _fragments_ while B-cells recognize _intact_ antigens.
+
+Professional APCs have **costimulatory** signals upon binding
+
+
+MHCI and II look like moose heads. They are unstable without something in peptide binding groove (i.e. antigen)
+ - MHCI beta-2 domain binds CD8 coreceptor. They present endogenous antigen to CD8 cytotoxic cells
+	- Expressed by all cells except RBC
+ - MHCII alpha-3 binds CD4 coreceptor. They present exogenous antigen to CD4 T-helper cells
+	- Expressed only by B, Macrophage, and dendritic cells (and thymic epithelium)
+	- Invariant chain binds peptides in ER and then is cleaved leaving CLIP behind in vesicle
+
+
+* Skin or respiratory pathogens presented in lymph nodes (MALT)
+* Blood pathogens presented in spleen. 
+* Gut pathogens are presented in mesenteric lymph nodes (GALT)
+
+## Immune response to Viral Pathogens
+Immunocompromised patients are prone to developing oppurtunistic infection from normally benign organisms.
+
+### Diagnostic Testing:
+ - Don't need culture for every infection, only when specific organism would change how we treat or narrow differential dx
+ - Diagnostic imaging must be weighed by cost and radiation
+ - Kidney liver function needed for Abx dosing
+ - Clinical syndromes can indicate testing for isolation purposes
+ - With CBC we usually see higher neutrophil counts in bacterial infection.
+
+### ID testing:
+ - Amplified: culture and NAAT (PCR)
+ - Unamplified: microscopy, serology, antigen detection
+
+### Test stats:
+Sensitivity: how many true positives show positive
+Specificity: how many true negatives show negative
+
+Positive predicted value: proportion of subjects with + test who are actually positive
+Negative predictive valueL proportion of subjects with - test who are actually negative
+
+Ideal sputum culture (want from LRT not URT):
+ - Abundant leukocytes
+ - < 10 squamous epithelial cells
+ - Numerous bacteria of single morphotype
+
 # Week 2 Wednesday Notes
+
+## Cell Death, Inflammation, and Tissue Repair
+
+Main death
+ - Apoptosis
+ - Necrosis
+ - Other: Necroptosis, Pyroptosis, Autophagy
+
+If cell cannot adapt to stress or has injurous stimuli --> cell injury.
+
+Injury:
+ - Hypoxia: reduced oxygenation or O2 carrying capacity
+ - Physical Agents
+ - Chemical Agents: drugs, electrolyte imbalances
+ - Infections
+ - Immunologic
+ - Genetic Abnormalities
+ - Nutritional Imbalances
+
+![Apop vs Necro](/img/apop_necro.png)
+
+In apoptosis, scavenger cells (phagocytes) digest apoptotic cell fragments (still membrane contained)
+
+In autophagy, autophagosomes within the cell digest the cell contents. Associated with aging, exercise, and some pathologic processes
+
+
+![Nectrotic Morphologies](/img/necro_morphs.png)
+
+### Inflammation
+1. Recognize injurous stimulus
+2. Recruit inflammatory cells
+3. Remove stimulus (i.e. neutrophil, macrophage)
+4. Regulate the response (e.g. avoid septicemia)
+5. Repair damaged tissue
+
+Process is interplay of cells and chemical mediators.
+
+![Chemical Mediatiors](/img/inflammation_mediator.png)
+
+Limited acute inflammation: no loss of function
+Chronic inflammation: loss of funciton and fibrosis (scar formation)
+
+#### Wound Repair
+
+1st intention: neutrophil inflitration and clot formation, macrophage replacement, total repair within weeks.
+
+2nd intention: Formation of granulation tissue with macrophage, plasma cells, etc. along with fibroblasts. Scar forms and contracts. Loss of function and loss of nerves (sensation loss)
+
+Ex. MI case. Clot blocks blood leading to hypoxia --> less ATP and thus block pumps alongside inflammation --> cell membrane damage allows release of cardiac enzymes (troponin) into bloodstream. This is followed by scar tissue formation.
+
+### Tissue Development
+
+#### Conducting airway
+
+Epithelium
+ - Pseudostratified columnar epithelium
+ - Polarized
+
+5 different cell types
+* Ciliated columnar cells - line apical surface, move via cilliary elevator
+* Goblet cells - produce mucous
+* Brush cells - near bottom
+* Small granular cells (DNES) -
+* Basal cells - regenerative cells
+
+**Trachea**
+ - Pseudostratified columnar epithelium
+ - Lamina propria
+  - Cells
+  - Extracellular matrix
+ - Submucosa
+  - Cells
+  - Extracellular matrix
+
+**Bronchi**
+* Pseudostratified columnar epithelium
+* Lamina propria
+  * Cells
+  * Extracellular matrix
+* Submucosa
+  * Cells
+  * Extracellular matrix
+  * Serous mucous glands (additional mucous production)
+
+**Regular and Terminal Bronchioles**
+* Pseudostratified epithelium transitioning to simple columnar
+  * _Club/exocrine bronchiolar cells (AKA clara cells)_
+* Lamina propria
+  * Cells
+  * Extracellular matrix
+  * BALT (bronchial associated lymphoid tissue): collection of B/T cells at branching points
+* _No Submucosa_
+
+#### Respiratory airway
+
+**Respiratory Bronchioles**
+* Simple cuboidal ciliated epithelium
+* Club cells (exocrine bronchiolar cells)
+  * Non ciliated
+  * Columnar
+  * Surfactant, antimicrobial peptides, detoxify
+* Few alveolar openings
+* Small amounts of smooth muscle in lamina propria
+
+**Alveolar Ducts**
+* Simple squamous/cuboidal epithelium
+* Small amounts of smooth muscle in lamina propria
+* Lead into alveolar sacs
+
+**Alveoli**
+* Simple squamous epithelium
+  * Type I pneumocyte
+    * 95% of alveoli structure
+    * Thin
+    * Optimized for gas exchange
+    * Tight junctions
+  * Type II pneumocyte
+    * Cuboidal
+    * Clustered together where two alveoli unite
+    * Tight junctions
+    * Stem cell properties-make more of both Type I and II cells
+    * Secrete surfactant
+      * Lipids, phospholipids, proteins
+      * Important for lowering surface tension at air-epithelium interface
+      * Prevents collapse of alveoli during exhalation
+      * Antimicrobial
+  * Alveolar Macrophage (Dust Cell)
+    * Found in the alveoli airspace and in interalveolar septum
+      * Use Pore of Kohn to get around
+    * Migrate into the region from the capillary
+    * Either stay or leave via sputum or lymphatics
+    * Scavenge microbes and inhaled environmental particles
+      * Iron and carbon can make them look dark in color
+
+Immune components in the lungs include cilia, mucous (goblet, serous mucous), aveolar macrophages, BALT, lymphocytes and dendritic in lamina propia, respiratory microbiome, tight junctions b/t cells, and surfactants/antimicrobial peptides
+
+## Hematopoiesis
+
+All starts in the bone marrow.
+ - G-CSF: granulocye/neutrophil and stem cell mobilization
+ - GM-CSF: granulocytes and monocytes
+ - M-CSF: monocytes
+ - IL-5: Eiosinophils
+ - EPO: RBC, produced by kidneys
+ - Thrombopoietin (TPO): platelets (made by liver)
+
+Measuring blood:
+ - Plasma
+ - Buffy Coat
+ - Red Cells
+
+OR cell counter which measures change in resistance to count cells automatically
+
+![Blood cell quantification and description](/img/hemocount.png)
+
+Blood cells are visualized using **Wright Giemsa Staining**. Important components of RBC include membrane, hemoglobin, enzymes, 2,3-BPG (DPG). Hemoglobin is composed of 2 alpha and 2 beta chains which bind iron (Fe2+) via prophyrin rings. BPG favors taut (T) form --> O2 offloading.
+ - Biconcave shape is due to cytoskeleton. It can deform to fit into small capillary spaces. Most important elements include Band3, Ankryn, spectrin, and ___4.1
+ - Enzyme pathways allow RBC to generate energy via Embden Meyerhof pathway (type of glycolysis)
+
+![Heme Binding](/img/O2_dissociation.png)
+
+### Granulocytes
+ - Neutrophils: chemotaxis, phagocytosis, killing microorganisms, and respond to infection/inflammation
+  - Primary Granules: myeloperoxidase, lysoztme, elastase
+  - Secondary Granules: lactoferrin, lysozyme, collagenase
+- Eosinophils: electron dense and crystalloid gransules including peroxidase, major basic protein, histaminase, collagenase and acid phosphatase. Allergic and parasitic response. Phagocytotic and killer
+- Basophils: histamin and heparin granules, immediate hypersensitivity reactions
+
+### Monocytes
+ - Bone marrow --> Blood --> mature to macrophage in tissue
+  - Contain many enzymes
+  - Phagocytose particular debris and kill macrophage
+  - Present to T-cells
+  - Destroy RBCs and produce hematopoietic cytokienes (G-CSF, M-CSF)
+
+### Lymphocytes
+ - B, T, NK cells: chronic inflammatory response
+  - B in bone marrow: humoral immunity
+  - T in thymus: cytotoxicity and regulation of autoreactivity
+  - Mature reside in lymph tissues
+  - More reactive lymphocytes have more cytoplasm (and look a bit more irregular)
+
+### Platelets
+ - HSC --> Myeloid stem cell --> commited progenitor --> Megakaryoblast -_endomitosis_-> Megakaryocyte
+ - Small anucleate discoid. MPV 7-11fL
+ - Membrane glycoproteins
+  - GP1b-IX-V: VWF receptor
+  - GP1a-IIa, GPVI: collagen receptor 
+  - GPIIb-IIIa: fibrinogen receptor (very immunogenic)
+ - Granules include alpha (larger more abundant, have VEF, platelet factor 4, fibrinogen, factor V) and delta (ATP, ADP, serotonin, Ca, Mg)
+
+Hemostasis: 
+1. injury --> collagen exposure --> VEF binding to GP1b-IX-V --> platelet activation --> fibrinogen receptor exposure --> platelet crosslinking --> aggregation and plug formation
+2. Activated factors on platelet surface (X, IXa, VIIIa) join with VWF for prothrombin --> thrombin --> fibrinogen to fibrin clot
+
+![Coag Cascade](/img/clotting.png)
 
 # Reading Notes
 
