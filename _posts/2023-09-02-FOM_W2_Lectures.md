@@ -282,6 +282,72 @@ Hemostasis:
 
 ![Coag Cascade](/img/clotting.png)
 
+## Antimicrobial Development
+Requires understanding of pathogen/pathogenisis, disease epidemiology, host/pathogen differences, and body compartment targets.
+
+#### Considerations:
+ - Minimum inhibitory concentration (and ability to reach levels exceeding this in relevant compartment(s))
+  - Determined via tube dilution and subsequent turbidity
+ - Dose determination
+ - ROA
+ - Adverse effects
+ - Eficacy monitoring
+ - Antimicrobial resistance mechanisms
+
+### Testing:
+
+### Preclinical
+1. Identifying the physical and chemical properties of the drug
+2. Testing the drug in vitro
+3. Determining formulation for administration to test subjects and patients
+4. Developing manufacturing methods for the drug
+5. Testing the drug in cultured cells
+6. Testing the drug in animals for safety
+
+Starts with MIC assay, cytotoxicity screens, preliminary ADME in vitro, mouse model, resistance frequency, more advanced ADME (hERG and CYP, geneotoxicity/mutagenicity, receptor enzyme panel and acute toxicity), full PK/PD in 2 species.
+
+#### Toxicity Testing
+* **Reproductive toxicity** –fertility and embryonic development
+* **Genotoxicity** – ability to damage genetic information
+* **Carcinogenicity** – not required for all products; not required before human clinical trials begin
+
+_Other considerations_: Certain abx which kill G+ and anerobic gut microbiota can potentially facilitate _C. difficile_ infection.
+
+![Therapeutic Index](/img/TPI_abx.png)
+
+### Development process
+ 1. Preclinical
+  - IND (for new compound or new use of compound)
+ 2. Clinical Trial
+  - Phase 1: safety
+  - Phase 2: Efficacy
+  - Phase 3: Larger efficacy/approval
+ 3. Review and approval: NDA and long term monitoring
+
+### Antibiotic Targets
+
+![Abx targets](/img/abx_mechanisms.png)
+
+### Clinical Susceptibility
+
+ - The **breakpoint** is the highest plasma concentration of drug that can be safely achieved in patient. If MIC (minimum inhibitory concentration) is greater than the breakpoint, the organism is _resistant_. If it is less, it is _susceptible_. However, if MIC is approaching breakpoint abx may be effective depending on PK/PD at specific location of infection. If breakpoint is listed as _x/y_ then _x_ is the **intermediate** breakpoint and _y_ is the **resistant** breakpoint.
+ - Typically, 2 sites are drawn to check for skin contamination (same organism in each helps rule out). Each site has a set of 2 samples - one for aerobic and one for anerobic inoculation. These sent to lab for culture ASAP.
+ - Generally, for serious infections such as bloodstream infections, endocarditis, meningitis, we use bactericidal drugs
+ - Certain compartments (brain, eyes, prostate) have barriers that some abx have limited or no crossing.
+
+### Antivirals
+
+![Antiviral Drugs](/img/flu_drugs.png)
+
+**Neuraminidase Inhibitors**: After viral replication, progeny virions are also bound to the host cell via sialic acid residues on cell surface glycoproteins. Neuraminidase-mediated removal of these sialic acid moieties permits release of progeny virions.
+
+### Antifungals
+
+![Antifungal Drugs](/img/fungal_targets.png)
+
+
+
+
 # Reading Notes
 
 ## Culture-Based Bacterial Testing

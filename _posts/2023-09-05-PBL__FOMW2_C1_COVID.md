@@ -256,15 +256,8 @@ Primary inflammatory stimuli, including microbial products and cytokines such as
 
  - JAK-STAT: direct IL-6 binding to transcriptional response of inflammatory cytokines via activation of receptor-associated JAK creating STAT transcription factor docking sites.
 
- #### Homeostasis [[ref]](https://www.cell.com/molecular-cell/pdf/S1097-2765(14)00263-9.pdf)
+#### Homeostasis [[ref]](https://www.cell.com/molecular-cell/pdf/S1097-2765(14)00263-9.pdf)
 Cellular homeostasis maintains a number of regulated variables
 including cell volume, osmolarity, electrolyte concentration (e.g.,
 Na+, K+, and Cl- concentrations), pH, membrane potential, and
 concentrations of intracellular ions, proteins, nutrients, cholesterol, oxygen, and reactive oxygen species (ROS)
-
----
-
-* How does a secondary bacterial infection occur? How does the primary infection (COVID) impact immune system defenses?
-    * When to check for secondary bacterial infection?
-* What are the molecular processes of inflammation?
-* How does COVID-19 affect microvasculature?
