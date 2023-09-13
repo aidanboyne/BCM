@@ -131,7 +131,19 @@ Very easy to administer. However, enteral administration typically has slower on
 - Sympathetic nerves found from **T1-L2** (14 pairs of origins). Presynaptic sympathetics (myelinated) arise in lateral horn and use sympathetic chain as elevator to required spinal nerve and synapse onto soma of postsynaptic sympathetic fiber. Postsynaptic fiber (unmyelinated) will hitchhike on spinal nerve to target tissue.
 - Every muscle has multiple innervating nerves (myotome) for redundancy.
 
-![Neuron Diagram Finished]()
+### Testing
+
+Reference range is 2 SD of mean of normal people without disease covering 95% of the population.
+- Screening: No symptoms, impacted by prevalence, determine therapy and predict future
+  - Pregnancy, PAP, mammography, COVID, TB, Blood pressure, HIV...
+- Diagnostic: symptomatic, impacted by prevalence, determines therapy and predicts futures. ID or characterize disease
+  - CT, Biopsy, PCR, EKG, A1C, Kidney function...
+- Prognostic: patient has disease, says something about future. How likely to develop
+  - Staging, Grading...
+- Therapy Guiding: similar to above but determine what therapy, dose, and measure how well it is working
+  - Kidney Function, Liver Function, Abx Susceptibility
+
+Same test can fit multiple categories depending on the situation (i.e. HbA1C)
 
 
 
@@ -152,7 +164,7 @@ Most tissues: ammonia + glutamate --> glutamine via glutamine synthase. This is 
 
 ### Glycolysis
 
-![glycolysis](/img/glycolysis.PNG)
+![glycolysis](/img/glycolysis.png)
 
 ### Ketone Body Metabolism
 
@@ -541,3 +553,136 @@ Organs that secrete steroid (cholesterol derived) or non-steroid hormones into t
 
 The **pancreas** has endocrine function (insulin from Beta cells and glucagon from Alpha cells), along with exocrine function (digestive enzymes)
 
+## **Anatomy of the Nervous System**
+
+The nervous system is primarily categorized into two main parts:
+1. **Central Nervous System (CNS)**: Comprises the **brain** and **spinal cord**.
+2. **Peripheral Nervous System (PNS)**: Consists of all nervous tissues outside the CNS.
+
+### **Neurons (Nerve Cells)**
+- Fundamental units of the nervous system.
+- Main section is the **cell body** which contains the nucleus.
+- Extensions from the cell body: 
+  - **Dendrites**: Short projections that receive electrical signals.
+  - **Axon (Nerve Fiber)**: Single long extension that transmits electrical impulses.
+    - Many axons have a **myelin sheath**, a lipid-protein layer that accelerates impulse conduction.
+    - The end of an axon is the **axon terminal** which can connect to a dendrite of another neuron at a **synapse**, enabling neuron communication.
+- Types of Neurons:
+  - **Multipolar Neurons**: Common type, with multiple dendrites and a single axon. E.g., motor neurons controlling voluntary muscles.
+  - **Bipolar Neurons**: One dendrite and one axon, often acting as sensory neurons. E.g., cells in the nasal cavity for the sense of smell.
+  - **Pseudounipolar Neurons**: Seemingly single but double process extending from the cell body, with both sensory and central processes.
+
+### **Neuroglia (Glial Cells)**
+- Supporting cells of the nervous system.
+- Functions include nourishing and aiding neurons.
+- There are more glial cells than neurons in the body (5:1 ratio).
+
+### **Central Nervous System (CNS)**
+- **Gray Matter**:
+  - Found in the outer part of the brain as the **cerebral cortex**.
+  - Contains neuron cell bodies.
+  - In the spinal cord, it appears butterfly-shaped with **anterior** and **posterior horns**.
+- **White Matter**:
+  - Inner part of the brain, mainly axons transmitting signals.
+  - The myelin sheath gives it a white appearance.
+  - In the spinal cord, it surrounds the gray matter.
+- **Nucleus**: A group of neuron cell bodies in the CNS. E.g., basal nuclei in the brain.
+- **Tract**: A bundle of axons in the CNS. E.g., corticospinal tract.
+
+### **Peripheral Nervous System (PNS)**
+- **Ganglion**: Group of cell bodies in the PNS. E.g., dorsal root ganglion.
+- **Nerve**: Bundle of axons in the PNS.
+  - **Spinal Nerves**: Arise from the spinal cord. They combine sensory (**dorsal roots**) and motor (**ventral roots**) fibers. There are 31 pairs of spinal nerves categorized by region and level (e.g., T5 spinal nerve for the fifth thoracic region). They further branch into **anterior** and **posterior rami**.
+  - **Cranial Nerves**: 12 pairs arising from the brain, mainly serving the head and neck. They can be sensory, motor, or mixed.
+
+### **Dermatomes and Myotomes**
+- **Dermatome**: Skin area innervated by a specific spinal nerve. E.g., T10 dermatome around the belly button.
+- **Myotome**: Muscle area supplied by a particular spinal nerve.
+- They help visualize regions supplied by each spinal nerve pair.
+
+## **Peripheral Nervous System (PNS) Subdivisions**
+
+### **1. Somatic Nervous System**
+- **Function**: Controls voluntary actions and conveys sensory information.
+- **Somatic Sensory Fibers**: Transmit sensory information such as touch, pain, temperature, and proprioception. 
+- **Somatic Motor Fibers**: Innervate skeletal muscles to control voluntary actions.
+
+### **2. Autonomic Nervous System (ANS)**
+Controls involuntary body activities.
+- **Visceral Motor Fibers**: Carry motor signals to smooth muscle (e.g., intestinal walls for peristalsis), cardiac muscle, and glands.
+- **Visceral Sensory Fibers**: Carry sensory information from organs to CNS.
+  - **Function**: Continuously regulate the activity of the visceral motor neurons of the ANS. 
+  - **Example**: Monitoring oxygen levels in blood, blood pressure, or stomach fullness after eating.
+
+### **3. Special Sensory Fibers**
+Convey sensory information related to special senses: smell, sight, taste, hearing, and balance. While not strictly part of the somatic or autonomic systems, they can influence both.
+
+### **Autonomic Nervous System (ANS) Details**
+#### **Subdivisions**:
+1. **Sympathetic Nervous System (SNS)**: 
+   - Activated during 'fight or flight' situations.
+   - Effects include pupil dilation, increased heart rate and blood pressure, and prioritizing blood flow to essential organs like the brain and muscles.
+   - Reduces activity in non-essential organs during stress (e.g., kidneys, digestive system).
+2. **Parasympathetic Nervous System (PSNS)**:
+   - Activated during 'rest and digest' scenarios.
+   - Reduces heart rate and blood pressure, increases digestion and blood flow to non-essential organs.
+3. **Enteric Nervous System**: Sometimes considered the third subdivision. Regulates the gastrointestinal tract, capable of acting independently but also influenced by the CNS.
+
+#### **Neural Communication in ANS**:
+- **Preganglionic Neuron**: First neuron sending a signal from the CNS. All arise from between **T1-L3**. and leave through anterior rami.
+  - Nuclei in the **intermediolateral nucleus**.
+  - Exit via **anterior root** and enter **anterior rami** of spinal nerves **T1-T3**.
+  - Upon entering the sympathetic chain, these fibers have four potential pathways to synapse with postganglionic counterparts:
+    1. **Direct Synapse**: Immediately connect with the postganglionic cell body in the **paravertebral ganglion** at the same vertebral level.
+    2. **Ascend in Chain**: Pass through the paravertebral ganglion, ascend the sympathetic chain, and synapse at a higher vertebral level.
+    3. **Descend in Chain**: Pass through the paravertebral ganglion, descend the sympathetic chain, and synapse at a lower vertebral level.
+    4. **Splanchnic Route**: Bypass synapsing in the paravertebral ganglia, continue via **splanchnic nerves** to synapse in **prevertebral ganglia** located anterior to the aorta.
+- **Postganglionic Neuron**: Neuron that the preganglionic neuron synapses with, usually the effector neuron.
+  1. Those synapsing in the **paravertebral ganglia** enter the **gray rami communicantes**, then re-enter and travel along spinal nerves to their target organs.
+  2. Fibers bypassing the sympathetic chain continue to the **prevertebral ganglia** to synapse on postganglionic fibers targeting specific organs.
+- **Sympathetic Neurons**: Have _short_ preganglionic and _long_ postganglionic fibers.
+- **Parasympathetic Neurons**: Have _long_ preganglionic and _short_ postganglionic fibers.
+
+### **Enteric Nervous System (Gut Brain)**
+- **Subdivisions**: 
+  - **Submucosal Plexus (Meissner Plexus)**: Regulates secretion and absorption in the mucosa.
+  - **Myenteric Plexus (Auerbach Plexus)**: Regulates tone and contractions in the gut wall.
+- Can act autonomously but influenced by the CNS. The PSNS stimulates digestive activities, while the SNS inhibits them.
+
+## **Lymphatic System Overview**
+
+- **Primary Function**: Protects the body from invaders, maintains fluid levels, and absorbs dietary fat.
+- **Components**:
+  - **Lymph**: Clear or slightly yellow fluid transported through lymphatic vessels.
+  - **Lymphocytes**: White blood cells that play a central role in immune responses.
+  - **Lymphatic vessels and plexuses**: Tubes similar to blood vessels that transport lymph.
+  - **Lymph nodes**: Filter lymph and house lymphocytes and other white blood cells.
+  - **Other lymphoid organs**: Organs like thymus, bone marrow, spleen, and tonsils that produce or house lymphocytes.
+
+### **Lymph and Lymphatic Vessels**
+
+- **Origin**: About 10% of fluid from capillary beds leaks into the extracellular space, becoming lymph when entering lymphatic capillaries.
+- **Lymphatic Capillaries**: Tiny, porous capillaries scattered throughout the body, forming lymphatic plexuses.
+- **Lymphatic Vessels**: Larger vessels formed by merging capillaries, which carry lymph through lymph nodes and eventually into lymphatic trunks.
+- **Lymphatic Trunks**: Drain large body regions. For example, subclavian trunks drain the upper limbs.
+- **Lymphatic Ducts**: Final, larger channels formed by converging trunks. There are two main ducts:
+  - **Right Lymphatic Duct**: Drains lymph from the right side of the head, neck, chest, and upper limb. It empties into the right venous angle (junction of right internal jugular vein and right subclavian vein).
+  - **Thoracic Duct**: Drains lymph from the rest of the body. Begins as the cisterna chyli, passes through the thoracic cavity, and empties into the left venous angle. Ultimately, its contents mix with blood in the superior vena cava, heading to the right atrium of the heart.
+
+### **Lymph Nodes**
+
+- **Function**: Filter lymph and check for foreign invaders.
+- **Placement**: Typically close to each other, either superficial or deep in the body.
+- **Major Groups**:
+  - **Upper Body**:
+    - **Cervical Lymph Nodes**: Both sides of the neck.
+    - **Posterior Mediastinal Lymph Nodes**: Between the heart and vertebral column.
+    - **Axillary Lymph Nodes**: In the axilla or armpit region.
+    - **Cubital Lymph Nodes**: In the cubital fossa on the anterior part of the elbow.
+  - **Lower Body**:
+    - **Lumbar Lymph Nodes**: Near the inferior vena cava and abdominal aorta.
+    - **Iliac Lymph Nodes**: Around the iliac blood vessels.
+    - **Inguinal Lymph Nodes**: Around the groin.
+    - **Popliteal Lymph Nodes**: Behind the knees.
+
+This summary provides an overview of the lymphatic system, emphasizing its components and the journey of lymph through the body, and highlighting the major lymph node groups and their locations.
