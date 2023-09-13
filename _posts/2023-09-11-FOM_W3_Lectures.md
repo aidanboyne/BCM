@@ -149,6 +149,68 @@ Same test can fit multiple categories depending on the situation (i.e. HbA1C)
 
 # Week 2 Wednesday Notes
 
+## Embryology Weeks 1-4
+ 1. Capacitation - secretion of proteins to help sperm migration.
+ 2. Sperm go through corona radiata, release **acrosin** to allow entry to zona pellucida, release DNA
+ 3. **Cortical Granules** released to prevent further sperm penetration (**zona reaction**)
+ 4. Zygote divides over 5 days to become first morula then blastocyst. Embroyblast cells become fetus and trophoblast become placenta. Space is called **blastocoel**.
+  - Incorrect inmplantation at blastocyst stage can cause massive hemmorage (ectopic pregnancy)
+ 5. **Syncitiotrophoblasts** penetrate **decidua basalis** of uterus
+ 6. W2 formation of hypoblast (lines yolk sac) and epiblast (becomes germ layer, lines aniotic cavity (also developes into extraembryonic mesoderm)). 2 trophoblast layers, embryoblast differentiates into 2, two cavities form, extraembryonic mesoderm splits into 2 (which will form the chorion)
+  - Trophoblast --> cytotrophoblasts and syncitiotrophoblast
+  - Extraembryonic mesoderm --> splanchic (inner) and somatic (outer)
+ 7. Day 14: primitive groove formation. Hypoblast has **HEX1 gradient** high out towards edges that causes invagination from caudal to cranial, with thickening at cranial forming the primitive pit with an elevation known as the primitive node which controls lateralization and cranial caudal distinction. Along the groove, epiblast cells start to dive in (due to **FGF8 expression**) into E-Cadherin between the epiblast and hypoblast and form endoderm (deep) and embryonic mesoderm (intermediate).
+
+ ## Neurlation
+ 1. Prenotochordal cells of mesoderm clump centrally and form notochord (form nucleus pulposa) and signal ectoderm above to thicken forming neural plate. The ventral side of the neural tube has neural crest cells which migrate throughout the trilaminar disc and form various pre-organ tissues. The tube is open at the anterior (cranial) and posterior (caudal) ends. Cranial seals first around 25 (failure can cause anencephaly or encephalocele) and caudal closes around 28 (failure causes spina bifida or spina bifida occulta). The neural tube releases **Sonic Hedgehod (SHH)** which is key for differentiation of cells: induces somite differentiation and anterior-posterior limb axis patterning.
+
+
+## Endoderm
+* Epidermis
+* Lens and retina of eye
+* Epithelial lining of oral cavity
+* Sensory regions of ear
+* Olfactory epithelium
+* Parotid, sweat, mammory glands
+* Anal canal below pectinate line
+* Brain, spinal cord
+* Neural Crest: EMO PASSES
+* Enterochromaffin cells, Melanocysts, Odontoblasts, PNS ganglia, Adrenal medulla, Schwan cells, Spinal membrane, Endocardial cushions, Skull bones
+
+## Mesoderm
+
+ - Lateral plate mesoderm splits into parietal/somatic and splanchnic/visceral layers
+ - Parietal layer forms parietal pleura, dermis, bones and connective tissue of limbs
+ - Visceral layer forms wall of gut tube, inner lining of body cavities (pleural, pericardial, peritoneal), cardiovascular system
+  - Lateral folding will create primitive heart tube
+
+
+* Mesothelium (peritoneal, pleural, pericardial)/Muscle (striated, smooth, cardiac)/Myeloid stem cells
+* Erythroid stem cells
+* Spleen/Soft tissue/Serous linings/Somite
+* Osseous tissue/Outer layer of adrenal gland (cortex)/Ovaries
+* Dura/Ducts of genitalia/Dermis
+* Endothelium/Entire trunk
+* Renal
+* Microglia/Mesenchyme/Male gonad
+
+
+## Foregut (Endoderm) Derivatives
+* Little Embryo People Do Like Swallowing, Producing Gas
+* Lungs
+* Esophagus
+* Pancreas
+* Duodenum (proximal)
+* Liver
+* Stomach
+* Pancreas 
+* Gallbladder
+
+
+
+### Cardiac Embryogenisis
+
+
 # Reading Notes
 
 # Osmosis Notes
