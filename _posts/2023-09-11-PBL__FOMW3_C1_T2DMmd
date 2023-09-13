@@ -1,0 +1,342 @@
+---
+title: PBL - Type II Diabetes Mellitus
+date: 2023-09-11 12:00:00 -500
+categories: [pbl]
+tags: [fom]
+---
+
+**Goal:** To describe the pathophysiology, diagnosis, and treatment of type 2 diabetes.
+
+## General Science
+
+### Development of T2DM
+High levels of glucose cause prolonged insulin expression which in turn causes insulin receptor internalization: **insulin desensitivity**. Initially, there is a compensatory increase in insulin secretion, which maintains glucose levels in the normal range. Advanced disease causes beta cells change and dysfunction, and insulin secretion is unable to maintain glucose homeostasis. Most of the patients with T2DM are obese or have a higher body fat percentage, distributed predominantly in the abdominal region. This adipose tissue itself promotes insulin resistance through various inflammatory mechanisms, including increased FFA release and adipokine dysregulation.
+
+Exercise can help _prevent_ T2DM as it upregulates GLUT4 expression in muscle cells, lowering blood sugar and slowing release of additional insulin. 
+
+#### Prediabetes
+
+The World Health Organization (WHO) has defined prediabetes as a state of intermediate hyperglycemia using two specific parameters, impaired fasting glucose (IFG) defined as fasting plasma glucose (FPG) of 6.1-6.9 mmol/L (110 to 125 mg/dL) and impaired glucose tolerance (IGT) defined as 2 h plasma glucose of 7.8-11.0 mmol/L (140-200 mg/dL) after ingestion of 75 g of oral glucose load or a combination of the two based on a 2 h oral glucose tolerance test. [[ref]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4360422/#:~:text=The%20World%20Health%20Organization%20(WHO,plasma%20glucose%20of%207.8%2D11.0) CDC suggested that 37% of United States adults older than 20 years and 51% of those older than 65 had prediabetes in 2009-2012 defined by fasting glucose or HbA1c levels. annual incidence rate of diabetes was found to be 4%-6% for isolated IGT, for isolated IFG 6%-9% and for both IGT and IFG was 15%-19%.
+ - Increased kidney disease
+ - Increased neuropathy
+ - Decreased parasympathetic cardiac regulation
+ - Increased retinopathy 
+
+### Genetic Predisposition
+
+- **TCF7L2 (Transcription factor 7-like 2)**: The most consistently associated gene with T2DM risk across multiple populations. Variants of this gene (part of Wnt signaling pathway) can increase the risk of T2DM as dysfunctional TCF7L2 is associated with adipocyte glucose intolerance hypertrophy
+- **SLC30A8**: Encodes a zinc transporter in beta-cells and is linked to impaired insulin secretion.
+- **PPARG (Peroxisome proliferator-activated receptor gamma)**: Involved in the regulation of fatty acid storage and glucose metabolism. Mutations can lead to insulin resistance.
+- **KCNJ11 (Potassium Voltage-Gated Channel Subfamily J Member 11)**: Encodes a subunit of the potassium channel in pancreatic beta-cells. Variants can affect insulin secretion.
+- **ABCC8**: Works closely with KCNJ11 and also affects the potassium channels in beta-cells.
+- **CDKN2A/B**: Involved in cell cycle regulation and beta-cell function.
+- **IGF2BP2 (Insulin-like growth factor 2 mRNA-binding protein 2)**: Its exact role in T2DM is not clear, but it's believed to affect insulin secretion and beta-cell function.
+- **CDKAL1**: Implicated in insulin secretion.
+- **HHEX (Hematopoietically-expressed homeobox)**: Linked to impaired beta-cell function.
+- **MTNR1B**: Encodes melatonin receptor 2, which has been associated with higher fasting glucose levels and impaired insulin secretion.
+
+#### Other factors
+ - Higher BMI, especially in the **obese** range, is a strong predictor of T2DM. Obesity leads to **insulin resistance**, a key factor in the development of T2DM.
+ - **Increased Risk with Age**: The risk of developing T2DM increases with age, especially after age 45. However, recent trends show onset in younger populations as well.
+    - Age-related factors include decreased muscle mass leading to reduced glucose disposal, increased fat distribution, and decreased pancreatic beta-cell function.
+
+### Glucose Metabolism
+
+Glucose metabolism involves multiple processes, including glycolysis, gluconeogenesis, and glycogenolysis, and glycogenesis. Glycolysis in the liver is a process that involves various enzymes that encourage glucose catabolism in cells. One enzyme, in particular, glucokinase, allows the liver to sense serum glucose levels and to utilize glucose when serum glucose levels rise, for example, after eating. During periods of fasting, when there is no glucose consumption, for example, overnight while asleep, the process of gluconeogenesis takes place. [[ref]](https://www.ncbi.nlm.nih.gov/books/NBK560599/). The 
+
+#### Glycolysis
+
+**Key Irreversible Steps/Enzymes**
+1. Glucose --> Glucose-6-P (Consumes ATP)
+     - **Hexokinase**: in most tissues other than pancreatic-beta cells and liver. Quickly reaches v<sub>max</sub> and is _inhibitied_ by glucose-6-P.
+     - **Glucokinase**: in liver and pancreatic-beta-cells. Very high saturation point, takes in glucose at rate proportional to blood concentrations. Stimulated insulin
+2. Fructose-6-P --> Fructose-1,6-BP (Consumes ATP, committed to glycolysis), **Rate limiting step**
+    - Stimulated by AMP, citrate, and insulin via **F26BP** **upregulation** (insulin _dephosphorylates_ PFK2 and F26BPase)
+    - Inhibited by ATP and glucagon via **F26BP** **downregulation** (glucagon _phosphorylates_ PFK2 and F26BPase)
+3. Phosphoenolpyruvate (PEP) --> Pyruvate (Generates ATP)
+    - **Pyruvate kinase** inhibited by ATP and alanine, glucagon/epinepherine (phosphorylate PK), **feedforward activation** by F16BP.
+        - Skeletal muscles degrade protein --> produce alanine --> goes to liver --> liver converts alanine to glucose via alanine transaminase (we DON'T want liver glycolysis in this situation).
+
+Pyruvate then converted to Acetyl-CoA for TCA cycle or lactate (via LDH) for NAD+ regeneration. NAD+ needed to continue glycolysis. With O2 it is generated in TCA. However need lactate in O2 poor conditions. Too much --> lactic acidosis.
+
+**Net**: 2ATP and 2NADH. With O2 and mitochondria 30-32 depending on shuttle. No O2 or mitochondria --> 2ATP + 2Lactate + 2H20
+
+![Metabolic Pathways](/img/metabolic_summary.png)
+
+#### Gluconeogenesis
+
+Converts pyruvate to glucose. Costs energy. Used by liver to form glucose for body from pyruvate or other sources (lactate, AAs, glycerol, odd chain fats). Pyruvate can be converted in alanine cycle in muscle, to lactate in anerobic metabolism (Cori Cycle), **Acetyl-CoA (TCA)**, or used in **gluconeogenesis**.
+
+ATP inhibits TCA --> higher Acetyl-CoA --> activates pyruvate carboxylase (inactive without Acetyl-CoA).
+
+1. Pyruvate --> PEP
+    - Pyruvate Carboxylase with CO2, ATP, Biotin to add carbon in mitochondria 
+        - Biotin is cofactor for carboxylation (adds carboxylic acid)
+    - Malate shuttle to cytoplasm
+    - PEPCK uses GTP to add phosphate
+2. Fructose-1,6-BP --> Fructose-6-P via Fructose 1,6 bisphosphotase 1. **Rate limiting step**
+    - Activated via ATP
+    - Inhibited via AMP and Fructose-2,6-bisphosphate
+3. Glucose-6-Phosphate --> Glucose via Glucose-6-phosphotase
+    - Occurs in liver in kidneys in **ER**, other organs shunt to glycogen
+
+
+**Fructose 2,6 Bisphosphate**
+ - High levels --> Glycolysis
+ - Low levels --> Gluconeogenesis
+ - Made by PFK2 (up with insulin which dephosphorylates), degraded by Fructose 1,6 Bisphosphotase (up with glucagon which phosphorylates)
+
+
+Gluconeogenesis occurs when there is glucose synthesis from non-carbohydrate components in the mitochondria of liver cells. Notably, decreased insulin sensitivity in the liver in T2DM patients results in **increased** hepatic gluconeogenesis (can cause postprandial hyperglycemia).
+
+#### Glycogen
+
+Glycogen is polysaccharide made of repeating glucose units abundant in muscle and liver. Linked with 1-4 (straight) and 1-6 (branched) linkages. Branching increases solubility.
+
+**Glycogen synthesis**
+Glycogen is synthesized via Glucose-6-Phosphate --> Glucose-1-phosphate via UTP --> Unbranched glycogen via glycogen synthase --> Branched glycogen via branching enzyme. Last 3 steps are **irreversible**
+ - **Insulin** results in dephosphorylation of both, increasing glycogen synthesis via protein phosphatase I through RTK.
+ - Increased by G6P
+ 
+
+**Glycogenolysis**
+ - Phosphorylase: removes glucose from glycogen chain forming G1P
+    - Stops when brnaches decreased to 2-4 linked glucose (limit dextrins) which are cleaved by **debranching enzyme** which releases one G1P and links rest to another dextrin
+    - Stabilized by B6
+ - **Glucagon and Epinepherine** favor lysis via phosphorylation of glycogen phosphorylase (increased activity) and glycogen synthase (decreased activity) via cAMP and PKA
+ - Increased by AMP, inhibited by ATP and glucose
+ - Glucose can be released by liver as it has glucose-6 phosphatase
+ - Unbranched glycogen can be directly converted to glucose via alpha-1,4-glucosidase in lysosomes.
+
+Muscles activate glycogen phosphorylase via calcium/Calmodulin.
+
+Von Gierke's disease (liver enlargement, no muscle G6Pase problem), Pompe's disease (often death in infancy, heart failure, a14gase problem), Cori's disease (muscle and liver issues, debranching problem), and McArdle's disease (adolecent, no liver, only muscle, Glycogen-Pase problem) are **glycogen storage diseases**.
+
+#### HMP Shunt
+
+Shunts Glucose-6-P away from glycolysis and synthesizes NADPH and Ribose 5-phosphate (nucleotide synthesis). All occur in cytosol as oxidative (irreversible and rate limiting, generate NADPH), and reductive (reversible).
+
+ - **Oxidative**: 
+    - **2NADP+ --> 2NADPH** via _Glucose-6-Phosphate Dehyodrogenase_ and another enzyme --> **Ribulose-5P**. Produce 1 CO2
+ - **Reductive**
+    - **Ribulose-5P --> Fructose-6-P**. Important enzyme is _Transketolase_ which forms F6P and **requires thiamine (B1**).
+
+NADPH _not_ used for ATP generation. Used for _reductive_ reactions in FA synthesis and steroid synthesis. Protects from oxidative damage via H2O2 degradation in RBC. Allows respiratory burst.
+
+#### Pyruvate Dehydrogenase
+
+Converts pyruvate to Acetyl-CoA for use in TCA. Pyruvate goes into inner membrane of mitochondria. Low levels increase pyruvate carboxylase --> gluconeogenesis. Low levels allow pyruvate dehydrogenase complex action:
+
+Complex structure
+ - Pyruvate dehydrogenase: regulated by kinase (inactivate in low NAD or high ACoA, ATP) and phosphatase (activates in high NAD, ADP, Ca2+)
+ - Dihydrolipoyl tansacetylase
+ - Dihydrolipoyl dehydrogenase
+    - Complex requires NAD+, FAD+, CoA, Thiamine, and Lipoic acid
+
+Malnourished pt. (i.e. alcoholics) should be given thiamine ASAP with glucose to allow them to metabolize the glucose in TCA.
+
+#### TCA cycle
+
+Converts Acetyl-CoA to CO2. All reactions in mitochondria. Produces NADH, FADH2, GTP. No net change in carbon from Acetyl-CoA so even chain FA conversion to Acetyl-CoA _cannot_ be used in gluconeogenesis.
+
+**Important Steps**
+1. Oxaloacetate + ACoA --> Citrate
+    - Citrate synthase: _inhibited_ by ATP
+    - Citrate itself inhibits PFK1 and activate ACoA carboxylase (FA synthesis)
+    - Low oxaloacetate (from use in gluconeogenesis) and high ACoA in fasting triggers ketone body synthesis.
+2. Isocitrate --> alpha-ketoglutarate + CO2 + NADH
+    - Isocitrate dehydrogenase: _inhibited_ by ATP, NADH - _activate_ by ADP, Ca2+
+    - One of rate limiting steps
+3. alpha-ketoglutarate --> succinyl-CoA + CO2 + NADH
+    - alpha-ketoglutarate dehydrogenase is similar complex to pyruvate dehydrogenase with same cofactors
+        - Inhibited by succinyl-CoA, NADH
+        - Activated by Ca2+
+4. Succinate --> Fumarate via **Succinate Dehydrogenase**
+    - Also Complex II in ETC
+    - Produces FADH2
+    - Fumarate is linking to **Urea** cycle and some AA breakdown
+5. Malate + NAD+ --> Oxaloacetate + NADH (reversible)
+    - Malate itself can _cross membrane_
+    - Shuttles NADH into mitochondria for ETC
+    - Shuttles Oxaloacetate out for gluconeogenesis
+
+![Malate Shuttle](/img/malate_shuttle.jpg)
+
+#### Lipids
+Include FA, TG, cholesterol, phospholipids, etc. TG and cholesteryl ester are completley hydrophobic, while all others are mostly hydrophobic. FA synthesized mostly in liver, mammary glands, and some in adipose. Stored primarily as TG in adipose tissue. Broken down via beta-oxidation to ACoA to enter TCA cycle.
+
+**Synthesis**: high energy state, lots of ACoA and ATP --> isocitrate dehydrogenase in TCA is _inhibited_ so we divert citrate to FA synthesis. 
+ 1. Citrate shuttle: ACoA + Oxaloacetate --> Citrate. Citrate shuttled from mitochondria to cytosol. 
+ 2. ATP + CoA + Citrate --> ACoA + ADP + Oxaloacetate via _ATP-Citrate Lyase_. 
+ 3. ACoA --> Malonyl-CoA (Acetyl-CoA Carboxylase)
+    - **Rate limiting step**, requires Biotin and CO2
+    - Activated by Insulin and Citrate
+    - Inhibited by Glucagon and Epinephrine
+    - Malonyl-CoA _inhibits_ beta-oxidation
+4. Fatty acid synthase: combines ACoA and malonyl-CoA carbonds to make 16C Palmitate
+    - Requires NADPH (from HMP Shunt)
+
+**Lipolysis**: Hormone sensitive lipase activated by glucagon and epinepherine. Breaks TG to free fatty acids (transported by albumin) and glycerol. **RBC and Brain** cannot use FA for energy.
+ - Glycerol in liver: glycerol --> glycerol-3-P via glycerol kinase. glycerol-3-P --> DHAP (glycolysis intermediate)
+ - **Beta-oxidation**: removes 2C's from FA at a time and produces ACoA, NADH, FADH2
+    1. Fatty acid --> Fatty-Acyl-CoA (req. CoA and ATP)
+    2. Transport from cytosol to inner mitochondria via **carnitine shuttle**
+        - Fatty-Acyl-CoA --> Acyl Carnitine via CPT-1 (inhibited by Malonyl-CoA)
+        - Acyl Carnitine moves into mitochondrial matrix
+        - CPT2 converts back to Fatty-Acyl-CoA
+    3. Beta-oxidation cycles. Each one cleaves between alpha and beta carbon, oxidizes beta, and re-attaches CoA. Each one cycle results in **one ACoA, NADH, FADH2.**
+
+* Carnitine deficiencies cause hypoketotic hypoglycemia, cardiomyopathy, and muscle weakness in exercise.
+* MCAD deficiency causes low metabolism of FA (6-10C) --> high acylcarnitine and dicarboxylic acids.
+
+#### Glucagon
+Acts on the:
+- Liver: to promote gluconeogenesis, glycogen breakdown, and decrease in glycolysis
+- Adipose: increased activity of adipose triglyceride lipase (leads to more non-esterified fatty acids in the blood) and reduced malonyl-CoA
+
+### Insulin Pathway
+
+![img](/img/insulin_action.png)
+
+Note insulin receptor has associated receptor tyrosine kinase (β-subunit). Binding to alpha-subunits activity causes an autophosphorylation of several tyrosine residues in the β-subunit and results in signal amplification.
+
+### Insulin resistance and dependency
+
+An increase of P85a (isoform of P85) results in a competition between the later and the P85-P110 complex to the IRS binding site, reducing the PI-3k activity and leading to insulin resistance. Increased serine phosphorylation of IRS is involved in the insulin resistance by reducing their ability to attract PI3K. The serine phosphorylation can also lead to degradation of IRS-1
+
+#### Exercise and blood glucose
+
+Consistent exercise can upregulate skeletal muscle GLUT4 expression. This decreases blood sugar by taking more glucose into muscle cells.
+
+## Diagnosis
+
+### Routine Tests
+
+For most adults, depending on age and health history, doctors will recommend a screening schedule that includes regular physical exams, body mass index (BMI), skin checks, cholesterol and blood pressure screening, fasting blood tests, eye exams, immunizations and screening for sexually transmitted diseases. Patient who are obese or have family history of T2DM will often get HbA1C tested as well.
+
+On the H&P, patients with diabetes mellitus most commonly present with increased thirst, increased urination, lack of energy and fatigue, bacterial and fungal infections, and delayed wound healing. Some patients can also complain of numbness or tingling in their hands or feet or with blurred vision.
+
+### Diabetes Testing
+
+#### Fasting Blood Sample and Hemoglobin A1c
+
+- **Fasting Blood Sample**: A blood test taken after an individual has not eaten for at least 8 hours. It's commonly used to test for **diabetes**, **pre-diabetes**, and other conditions.
+  - **Normal Range**: 70-100 mg/dL (milligrams per deciliter). Values above 126 mg/dL on two separate tests indicate diabetes.
+- **Hemoglobin A1c (HbA1c)**: Measures the average blood sugar level over the past two to three months. Indicates how well blood sugar is being controlled and is used to diagnose **diabetes** and **pre-diabetes**.
+  - **Normal Range**: Less than 5.7%. Pre-diabetes is diagnosed between 5.7% and 6.4%. A value of 6.5% or higher on two separate tests indicates diabetes.
+
+#### **Oral Glucose Tolerance Test (OGTT)**
+  
+- A test to diagnose **diabetes**, **pre-diabetes**, and **gestational diabetes**. It involves fasting overnight, drinking a sugary solution, and then having blood samples taken at intervals to measure how the body processes glucose.
+  - **Normal Range**: Less than 140 mg/dL two hours after drinking the glucose solution. A reading between 140 and 199 mg/dL indicates pre-diabetes, while a reading of 200 mg/dL or above suggests diabetes.
+
+#### **Comparison: Sensitivity and Specificity**
+
+- **Sensitivity**: Refers to a test's ability to correctly identify those with a disease.
+- **Specificity**: Refers to a test's ability to correctly identify those without the disease.
+- **Fasting Blood Sample Test**: High sensitivity but can have false positives, especially if the patient isn't truly fasting.
+- **OGTT**: Considered the gold standard for diagnosing diabetes but can be cumbersome due to the need for multiple blood draws.
+- **HbA1c**: Less sensitive than OGTT, especially in early stages of diabetes. However, it is more convenient as it doesn't require fasting or multiple blood draws.
+
+#### Corrected Na+ Test
+When patients are hyperglycemic, the serum osmolarity is higher as a result of glucose being an effective osmole. This elevation in osmolarity results in water shifting from the intracellular to  extracellular space, thus decreasing the apparent blood sodium concentration. Though there is a shift, the total body water has not changed –  neither has the actual amount of sodium. Thus, the serum sodium reported in a basic metabolic panel is in fact the concentration of extracellular sodium based on the current glucose level.
+
+## Treatment
+
+### Insulin release regulation
+ - High ATP/ADP ration --> K+ channel closes --> Ca2+ increases --> Insulin release
+  - **Sulfonylureas** and **meglitinides** --> block K+ channel --> Ca2+ increases --> glucose _independent_ insulin release
+	- Gen 1:  acetohexamide, chlorpropamide, tolazamide, tolbutamide
+	- Gen 2: glyburide, glimepiride, glipizide (shortest acting)
+    - Repaglinide is the only FDA approved meglitinide
+        - Good for postprandial hyperglycemia
+	- Sulfonylureas are contraindicated with sulfa allergies
+    - Side effects: **hypoglycemia**, weight gain, skin reactions, upset stomach, dark-colored urine
+    - Do not take with alcohol: disulfiram like reaction possible. Hypoglycemia and dizziness, higher lactic acid
+ - **GLP1 agonists** via Gs --> cAMP --> PKA --> glucose _dependent_ insulin release
+    - These also _reduce glucagon_ concentrations and _delay gastric emptying_
+    - Include semaglutide, dulaglutide, albiglutide, liraglutide. 
+    - Tirzepatide is a GIP analogue that also activates GLP1
+    - Side effects: nausea, vomiting, and diarrhea
+    - Not advised for use with DPP4 antagonists
+ - **DPP4 inhibitors** via inhibition of GLP1/GIP degradation
+    - Include sitagliptin, saxagliptin, linagliptin, and alogliptin
+    - Side effects: upper respiratory tract infection, nasopharyngitis, headache, urinary tract infection
+ - **Glitazones** via activation of peroxisome proliferator-activated receptors increasing FA storage, increasing dependence on glucose for energy.
+    - Include Rosiglitazone
+    - Require liver enzyme monitoring
+
+### Metformin [[ref]](https://www.ncbi.nlm.nih.gov/books/NBK518983/)
+Metformin, classified as a biguanide drug, effectively lowers blood glucose levels by decreasing glucose production in the liver, diminishing intestinal absorption, and enhancing insulin sensitivity by upregulating peripheral uptake and use of glucose. As a result, metformin effectively lowers both basal and postprandial blood glucose levels. 
+ - Side effects: diarrhea, nausea, and vomiting, low chance of lactic acidosis and low B12
+ - Contraindicated with renal failure
+
+
+### Exogenous Insulins
+
+ |     Insulin Class    |     Onset Action    |     Peak Effect    |     Duration of Action    |     Pharmaceutical Strategy    |
+|---|---|---|---|---|
+|     Rapid Acting    |     1-15    |     1    |     3-4    |     Most similar to endogenous insulin    |
+|     Short Acting    |     30    |     2-3    |     5-8    |     Produced as Hexamer    |
+|     Intermediate Acting    |     1-24    |     4    |     16-24    |     PROTAMINE AND ZINC = less soluble    |
+|     Long Acting    |     1-2    |     None    |     20-24    |     Microcrystals at injection for slow   release or side chain binding to albumin    |
+
+### Lifestyle changes [[ref]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4360422/#:~:text=The%20World%20Health%20Organization%20(WHO,plasma%20glucose%20of%207.8%2D11.0)
+ - Exercise, diet, and weight loss: for every 1 kg decrease in weight, the risk of developing diabetes in future was reduced by 16%. Subgoals can include:
+    - Weight reduction > 5%
+    - Total fat intake < 30% of calories
+    - Saturated fat < 10%
+    - Fiber >= 15g/1000kcal
+    - Exercise > 4h/wk
+
+### Pharmacotherapy
+ - Metformin is recommended by ADA for pre-diabetic control (45% risk reduction). Slightly less or equally effective as lifestyle change. 
+ - Other drugs are not recommended prior to full on diabetes.
+
+### Surgical Options
+
+ - Bariatric surgery includes a variety of procedures aimed at either creating a mal-absorptive state, a restrictive state or a combination of the two to limit caloric intake. The procedures commonly used include Roux-en-Y gastric bypass, Laparoscopic adjustable gastric banding, Sleeve gastrectomy, and Duodenal switch with biliopancreatic diversion. In the Swedish Obese Subject, bariatric surgery was found to result in sustained weight loss (23.4% at 2 years and 16.1% at 10 years) and a 75% relative risk reduction of diabetes compared to controls
+
+## Complications
+
+### Diabetic Fatty Liver Disease [[ref]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4405411/)
+
+Non-alcoholic fatty liver disease (NAFLD) is highly prevalent in type 2 diabetes mellitus (T2DM), likely reflecting the frequent occurrence of obesity and insulin resistance in T2DM. Elevated circulating free fatty acid levels, in part related to diminished suppression of adipose tissue lipolysis by insulin, result in increased delivery of free fatty acids to the liver. The synthesis of excess triglyceride in the liver is driven by this supply of fatty acids and the accumulation of excess liver fat is further exacerbated by impaired hepatic fatty acid oxidation secondary to insulin resistance.
+
+### Osmotic Diuresis
+
+1. Renal Threshold for Glucose: The kidneys filter glucose out of the bloodstream, but under normal circumstances, virtually all of the glucose is reabsorbed into the blood. There's a certain concentration threshold, often around 180-200 mg/dL, called the renal threshold for glucose. When blood glucose levels exceed this threshold, the renal tubules can't reabsorb all the glucose, leading to glucose appearing in the urine (glycosuria).
+2. Osmotic Effect of Glucose: Glucose in the urine acts as an osmotic agent. This means it draws water into the urine due to osmosis. Essentially, the presence of glucose in the renal tubules prevents water from being reabsorbed back into the bloodstream.
+3. Increased Urine Production: As a result of the osmotic effect of glucose, more water is excreted with the urine. This leads to an increase in urine volume, known as diuresis.
+4. Loss of Electrolytes: Along with the increased water loss, there's also a loss of electrolytes in the urine, especially sodium and potassium. This can lead to electrolyte imbalances in the body.
+
+### Hyperglycemic Hyperosmolar State (HHS)
+
+**Hyperglycemic Hyperosmolar State (HHS)** is a serious complication primarily observed in individuals with TD2M. It's characterized by severe hyperglycemia and increased serum osmolality without significant ketoacidosis. Dehydration can exacerbate existing diueresis from hyperglycemia and hyperosmolarity caused by 
+
+#### **Key Features:**
+
+1. **Hyperglycemia**: Blood glucose levels are often greater than 600 mg/dL, and can sometimes rise above 1000 mg/dL.
+2. **Hyperosmolarity**: Elevated serum osmolality (often >320 mOsm/kg), resulting from profound dehydration.
+3. **Minimal Ketosis**: Unlike diabetic ketoacidosis (DKA), which is another complication of diabetes, HHS has little to no ketone production and acidosis.
+4. **Alteration in Consciousness**: Due to the high serum osmolality, patients may present with neurological symptoms, including lethargy, seizures, hemiparesis, or even coma.
+
+#### **Pathophysiology:**
+
+- **Insulin Deficiency**: Relative insulin deficiency in T2DM leads to decreased glucose uptake in peripheral tissues and increased hepatic glucose production
+- **Fluid Depletion**: Due to the osmotic diuresis caused by hyperglycemia, there is a profound loss of water and electrolytes, leading to dehydration
+- **Absence of Ketoacidosis**: There's enough insulin present to prevent lipolysis and subsequent ketone production, which distinguishes HHS from DKA
+
+#### **Treatment:**
+
+1. **Fluid Replacement**: Initial rehydration with isotonic saline (0.9% NaCl)
+2. **Insulin Therapy**: Low-dose intravenous insulin infusion helps to reduce blood glucose levels
+3. **Electrolyte Management**: Monitoring and replacement of electrolytes, especially potassium
+4. **Identifying and Treating Underlying Causes**: Such as infections or other precipitating factors
+
+#### **Complications:**
+
+- **Thromboembolic Events**: Such as stroke or deep vein thrombosis
+- **Cerebral Edema**: Especially during rapid rehydration
+- **Electrolyte Abnormalities**: Especially hyponatremia and hypokalemia - severe hypokalemia can induce cardiac arythmia or arrest
+
