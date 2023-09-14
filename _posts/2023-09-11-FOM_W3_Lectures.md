@@ -1,5 +1,5 @@
 ---
-title: FOM W2 Lectures and Notes (FOM 2.1-2.3)
+title: FOM W3 Lectures and Notes (FOM 2.1-2.3)
 date: 2023-09-09 12:00:00 -500
 categories: [notes]
 tags: [fom,lecture,review]
@@ -147,7 +147,7 @@ Same test can fit multiple categories depending on the situation (i.e. HbA1C)
 
 
 
-# Week 2 Wednesday Notes
+# Week 3 Wednesday Notes
 
 ## Embryology Weeks 1-4
  1. Capacitation - secretion of proteins to help sperm migration.
@@ -206,10 +206,16 @@ Same test can fit multiple categories depending on the situation (i.e. HbA1C)
 * Pancreas 
 * Gallbladder
 
+## Endocrine Review
 
+Endocrine hormones are released by tissues into the veins. Pancreatic release (insulin, glucagon) goes directly to liver first via portal circulation (capillary to capillary), giving high dose. Subcutaneous insulin, on the other hand, is distributed more evenly by cardiac system. 
 
-### Cardiac Embryogenisis
+**Diazoxide** (proglycem): opens K+ channels in beta cells and _decrease_ insluin release by hyperpolarizing the beta cells. It is used to treat _low blood sugar_ due to islet cell tumors and sulfonylurea toxicity (which can also be treated with somatostatin analogs such as octreotide).
 
+## Precision Medicine
+ - Right person, right treatment (therapy or prevention), right time
+ - Incorporate family history of monogenetic disorders, cellular markers of disease and differences of drug metabolism (pharmacogenomics)
+ - Current medicine adopts a "one treatment fits all" approach
 
 # Reading Notes
 
