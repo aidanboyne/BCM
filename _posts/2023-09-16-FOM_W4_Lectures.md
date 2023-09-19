@@ -11,6 +11,127 @@ resource: true
 
 # Monday Notes
 
+### Testing
+ - Coronary: ischemia --> acute MI
+ - Muscle: squeeze --> BP
+ - Rhythm: palpitations --> syncope
+ - Aortic disease --> BP
+ - Valves, congenital, pericardial
+
+Testing via labs, rhythm, imaging, cath, and functional tests. These may be invasive or non-invasive. We want to improve symptoms or outcomes. 
+
+Younger patients usually lower risk for MI, check for prior symptoms and family hx. Usually EKG/Echo sufficient. Middle age patients (50s) is prime time for acute MI and you want to check for comorbidities - EKG/labs/CXR, Echo/MRI, and possible cath is indicated. Older patients can have multifactorial heart issues including clotting and fibrillations. Want lots of tests and look for PE.
+
+- `CO = HR x SV`
+- `MAP - CVP = CO x SVR`
+
+Three layers of vessels:
+ - Intima: endothelial
+ - Media: smooth muscle (vast majority of resistance, modulate BP)
+ - Adventitia: connective tissue and vaso vasorum
+
+Arteries: away from heart, low compliance, high pressure
+Veins: towards heart, high compliance, low pressure. Have most of blood volume.
+
+## Sympathetic Nervous
+
+| **Organ/Action** | **Receptors** |
+|---|---|
+| Skeletal muscle and brain vessel dialation  | A1, B2 |
+| Pupillary dilation and aq. humor production | A1, B2 |
+| Decrease saliva | B2 |
+| Increased HR and contractility | A1, B1 |
+| Bronchodilation | B2 |
+| Increased blood glucose from liver (glucagon-like response) | B2 |
+| Vasoconstriction of blood vessels and decresed motility in GI | A1, B2 |
+| Secretion of renin by kidneys to increase BP | B1 |
+| Increase sweat production | Muscarinic |
+| Increase bladder urinary retention | A1 |
+| Uterine relaxation and ejaculation | A1, B2 |
+
+Sympathetic nervous system has preganglionic neurons that release acetylcholine binding nicotinic receptors on the postganglionic neuron. Postganglionic usually release catecholamines to bind target cell adrenergic receptors, though a few release acetylcholine binding muscarinic receptors on target cells.
+
+- Alpha-1: vasoconstriction of blood vessels, mydriasis, urinary retention, and ejaculation
+- Alpha-2: norepinephrine binds with negative feedback loop (decrease sympathetic action)
+- Beta-1: increased HR and contractility, renin release increasing Na+ and water retention
+- Beta-2: SM dilation in brain, muscle, bronchodilation, down GI activity, secrete aq. humor, increase glucose production in liver and cause glucagon release in pancreas.
+
+## Parasympathetic
+Arises from CN III, VII, IX, and X along with pelvic splanchnic nerves S2-S4. Vagus nerve innervates many organs (esophagus, heart, lungs, liver, GI (transverse colon)).
+
+| **Organ/Action** | **Receptor** |
+|---|---|
+| Eye: pupil constriction (miosis) | M3 |
+| Salivary: increase secretion | M3 |
+| Heart: Decreased HR and contractility | M2 |
+| Lungs: Bronchoconstriction | M3 |
+| GI: Increased blood flow and motility | M1-3 |
+| Liver: Increase glucose storage, insulin release | M1, M3 |
+| Bladder: Decreased urinary retention (decrease contraction) | M3 |
+| Uterus/Penis: Increase contractions, erections | M1, M4-5 |
+
+### Sympathetic Drugs
+
+ - Direct agonists (alpha1, beta selective or nonselective)
+ - Indirect agonists (mimic i.e. amphetamines/cocaine)
+ - Mixed agonists
+ - Presynaptic antagonists (central/peripheral)
+ - Postsynaptic antagonists (alpha/beta blockers)
+
+### Parasympathetic Drugs
+ - Direct cholinomimetics 
+ - Indirect cholinomimetics (anticholinesterases)
+ - Muscarinic antagonists
+
+These result in DUMB HAVES (**defecation**, **urination**, **muscle** excitation, **bronchospasm**, **HR** down, **autonomic** ganglia stimulation, **vasodilation**, **eye** miosis, and increased **secretions**)
+
+**Organophosphate poisoning** cause parasympathetic overdrive. Treated with _atropine_ which counteracts the acetylcholine esterase inactivation of organophosphates by blocking muscarinic receptors that are being overstimulated by acetylcholine.
+
+**Asthma** attack typically treated with beta-2 agonists. However, heart has some beta-2 receptors and high dose albuterol can activate beta-1 on heart and cause electrolyte abnormalities causing _arrhythmia_. **Beta-blockers** are first line treatment for arrhythmia, however, caution is needed in asthmatic patients as it may worsen attack via beta-2 inhibition --> bronchoconstriction.
+
+## Cardiovascular Hemodynamics
+
+### Shock
+
+#### Delivered Oxygen
+`DO2 = CO x CaO2`
+- `CO = HR x SV`
+  - Stroke volume is determined by preload, cardiac function, and afterload.
+- `CaO2 = 1.34 x [Hb] x SpO2`
+
+There are various types of shock, however they can overlap and occur due to related or independent problems.
+
+#### Cardiogenic
+Pump failure - lack of sufficient O2 delivery. Characterized by low BP, high HR, can present with arrhythmia and abnormal cardiac exam. 
+#### Distributive
+Vascular resistance is very low - low time for O2 extraction at tissue layer:
+ - Septic shock: toxins cause vasodilation via NO and other vasodilator release. 
+ - Anaphylactic: Exposure to allergen causes massive histamine release -->  massive vasodilation
+#### Hypovolemic
+Low circulating blood volume via loss of fluids (dehydration) or hemorrhage (**hemorrhagic shock**)
+#### Obstructive
+Something obstructs circulation. Can be internal physical block (i.e. PE) or some external block (i.e. cardiac tamponade).
+
+**MVO2** (mixed venous oxygen saturation) signifies how much oxygen is being consumed by the tissues in systemic circulation.
+
+|     Type of Shock    |     Features/Diagnosis (BP, MVO2,   temp)    |     Treatment Options    |
+|----------------------|----------------------------------------------|--------------------------|
+| Hypovolemic or hemorrhagic | - Decreased BP (hypotension) <br> - Decreased MVO2 (due to reduced cardiac output and tissue hypoxia) <br> - Normal or decreased temperature | - Fluid resuscitation (saline or blood products) <br> - Control of bleeding source <br> - Surgery if needed |
+| Cardiogenic | - Decreased BP (hypotension) <br> - Narrow pulse pressure <br> - Decreased MVO2 (due to poor cardiac output) <br> - Cold, clammy skin | - Inotropic/chronotropic support (e.g. beta agonists such as dobutamine) <br> - Diuretics (e.g., furosemide) <br> - Vasodilators (e.g., nitroglycerin) <br> - Mechanical support (e.g., intra-aortic balloon pump) |
+| Obstructive | - Decreased BP (hypotension) <br> - Decreased or variable MVO2 (depending on the cause of obstruction) <br> - Normal or decreased temperature | - Relief of obstruction (e.g., pericardiocentesis for cardiac tamponade, thrombolysis or embolectomy for pulmonary embolism) <br> - Surgery if needed |
+| Distributive (e.g., septic, anaphylactic, neurogenic) | - Decreased BP (hypotension) <br> - Increased MVO2 (due to shunting of blood away from hypoperfused tissues) <br> - Warm, flushed skin (except in neurogenic shock where skin can be warm or cold) | - Fluid resuscitation <br> - Vasopressors (e.g., norepinephrine) <br> - Treat underlying cause (e.g., antibiotics for sepsis, epinephrine for anaphylaxis, spinal stabilization for neurogenic shock) |
+
+#### Coagulation modifying drugs
+
+| **Type of Anticoagulant** |     **Mechanism of Action**    |
+|---|---|
+|     Heparin    |     Potentiation of antithrombin   III    |
+|     Warfarin    |     Inhibits   vitamin K epoxide reductase    |
+|     Rivaroxaban, apixaban, edoxaban    |     Factor Xa inhibition    |
+|     Dabigatran, bivalirudin    |     Direct thrombin (IIa)   inhibitor    |
+
+
+
 # Wednesday Notes
 
 # Reading Notes
@@ -119,12 +240,14 @@ Neurocardiogenic, vasovagal, and reflex syncope are the most common. Benign trig
 
 Prodrome is period of symptoms before losing conciousness. Dizziness, warmth/coldness, odd sensations are common. Usually present with normal physical and ECG.
 
-Orthostatic hypotension is **drop > 20mmHg systolic or > 10mmHg diastolic** or **reflex tachycardia > 20bpm** when standing abruptly. Caused by reduced CO and is often due to dehydration. Elders, pregnant women. Can also be caused by drugs:
+Orthostatic hypotension is **drop > 20mmHg systolic or > 10mmHg diastolic** or **reflex tachycardia > 20bpm** when standing abruptly. Caused by reduced CO and is often due to dehydration. Lower vein constriction is delayed leading to blood pooling in legs (decreased venous return). Elders, pregnant women. Can also be caused by drugs:
 - Vasoconstriction blockers: Ca2+ blockers, beta blockers, alpha blockers, nitrates,
 - Diuretics
 - QT prolonging drugs: antipsychotics, and antiemetics can cause.
 
 Psychiatric conditions (anxiety, panic) can cause syncope. Metabolic (hypoglycemia and hypoxia) and drug/alcohol abuse can also cause syncope. 
+
+> Decreased venous --> ventricular hypercontractility due to exaggerated sympathetic activation --> sympathetic withdrawal --> parasympathetic overdrive --> bradycardia, peripheral vasodilation, failure of reflex cerebral dilation --> vasovagal syncope.
 
 **Cardiac Syncope** is life threatening and can be caused by _arythmia_, ischemia, and valvular abnormalities like aortic stenosis, cardiac tamponade, and pacemaker malfunction. 
 
@@ -274,7 +397,7 @@ Reversibly block muscarinic receptors. Block diarrhea, urination, miossis, bronc
 
 Toxicity can include increased HR, decreased sweating (hyperthermia), reduced salivation and lacrimation (dry mouth and eyes), blurred vission, severe eye pain due to decreased aqueous outflow and acute angle closure, sedation/agitation/hallucination/coma esp. in elderly patients.
 
-### Alpha Drugs
+## Alpha Drugs
 
 #### Agonists
 
@@ -296,7 +419,7 @@ Can cause orthostatic hypotension and reflex tachacardia
 
 Mirtaxapine: antagonism of alpha-2. Enhances norepinephrine and seratonin. Used to treat depression.
 
-### Beta Blockers
+## Beta Blockers
 
 End with "-lol" suffix. Include non-selective, selective, alpha/beta mixed.
 
