@@ -240,7 +240,7 @@ Intrinsic Pathway: all activating factors found in blood
 ## Clot retraction and fibrinolysis
 
 Occurs after primary and secondary hemostasis. Anticoagulation occurs during and after and prevents overgrowth of clot and embolism. Thrombin is the big player in coagulation (activates V, VIII, I, and XIII) so it is targeted by 2 proteins to control:
- - Protein C: circulating plasma protein produced in liver with cofactor protein S (forms thrombomodulin). CS binds excess thrombin. This inactivates V (stopping X in common) and VIII (stopping IX in intrinsic).
+ - Protein C: circulating plasma protein produced in liver with cofactor protein S (forms thrombomodulin). CS binds excess thrombin. This inactivates V (stopping X in common) and XIII (stopping IX in intrinsic).
  - Antithrombin III: made by liver and binds thrombin and X. Also inhibits VII, IX, XI and XII at low level. Heparin binds antithrombin to increase inhibition of VII, IX, XI and XII.
 
 NO and prostacyclin lower thromboxane A2 in platelets (lowers GPIIb/IIIa).
@@ -424,9 +424,9 @@ Adrenergic Receptors (GPCRs)
  - **Terbutaline and ritodrine**: Beta-2 uterine relaxers
  - **Albuterol, formoterol, salmeterol**: Beta-2 bronchodialators
  - **Epinephrine**: dose dependent general agonist
-  - At **low doses** beta dominant: Beta 2 bronchodialation. Drops diastolic pressure and decreases SVR. Beta 1 increased HR and contractility.
-  - At **high doses** alpha dominant: vasoconstrition, increased SVR and BP. Increased pulse pressure.
-  - Used for anaphylatic shock
+    - At **low doses** beta dominant: Beta 2 bronchodialation. Drops diastolic pressure and decreases SVR. Beta 1 increased HR and contractility.
+    - At **high doses** alpha dominant: vasoconstrition, increased SVR and BP. Increased pulse pressure.
+    - Used for anaphylatic shock
 
 ## Cholinomimetics
 
