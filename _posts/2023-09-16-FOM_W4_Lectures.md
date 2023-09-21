@@ -103,12 +103,15 @@ There are various types of shock, however they can overlap and occur due to rela
 
 #### Cardiogenic
 Pump failure - lack of sufficient O2 delivery. Characterized by low BP, high HR, can present with arrhythmia and abnormal cardiac exam. 
+
 #### Distributive
 Vascular resistance is very low - low time for O2 extraction at tissue layer:
  - Septic shock: toxins cause vasodilation via NO and other vasodilator release. 
  - Anaphylactic: Exposure to allergen causes massive histamine release -->  massive vasodilation
+
 #### Hypovolemic
 Low circulating blood volume via loss of fluids (dehydration) or hemorrhage (**hemorrhagic shock**)
+
 #### Obstructive
 Something obstructs circulation. Can be internal physical block (i.e. PE) or some external block (i.e. cardiac tamponade).
 
@@ -130,9 +133,62 @@ Something obstructs circulation. Can be internal physical block (i.e. PE) or som
 |     Rivaroxaban, apixaban, edoxaban    |     Factor Xa inhibition    |
 |     Dabigatran, bivalirudin    |     Direct thrombin (IIa)   inhibitor    |
 
+# Tuesday Notes
 
+## Vasopressors for distributive shock
+
+* Sepsis: inflammatory response leads to vasodilation and capillary leak (hypotension and tachycardia)
+
+* Anaphylaxis: large histamine release leads to vasodilation and capillary leak (hypotension and tachycardia)
+
+* Neurogenic: Loss of sympathetic tone due to damaged autonomic pathways in spinal cord (hypotension and bradycardia)
 
 # Wednesday Notes
+
+## Renal Filtration
+
+### Glomerulus and Bowman's Capsule
+
+Filtration begins in **glomerulus** and **Bowman's Capsule**. The fenestrations in glomerular epithelium, negativley charged basement membrane, podocyte slit diaphragm all contribute to filtration of only small and neutral/uncharged solutes into Bowman's capsule. The GFR is directly proportional to blood pressure. Hypertension will increase GFR, hypotension (i.e. hemmorhage) will decrease GFR (and in bleed, sympathetic nervous system will constrict afferent arteriole further decreasing blood to nephrons).
+
+### PCT
+
+- Sodium is primarily reabsorbed via Na-H exchanger. 
+- Bicarbonate is so small that it is filtered even though it is negativley charged and thus needs to be reabsorbed. HCO3 is broken down into H20 and CO2 via **carbonic anhydrase**, CO2 enters cell and is converted back into HCO3 in cell and transported via NaHCO3 cotransporter into the cell. 
+  - Carbonic anhydrase inhibitors (**acetazolamide**) prevent HCO3- reabsorbtion, **increasing uring pH** and **decreasing blood pH**.
+  - Carbonic anhydrase inhibitors also cause (weak) **diuresis** (increased urine), H+ ions not used in PCT by carbonic anhydrase, so Na+/H+ exchanger is not active and less Na+ is reabsorbed into blood --> less water reabsorbed into the blood. 
+- Aquaporin-1 in PCT allows H20 to follow sodium into blood from PCT (_not hormonally regulated_)
+- Glucose is reclaimed via Na-Glucose transporter (SGLT2) into cell and then into blood via GLUT2 (_not insulin dependent_). 
+  - SGLT2 inhibitors (i.e. empagliflozin) block this glucose reabsorbtion, lowering blood sugar. Can cause recurrent UTIs
+- Na+/K+ pumps 3Na+ out of cell into blood and 2K+ into cell. This maintains low Na+ gradient in cell.
+
+### Descending loop of Henle
+
+ - Aquaporin 1: _not hormonally regulated_ water uptake
+
+### Thick ascending loop of Henle
+ - Water **impermeable**
+ - NaK2Cl cotransporter brings all three ions into the cell. Renal outer medually K+ (ROMK) channel lets K+ _back_ into tubule and Cl- channel lets Cl- into the blood
+  - **Loop diuretics** block NaK2Cl cotransporter, reducing ion gradient in interstituium and thus reducing water reuptake and causing **diuresis**
+  - Furisomide is loop diuretic used for fluid buildup - especially **pulmonary edema**
+  - Strong diuretic target
+ - Na+ gradient maintained again by Na+/K+ ATPase
+
+### Distal convoluted tubule
+ - Na+/Cl- cotransporter continues establishing gradient.
+  - Inhibited by thiazides (weaker diuretic)
+
+### Collecting Dructs
+ - Aldosterone binds to intercellular mineralcorticoid receptors, increasing epithelial sodium channel (ENaC) expression and insertion into duct cell membrane. This brings Na+ into the blood and in return we must _excrete_ K+ and H+
+  - Aldosterone produced in adrenal gland
+  - Ademomas can cause very high levels of aldosterone --> high K+ in urine. This can cause generalized weakness (K+ required for muscle contraction)
+ - ADH binds surface receptor (GPCRs) and causes expression of aquaporin-2 on collecting duct epithelium, bringing in water.
+  - Low ADH can cause polyuria (high urine volume) and hypernatremia.
+
+#### Other notes:
+ - Glomerulus is _resistant_ to ischemia. **PCT** is very vunerable to damage from chronic hemmorhage.
+
+
 
 # Reading Notes
 
