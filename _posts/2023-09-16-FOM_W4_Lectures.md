@@ -51,10 +51,10 @@ Veins: towards heart, high compliance, low pressure. Have most of blood volume.
 
 Sympathetic nervous system has preganglionic neurons that release acetylcholine binding nicotinic receptors on the postganglionic neuron. Postganglionic usually release catecholamines to bind target cell adrenergic receptors, though a few release acetylcholine binding muscarinic receptors on target cells.
 
-- Alpha-1: vasoconstriction of blood vessels, mydriasis, urinary retention, and ejaculation
-- Alpha-2: norepinephrine binds with negative feedback loop (decrease sympathetic action)
-- Beta-1: increased HR and contractility, renin release increasing Na+ and water retention
-- Beta-2: SM dilation in brain, muscle, bronchodilation, down GI activity, secrete aq. humor, increase glucose production in liver and cause glucagon release in pancreas.
+- Alpha-1 (G<sub>q</sub>): vasoconstriction of blood vessels, mydriasis, urinary retention, and ejaculation
+- Alpha-2 (G<sub>i</sub>): norepinephrine binds with negative feedback loop (decrease sympathetic action)
+- Beta-1 (G<sub>s</sub>): increased HR and contractility, renin release increasing Na+ and water retention
+- Beta-2 (G<sub>s</sub>): SM dilation in brain, muscle, bronchodilation, down GI activity, secrete aq. humor, increase glucose production in liver and cause glucagon release in pancreas.
 
 ## Parasympathetic
 Arises from CN III, VII, IX, and X along with pelvic splanchnic nerves S2-S4. Vagus nerve innervates many organs (esophagus, heart, lungs, liver, GI (transverse colon)).
@@ -188,7 +188,27 @@ Filtration begins in **glomerulus** and **Bowman's Capsule**. The fenestrations 
 #### Other notes:
  - Glomerulus is _resistant_ to ischemia. **PCT** is very vunerable to damage from chronic hemmorhage.
 
+## Evaluating Drug Study Results
 
+### NNT/NNH
+When choosing treatment: NNT and NNH are most helpful statistics but not always reported
+- Calculate EER (experimental event rate) & CER (control event rate) --> Calculate ARR (absolute risk reduction) --> NNT = 1/ARR
+  - EER = adverse events/total participants in experimental group
+  - CER = adverse events/total participants in control group
+  - ARR = CER - EER
+
+### Statistical significance
+
+**p-value**: Probability of difference in groups occurring if null hypothesis is in fact correct. For example, p=0.05 in a drug trial indicates that the results of the study only have have a 5% chance of being attributable to chance. Lower p-value choice (alpha) lowers the risk of type I error where you think the intervention caused something that was actually caused by chance. 
+
+**Confidence interval (CI)**: range of plausible values that would contain true difference value
+Confidence level: level of certainty that CI would contain true population parameter when you draw random sample many times.
+
+**Relative risk:**   Probability of event in exposed group/probability of event in nonexposed group
+- 1.0: Probability is same in both
+- > 1.0: Increased risk in treatment group
+- < 1.0: Reduced risk in treatment group
+- Often reported alongside CI. RR is only statistically significant if the CI _does not_ contain 1.
 
 # Reading Notes
 

@@ -1,0 +1,231 @@
+---
+title: CRR Week 1 Lectures and Notes
+date: 2023-09-23 12:00:00 -500
+categories: [notes]
+tags: [crr,lecture,review]
+resource: true
+---
+
+# Lecture Notes
+
+## Basic Microbiology 
+
+#### Anti-metabolites
+ - Sulfonamides and trimethoprim (i.e. bactrim = sulfamethoxolate & trimethoprim)
+ - Inhibit _dihydropteroate synthase_ (sulfonamide) and dihydrofolate reductase (trimethoprim) preventing **folic acid synthesis**
+  - Not effective on their own due to resistance
+  - Used for middle ear, UTI, URI, intestinal infections, and pneumocystis-type pneumonia
+### Inhibitors of cell wall synthesis
+50% of all antibiotics
+ - -cillins: penicillin, nafcillin, amoxicillin. **Beta-lactam ring**
+  - Penicillinase inactivates beta-lactam. Need Clavulanic acid to inhibit bacterial penicillase
+ - Cef- : cephalexin, cefazolin, cefotoxin
+ - Vanomycin: - For MRSA
+- Carbapenems (Imipenem, meropenem): Broad spectrum
+- Monobactams (Aztreonam): Broad spectrum
+
+#### DNA synthesis inhibitors
+#### RNA synthesis inhibitors
+#### Protein synthesis inhibitors
+#### Cell membrane inhibitors
+
+
+## Respiratory Structure and Function
+
+The lung bud is separated from foregut via tracheoesophageal septum. Connective, cartilagenous, and muscular respiratory structures are from mesoderm while the epithelium of the internal lining is made from endoderm. The phases of development are
+1. W4-7: Embryonic. Lung bud develops main --> tertiary bronchi. Defects cause tracheosophageal fistula
+2. W5-17: Pseudoglandular. Terminal bronchiole formation
+3. W16-25: Canicular - airways increase in diameter and are surrounded by prominary cpillary network. Pneumocyte start W20 and repiration capable W25
+4. W26-birth: Saccular - surfactant is detectable in amnionic fluid. Terminal sacs separated by primary septi
+5. W36-8yr: Aveolar - adult aveolar development via secondary septation. Increases from 20-70million --> 300-400 million
+
+
+Oxygenation: O2 in
+Ventilation: CO2 out
+
+Also functions in protection (mucus, cilia, macrophages, filtering clots in circulation...), acid-base balance, phonation, pulmonary metabolism (ACE: angiotensin I --> angiotensin II), IgA production.
+ - Lungs increase respiration in ketoacidosis. Hypercapnea = acid = CO2 buildup.
+ - Angiotensin II: vasoconstrictor involved in RAS.
+
+Sternum lifts superiorly via water-pump effect to accommodate luns during inspiration. Ribs also lifted like "bucket handle". Diaphragm is most important for inspiration (innervated phrenic C3-5 and contraction causes downward movement increasing thoracic volume and decreasing pressure). External intercostals also involved. Accessory scalene, sternocleidomastoid, and pectoralis can be involved in forced inspiration. Expiration is passive with no primary muscles. Active expiration uses abdominal wall and internal intercostals. 
+
+Primary difference between bronchi and bronchioles is **cartilage**. R/L bronchi bifurcate at tracheal **carina**. Everything except alveoli have smooth muscle. Pulmonary acinus is when respiratory bronchiole branches into three (respiratory bronchioles, alveolar duct, and alveoli)
+
+Conducting airway moves air via bulk flow (convection) and is main site of airway resistance (esp. in _medium sized bronchioles_). Resistance then decreases to minimal resistance by resp. zone. Velocity is highest in conducting airway around 3rd generation number. Cross-sectional area increases with generation number and peaks in alveoli.
+
+COPD causes wheezing lung sounds via narrowed airways. 
+
+Autonomic tone is controlled sympathetically (B2 on SM) to dilate while parasympathetic (muscarinic M3) cause bronchoconstriction. Give anti-muscarinic/cholonergic to prevent constriction and B2 agonists to dilate.
+
+Poiseuille's law: Resistance = 8nl/pir<sup>4</sub>. Half radius = 16x resistance
+
+Vascular supply via pulmonary arteries and veins for gas exchange. Bronchial arteries, bronchial veins which are part of _systemic circulation_ to supply nutrition and O2 to conducting airway. Bronchial arteries can drain into pulmonary veins causing small shunt. Bronchial veins drain into intercostal and azygous veins.
+
+Pulmonary arteries have high-flow, low pressure, highly compliant vascular bed. Recives 100% of CO at mean pressure around 15mmHg. 
+
+2 Lymphatics
+ - Superficial: along pleural surface
+ - Deep (intrapulmonary): adjacent to bronchovascular bundle and along interlobal septa.
+
+First hit **bronchopulmonary lymph node** then tracheobronchial nodes, broncho-mediastinal trunks, and finally into internal jugular and subclavian vein. Sometimes right duct drains into right lymphatic duct and left into thoracic duct. Thoracic crosses around T5 so look at T5 trauma/lesion if we have right pleural effusion.
+
+### Respiratory Zone
+ - Respiratory bronchioles, alveolar ducts, alveoli. Surface area rapidly increases as we move deeper into branches.
+ - 300-400 million alveoli per lung with < 0.5mm diameter.
+ - Total surface area of alveoli = 85sq.m.
+ - T1 pneumocytes 95% of surface area (squamous thin for gas exchange)
+ - T2 pneumocytes are proliferative and **produce surfactant**
+ - Macrophages remove dust/debris to bronchioles where mucocilliary escalator removes (aka pac-man, heart failure cells)
+
+Capillary network (about 280 billion) surround alveoli. RBC spend < 1sec in capillary bed. Alveolar-capillary unit is site of gas exchange and as moves via simple diffusion. One layer of squamous epithelium on vessel, interstitial layer, then T1 pneumocyte.
+
+### Pressure
+- Lungs always tend to _collapse inward_ due to elastic recoil.
+- Chest wall wants to _recoil outward_ due to springlike stress.
+- Negative pressure in interpleural space is due to these conflicting pressures (usually about  -5mmH20 at rest).  
+  - **P<sub>transmural</sub> = P<sub>alveoli</sub> - P<sub>interpleural</sub>**
+
+ Whatever air remains in your lung after normal expiration is _functional residual capacity_ or **FRC**.
+
+Compliance = change in vol/change in pressure. 1/compliance  = _elastance_.
+- Emphysema increases compliance, decreases elastance (steeper slope, up FRC)
+- Fibrosis decreases compliance, increases elastance (flatter slope, down FRC)
+- Lung compliance determined by elastic recoil and surface tension (surface tension is dominant)
+- At FRC there are equal and opposite forces of contraction and expansion
+  - Below FRC you have lung collapse and tendency to _inspire_ due to **chest wall expansion** pressure
+  - Above FRC you have **very high lung collapsing pressure** that causes _expiration_.
+
+![Compliance Diagram](/img/compliance.jpg)
+
+## Lung Histology
+### Pneumonia
+- Bacterial
+  - Streptococcus pneumoniae: community aquired (or H. influenzae, M. catarrhalis)
+  - Staph. Aureus: hospital-aquired (or G- rods i.e. klebsiella spp, E. Coli, pseudomonas)
+  - Mycobacterium Tuberculosis: immunosupressed, crowded areas, endemic regions
+- Viral: COVID, Influenza (or metapneumovirus, RSV, parainfluenzae)
+- Fungal
+  - Coccidiomycosis: CA and west US
+  - Histoplasmosis: Ohio river valley including houston
+  - Blastomycosis: East coast
+
+### Lung Cancer
+Highest cause of cancer mortality worldwide. Lung carcinomas (95%) and carcinoid tumors (5%) and mesothelioma.
+- Small cell: Many small cell with scant cytoplasm, nuclear molding, often very basophilic. No glandular or squamous differentiation. Very associated with smoking and metastasis.
+- Carcinoid: Typically peribronchial composed of uniform cells with organoid appearance. No significant atypia, no glandular or squamous differentiation.
+- Squamous Cell: Eosinophilic cytoplasm with intercellular bridges. Keratin pearls with irregular nuclei and mitoses
+- Mesothieleoma: Pleural location with no definite gland or squamous differentiation
+- Adenocarcinoma: Lots of mucin. Some malignant epithelial cells with irregular nuclei and irregular shapes. No normal arrangement. Well-circumscribed
+
+
+
+
+
+
+## Radiological Lung Imaging
+Most used is CXR. After trauma you usually go straight to CT.
+- Typically do PA (standing with nice position hands behind back to rotate shoulder) but can do AP if needed (i.e. cannot get out of bed). Techs usually flip so right side of patient is on left side of image regardless of PA/AP
+  - PA almost always has scapula out side of lung field and more acute ange between clavicle and sternum.
+  - Lateral can also be taken.
+
+Opacity
+1. Black - air
+2. Near black - fat
+3. Grey - Soft tissue
+4. Off-white - Bone
+5. White - metal
+
+The patient should not be rotated (look at clavicular symmetry), you should see the full back and costodiaphragmatic space in field of view. Should be able to see vertebrae (else underexposed) but also see pleural lines (else overexposed)
+
+![Heart CXR](/img/heart_cxr.jpg)
+
+
+# Other Notes
+
+## TB
+
+Caused by aeorbic mycobacterium tuberculosis. Rod-shaped gram (+) bacteria. Cell wall is waxy due to high **mycolic acid** content and will not stain with normal gram. Need _Acid Fast_ Ziehl-Neelsen strain. The wall allows resistance and survival on dry surface for months.
+
+Risk factors
+1. Immunosupression
+2. Iatrogenic Immunosupression
+3. Systemic disease
+4. Extremes of age
+5. Substance abuse
+6. Homeless, prisoners, healthcare workers, and endemic regions
+
+### Primary TB 
+ - Sulfatide in TB allows them to survive macrophage lysis and survive in macrophage. Asymptomatic for awhile.
+    - Inside the phagosome, mycobacteria form serpentine-like cords using **cord factor**, a hydrophobic surface glycolipid. This response allows the mycobacteria to form cylindrical micelles and prevents the bacteria from being acidified by lysosomal enzymes. Additionally, the presence of **sulfatides**, another glycolipid, prevents fusion between phagosomes with lysosomes
+ - TB cord factor released around 3 weeks and provoke macrophages Th<sub>1</sub> cells that form granulomas (type IV hypersensitivity).
+ - **Langhans giant cells** with multiple nuceli in shape of horseshoe line outer edge of granulomas (formed from macrophages) and contain schauman bodies and astroid bodies
+ - Granulomas are caseating due to caseous necrosis in center of mass (Ghon Focus)
+ - Spread to hilar lymph node  causes _Gohn complex_. Typically subpleural and are characteristic of primary TB. In children and immunocompromised pateitns, TB continues to spread. Most cases result in containment with fibrosis and calcification forming a **Ranke Complex**.
+  - Sometimes it heals
+  - Sometimes it becomes secondary TB if immune system is compromised.
+- Ghon reactivation causes infection of upper lobes, more caseous necrosis and causing fibrocaseous cavities that can allow dissemination
+  - Bronchopneumonia
+  - Bacteremia
+- Military TB (systemic) commonly causes sterile pyuria, meningitis, pott disease in lumbar vertebrae, addison's dissease, hepatitis, lymphadentis in neck, mycobacterial arthritis, and osteomyelitis.
+
+
+Primary TB
+ - Asymptomatic or classic findings of fever, night sweats, weight loss, non-productive/productive cough, and hemoptsis.
+ - Screen with purified protein derivative intradermal skin test. Tuberculin injected and produces small local reaction in 48-72hr. Large area of induration = positive test (has been exposed, does not differentiate between types). False positives with vaccination and false negative in sarcoidosis or immunocompromised
+ - Interferon Gamma release assay (IGRA) also used and are more specific. 
+ - Either test positive warrants chest X-ray. Look for Ghon complexes (primary), cavitation and scarring (secondary), small distributed, uniform nodules (miliary).
+ - Get 3 samples of sputum for staining, culture on lowenstein jensen agar, NAAT, and potential nodule biopsy.
+
+Treatment:
+ - Prophylaxis: **Isoniazid**
+ - Latent: **Rifamycin** 4mo. (preferred) or **isoniazid** 9mo. monotherapy
+ - Active: **RIPE**: rifampin, isoniazid, pyrazinamide, ethambutol.
+    - Second line solo agent **streptomycin** can be added to RIPE if needed
+    - **Rifampin** is a transcription blocker (no mRNA) and is good for large range of bacteria. Minor hepatotoxicity and orange body fluid.
+    - **Isoniazid** inhibits mycolic acid synthesis (specific to TB) and need to be processed by mycobacterial catalase-peroxidase (mutations cause resistance). P450 inhibition and hepatotoxicity. Drug induced lupus, anion gap metabolic acidosis, and _seizures refractory to benzos_ are possible side effects. **Vitamin B6 deficiency** can cause peripheral neuropathy and sideroblastic anemia - administer with pyridoxine.
+    - **Pyrazinamide** works in phagolysosome (good against TB in lysosome). Hepatotoxic, hyperurecimia
+    - **Ethambutol** prevents cell wall polymerization in mycobacteria via inhibiting the enzyme arabinosyl transferase. Can lead to _reversible optic neuritis_
+    - Streptomycin is aminoglycoside that inhibits 30s. Mutations leading to resistance are common.
+ - MDR-TB and XDR-TB are very hard to treat. Pretomanid + bedaquiline + linezolid can help most XDR-TB
+
+
+## Sketchy Antibiotics
+
+### Cell wall and membrane active
+
+#### Beta-lactams
+
+##### Penicillin
+- Inhibit transpeptidation reaction in cell-wall synthesis by covalently binding **PVPs**
+- Generally good activity against gram+ bacteria
+  - Good for strep and staph
+- Only work in _activley growing cells_
+- Penicillin V is acid stable, but poorly available.
+  - Good for streptococcal pharyngitis
+- Penicillin G is IV or IM (in salt form).
+  - Strep viridans and strep bovis (endocarditis) are treated with penicillin G
+  - Also used for intrapartum prophylaxis against group B strep
+  - Can penetrate CNS in active inflammation for Neisseria meningitidis treatment (**only Gram negative**)
+
+V and G used in treatment of rheumatic fever, actinomyces israelii, clostridium perfinges (gangrene), pasteurella multicoda (dog bite), secondary syphilis (treponema pallidium).
+
+Most common method of resistance is beta-lactamase expression (often from plasma genes). Adverse reactions include IgE mediated type I hypersensitivity, autoimmune hemolytic anemia, and interstitial nephritis. 
+
+##### Nafcillin, Oxacillin, Methicillin, and Dicloxacillin
+- Bulky R-groups prevent beta-lactamase binding. Narrow spectrum of activity. Good against MSSA (naf for staph!). 
+  - Good for skin and soft tissue infections and good for endocarditis and osteomyelitis when given by IV.
+  - Not effective against methicilin resistant staph aureus (MRSA) produce PBP with low affinity for beta-lactam abx. 
+
+##### Ampicillin, Amoxicillin, Piperacillin, and Ticarcillin
+- Broad spectrum (gram positive and negative action). Beta-lactamases confer resistance
+  - Usually administered with clavulanate, a beta-lactamate inhibito
+- Amoxicillin has greater oral availability than other aminopenicillin ampicillin and is often used for strep pharyngitis along with:
+  - Otitis media and sinusitis
+  - Pneumonia
+  - H-flu (haemophilis influenzi)
+  - Helicobacter Pylori
+  - Lyme disease
+- Ampicillin is IV administrated good for serious anaerobic infections such as inhalation pneumonia, listeria monocytogenes (very young and old patients), and enterococcus. 
+- Associated with Stevens-Johnson syndrome (bad) or minor skin rash (not bad, usually with Epstein-Barr). Can induce liver injury
+- Piperacillin and Ticarcillin are also paired with beta-lactamase inhibitors such as tazo, clavulanate, and are good for anaerobic infections _especially pseudomonas_ in hospital setting.
+
