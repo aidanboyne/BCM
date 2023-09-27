@@ -117,11 +117,6 @@ Highest cause of cancer mortality worldwide. Lung carcinomas (95%) and carcinoid
 - Mesothieleoma: Pleural location with no definite gland or squamous differentiation
 - Adenocarcinoma: Lots of mucin. Some malignant epithelial cells with irregular nuclei and irregular shapes. No normal arrangement. Well-circumscribed
 
-
-
-
-
-
 ## Radiological Lung Imaging
 Most used is CXR. After trauma you usually go straight to CT.
 - Typically do PA (standing with nice position hands behind back to rotate shoulder) but can do AP if needed (i.e. cannot get out of bed). Techs usually flip so right side of patient is on left side of image regardless of PA/AP
@@ -138,6 +133,270 @@ Opacity
 The patient should not be rotated (look at clavicular symmetry), you should see the full back and costodiaphragmatic space in field of view. Should be able to see vertebrae (else underexposed) but also see pleural lines (else overexposed)
 
 ![Heart CXR](/img/heart_cxr.jpg)
+
+## Genetic Testing
+
+Pretest probability in context of genetic testing includes clinical features, family history, and prior family testing and their result. Test should focus on regions where we expect variant from clinical presentation.
+
+Many types of potential genetic variants (not just point mutations, also large sections)
+- Chromosomal Variants - Down Syndrome (translocation or trisomony 21)
+- DNA packing - nucleosome packing (open or closed). For example, imprinting syndomes such as Beckwith-Wiedemann syndrome cause turn-on of _both_ rather than only one copy of the genomes due to improper methylation. 
+- Nucleotide variants - BRCA1/2 (cancer suceptibility), FGFR3 (typically 1 of 2 SNVs of glycine in transmembrane domain causes achondroplasia - short stature, limbs, other variants can cause different disorders), sickle cell.
+
+SNV: single nucleotide variant (change 1 AA)
+Indel: insertion or deletion of 1-50 nucleotides
+Structural Variation: Deletion, Duplication, Inversion, Insertion, or Translocation
+
+Exome sequencing tests the small portion of the genome coding for proteins (around 20k exons) and more specifically the approx. 6k genes associated with medical conditions. ES can detect SNV, Indel, and copy number variants to some extent (if they fall in coding region). Typical exon tests do not test for methylation. Exon sequencing typically has reads of about 150bp and focus on coding regions without much coverage in promoter region. Gene sequencing, on the other hand, will give all promoter, intron, and exon information. It can get SNP, SV, deletion, and repeat expansions. 
+
+Interpreting results: HNF1A c.1340C>T, p.Pro447Leu = base 1340 in coding region of HNF1A was changed from C>T transition. This resulted in AA 447 changing from proline to leucine.
+
+
+### Choosing a Test
+ - Scale: do we suspect chromosomal anomaly or SNV?
+ - Coding region, noncoding, particular gene, particular variant?
+
+### Chromosomal Microarray (CMA)
+- Primarily detect copy number variants (CNVs)
+- Tiling of probes go into plate
+- Hybridizing control and patient in each cell
+  - More patient than control hybridization --> duplication at this probe location
+  - More control than patient hybridization --> deletion at this probe location
+- Can also have **SNP array** to detect **absence of heterozygosity** (AOH). These SNPs are common - most of us have different nucleotides at the majority of SNP locations between alleles.
+  - Atypical results (absence of heterozygosity) indicate
+  - **Copy neutral**: Consanguinity (parents are related to one another) or uniparental disomy (error in zygote - both copies from one parent)
+  - **Copy loss**: deletion of one copy of chromosome
+
+**VERY IMPORTANT** in pretest counseling to let parents know the test can detect parental cosanguinity.
+
+## PFTs
+
+### Spiromitry
+- Main PFT done
+- Usually look at tidal volume, forced vital capacity
+  - FVC - degree of lung and chest expansion. How well pt. can blow out rapidly (volume between RV/TLC)
+  - FEV1 - vol. air exhaled in first second of FVC effort. Indicates large and small airway funciton
+  - FEV1/FVC - defines obstruciton
+  - PEF
+- After normal spiromitry, can do again with albuterol (4 puffs) to see if there is improvement after 15 min. Positive response is ≥ 10% change. 
+- Asthma can be confirmed by bronchoprovocation test via M3 agonist (methacholine). Positive test is > 20% decline in FEV1.
+
+![FV Loop](/img/FV_loop.jpg)
+
+#### Acceptability Criteria
+- Make patient breath out for full 6 seconds so we can see FVC (plateau).
+- Full inspiration before max exhalation
+- repeatable efforts (FEV1, FVC within 0.15 L)
+- Max force on exhalation
+
+##### Race and Ethnicity
+- NHANES III gives 2 equations: 1 for caucasians and one for black americans
+- Should actually just be based on age, gender, and height
+
+### Reading PFT
+- Read history, then hit values (esp. FEV1)
+- Obstructive diseases make it more difficult to breath _out_ (top of loop)
+- Restrictive diseases make it more difficult to breath _in_ (bottom of loop)
+- Disease severity is defined by the z-score (how many SD out from normal)
+
+#### Obstructive pattern
+- FEV<sub>1</sub>/FVC < LLN
+- Scalloped appearance as expiratory portion leads to airway collapse, but air in keeps airway open over. 
+
+#### Restrictive pattern
+- Lowered FVC, FEV1, and FEV1/FVC ratio. Whole curve shrinks down
+
+#### Variable intrathoracic obstruction
+ - During insp. airway is kept open due to negative intrathoracic force
+ - During exp. positive pleural pressure causes narrowing of intrathoracic airway (flattened **expiratory limb**)
+- Incldude **tracheomalacia, malignant tumors**
+
+#### Variable extrathoracic obstruction
+- Located above thoracic inlet. 
+- Bernouli causes negative pressure on inhalation, leading to flattened **inspiratory limb**
+- Positive pressure keeps airway open on expiration
+- Ex. **Glottic strictures, vocal cord paralysis, tumors**
+
+#### Fixed obstruction
+- **Flatten Both**
+- Ex. post-intubation tracheal stenosis, goiter
+
+
+### DLCO
+
+DLCO measures the ease with which gases diffuse across the alveolar-capillary- RBC membrane.
+
+* Normal spirometry but low DLCO
+  * Pulmonary vascular disease
+  * Anemia
+* Abnormal spirometry and low DLCO
+  * **Restrictive** pattern – interstitial lung disease, pneumonitis
+  * **Obstructive** pattern – emphysema, Cystic Fibrosis, bronchiolitis
+* Increased DLCO : Decrease alveolar pAO2 (altitude), Increase blood volume (Polycythemia, Pulmonary Alveolar hemorrhage)
+
+
+![PFT Interpretation](/img/PFT_algo.png)
+
+_Always be sure to provide clinical correlation at the end_
+
+## Pulmonary Infections
+
+LRT infection includes anything below pharynx (trachea and below). Pneumonia has been defined as an infection of the lung parenchyma.
+
+Categorized by
+- Viral v. Bacterial (or parasitic/fungal)
+- Route of aquisition: inhalation, aspiration, hematogenous, direct extension
+- Clinical syndromes
+- Nosocomial or community acquired
+  - Nosocomial: HAP (hospital, direct or indirect) or VAP (ventilator)
+
+### Pneumonia
+
+Pneumonia is community aquired or nosocomial (hospital acquired). It is also classified based on radiographic pattern: lobar, bronchiolar, interstitial, and other (miliary, nodular...)
+
+- Infection predominantly affects interstitum --> reticular pattern on CXR (intersitial pneumonia)
+  - Typically atypical viral pathogens such as **CMV**
+  - CMV has both cytoplasmic and nuclear inflitrates in plasma cells.
+- Filling of alveoli with pus, fluid --> fluffy infiltrates (bronchiolar pneumonia)
+  - Typically **_Staph. Aureus_** or **_viral_** (influenza/COVID)
+- Complete desctruction of lobe --> segmental consolidation (lobular pneumonia)
+  - Typically **_Strep. peneumonia_**
+
+#### Special Considerations
+- Nodular (usually need CT)
+  - Suspect fungus
+- Pneumothroax (esp in HIV)
+  - Think pneumocystis jiroveci (hit with trimethoprim-sulfamethoxazole)
+- Miliary appearance
+  - Think TB
+
+Defense aginast LRTI:
+ - Innate: Mucocilliary escalator, macrophages in alveoli, coughing/sneezing 
+ - Adaptive: infiltration of T-cells, presentation in lymphatic system
+
+#### Initial assesment
+- Symptoms: weight loss, chronic syndromes, timing
+- Epidemiological: where do they live, travel, exposures
+- Underlying lung disease
+- Immune status
+- Physical signs on exam
+  - Egophany: say "eee" hear "ahhhy" - indicates consolodation w/ pleural effusion
+  - Bronchophony: type of pectoriloquy, which is when voice transmission through lung structures is heard with a higher resonance - atypical increase in the intensity and clarity of voice heard with stethoscope
+  - Whispered pectoriloquy: increased clarity of whispered words
+  - Coarse Crackles (rales)
+- Lab work and imaging
+  - CURB 65 (1 = 1.5%, 2 = 9.2%, 3 = 22%). Consider hospitalization for 2+
+    - Confusion
+    - Urea > 7mmol/L (about 20mg/dL)
+    - BP SBP < 90, DBP < 60
+    - Age > 65
+  - Pneumonia severity index has 20 variables. I is low risk, V is high risk
+
+#### Treatment of CAP
+- Outpatient
+  - No comorbidities or risk factors for MRSA or Pseudo. Aeruginosa.
+    - Amoxycillin or doxycycline or macrolide (if local resistance < 25%)
+  - With comorbitidies 
+    - Combo with amoxicillin/clavulanate or cephalosporin + macrolide or doxycycline or monotherapy with resp. fluroquinolone
+- Inpatient
+  - Low-risk: B-lactam + macrolide or fluroquinolone
+  - High-risk: B-lactam + macroline or B-lactam + fluroquinolome
+
+If we have risk of MRSA (abx in last 90 days): IV vancomycin or linezolid
+If we have risk of Pseudomonas: **piperacillin/tazobactam, cefepime**, ceftazidime, imipenem, meropenem, aztreonam
+
+#### Treatment of HAP/VAP
+1 antibiotic effective against Pseudomonas and MSSA (something different than what they had previously if applicable)
+* Piperacillin/Tazobactam
+* Cefepime
+* Ceftazidime
+* Imipenem
+* Meropenem
+* Aztreonam
+MDR risk: Second abx for double pseudomonas 
+MRSA risk: IV vancomycin or linezolid
+
+#### Lung tranplant
+- Early (< 1mo): Bacteria/aspiration/nosocomial pathogens 
+- Middle (1-6mo): CMV, pneumocystic, aspergillus/endemic fungi, nocardia
+- Late (> 6mo): Pneumocystis, aspergillus, granulomatous reactivation (nocardia, fungi, mycobacteria)
+
+## Pulmonary Exam
+
+_To do **in addition to** survey physical_
+
+### Cough
+1. Timing
+Acute: bronchitis, pneumonia, post-viral
+subacute:
+chronic: UACS, GERD, Asthma, COPD, ILD
+
+2. Dry or productive (bacterial, viral, allergic)
+3. Sputum characteristics (thickness, color)
+4. Kind of cough (harsh, barking,...)
+5. When is it better/worse
+6. Precipitating/reliving factors 
+
+ROS
+ - SOB?
+ - Exertional fatigue or limitations
+ - Wheezing?
+ - What kind of cough
+ - Sputum?
+ - Hemoptisis
+ - Chest pain (esp while breathing, on inspiration/expiration, location)
+
+Also general: fever, chills, body aches, night sweats, unexplained weight loss
+
+
+### Pulmonary Exam
+
+1. Wash hands
+2. Inspect/observe chest wall and breathing
+  - Should be effortless, 12-24/min, not much breath (about 500cc), inhalation (2/3) longer than exhalation (1/3)
+  - Check for chest defomaties, muscle involvement 
+3. Chest excursion: place hands on back and breath deeply for 3 cycles. Movement of ribs
+  - Normal: chest excursion full, symmetric
+  - Abnormal: reduction due to pleural effusion, diaphramatic paralysis, rib issues
+4. Percussion: place nondominant hand middle finger firmly on posterior back. Do 3x per side of chest.
+	- Normal: resonant to percussion bilaterally
+	- Abnormal: dull (fluid, pnumonia), or hyperresonant (pnemothorax)
+5. Pulmonary ascultation: "take some deep breaths in and out through your mouth"
+	- Full breathing cycle at 3 levels posterior, 2 levels anterior
+	- Noraml: clear to ausculation b/l _or_ vesicular throughout
+	- Note bronchial breathing: loud, harsher --> suggests solid density i.e. pneumonia mass or atelectasis
+	- Note extra sounds i.e. crackles (rales), wheezes, rhonchi 
+6. Egophony: ask patient to say letter "E" while auscultating
+	- Normal: muffled EE sound
+	- Abnormal: sounds more like Ayy (consolidation)
+7. Tactile fremitus: "karate chop" hands on posterior chest wall at 3 levels b/l. Ask p.t. to recite "ninety-nine" and assess for symmetry
+	- Normal: "symmetric tactile fremitus
+	- Reuced: pleural effusion, can be increased in consolidation (pneumonia)
+
+When listening, make sure you hit apex of lung (above the clavicle). In practice, physicians just do inspection/observation and auscultation. Only do the rest if something is abnormal.
+
+Abnormal observations:
+Chest wall: shingles rash, truamatic bruising, pectus excavatum (congenital), barrell chest (COPD).
+Breathing patterns: labored, forced, rapid, or irregular breathing, obstructed exhalation (exhale > inhale, using abs to push air out), intercostal retractions, tachypnea, flail chest
+Chest excursion: asymmetrical due to large pleural effusion, pneumothorax, diaphram paralysis
+
+Auscultation: 
+	- pleural fluid: quiet, dull to percussion, decreased fremitus
+	- consolidation: loud bronchial sounds, dull, increased fremitus, egophany
+	- Pneumothroax
+
+Increased "vocal resonance" can be known as whispered pectoriloquy (louder whisper on auscultation) 
+
+Crackles/rales: discontinuous pooping from airway popping open (coarse, fine, or v. fine (fibrosis))
+	- Late inspiratory: most common, smaller airway eg. heart failure, pneumonia, pulmonary fibrosis)
+	- Early inspiratory: obstructive (COPD, asthma)
+	- Mid-inspriatory - bronchiectasis
+
+Wheezing: high pitched and musical
+Rhonchi: low pitched (like a snore)
+
+Both caused by turbulence in narrowed airway (asthma, COPD, heart failure)
+
 
 
 # Other Notes
