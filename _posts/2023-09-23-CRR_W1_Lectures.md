@@ -17,17 +17,33 @@ resource: true
   - Used for middle ear, UTI, URI, intestinal infections, and pneumocystis-type pneumonia
 ### Inhibitors of cell wall synthesis
 50% of all antibiotics
- - -cillins: penicillin, nafcillin, amoxicillin. **Beta-lactam ring**
+- -cillins: penicillin, nafcillin, amoxicillin. **Beta-lactam ring**
   - Penicillinase inactivates beta-lactam. Need Clavulanic acid to inhibit bacterial penicillase
- - Cef- : cephalexin, cefazolin, cefotoxin
- - Vanomycin: - For MRSA
+- Cephalosporins:
+  - 1st gen: cefazolin (hit **MSSA** and **PEcK**)
+  - 2nd gen: cefoxitin, cefprozil (hit **MSSA** and **HENPEcK**)
+  - 3rd gen: cefotaxime, ceftriazone
+  - 4th gen: cefepime
+  - 5th gen: ceftaroline
+- Vanomycin: For MRSA (IV only)
 - Carbapenems (Imipenem, meropenem): Broad spectrum
 - Monobactams (Aztreonam): Broad spectrum
 
 #### DNA synthesis inhibitors
+Quinolones: Ciprofloxacin, Levofloxacin, Methofloxacin - gyrase inhibitors
+Metronidazole (Flagyl) - ETC binder --> DNA damage
+
 #### RNA synthesis inhibitors
+Rifampin (inhibit bacterial RNA pol)
+
 #### Protein synthesis inhibitors
+- Tetracyclines
+- Chloramphenicol
+- Aminoglycosides: Streptomycin, apramycin, neomycin, gentamicin
+- Macrolides: clindamycin, erythromycin, azithromycin
+
 #### Cell membrane inhibitors
+- Isoniazid (mycobacteria specific - inhibits mycolic acid)
 
 
 ## Respiratory Structure and Function
@@ -396,6 +412,18 @@ Wheezing: high pitched and musical
 Rhonchi: low pitched (like a snore)
 
 Both caused by turbulence in narrowed airway (asthma, COPD, heart failure)
+
+## Ethics
+
+### Belmont Report
+1. Respect for persons: treat those as autonomous and protect those without autonomy
+2. Beneficience: efforts to reduce harm and maximize benefit for participants. Kidness is obligatory
+3. Justice: Burdens of research should be distributed equally amoung parties
+
+### IRB Review
+1. Exempt: very little risk, educational research
+2. Expidited: minimal risk and no invasive procedures, little emotional risk
+3. Full: high risk, invasive, special pops, may involve deception
 
 
 
