@@ -24,3 +24,33 @@ tags: [resources]
 	- point source gives line image with (+) cylinder and virtual line with  (-) cylinder
 	- can be positive or negative power
 - Refractive error: overall eye has (-) focusing power on the order of 45 diopters and works similar to two superimposed cylindrical lenses with perpendicular orientation
+
+### Dr. Lee's Brand Talk
+* Keep detail diary of activities for residency apps
+* Come off as decisive and assertive w/o being agressive
+* Create short vignettes to display the traits (i.e. empathy, assertiveness, teamwork...)
+	* Need 20 vingnettes, pick 10 best to talk about
+	* End each with: What I learned... The best part was... (the takeaway message)
+
+### Dr. Stout Notes
+
+Anterior Segment Exam
+1. Eyelids
+2. Conjuntiva/sclera
+3. Cornea
+4. Anterior chamber
+5. Iris
+6. Lens
+
+* Wide and tall: diffuse illumination for gross abnormalities 
+* Tall and narrow width: cornea and lens (higher brightness)
+* Short and narrow: check anterior chamber
+* Retroillumination: 
+	* Iris: tall and moderate width at angle, will retroilluminate corea
+	* Retna: small square in pupil, check iris translumination defects
+
+
+**Cobalmin1C Disorder**: MMACHC mutation causing elevated methylmalonic acid and homocystine and decreased Met. 
+ - Elevated homocystine: cognitive impairment, cerebrovascular disease, prothrombic state
+ - Low Met: demyelenation/myelination abnormalities. Important for glutathione for retinal pigmented epithelium production --> RPE degeneration
+ - Typically presents early (1st y.o.l) with microcephaly, dysmorphia, and growth retardation. Acidosis, hypotonia, seizure, and severe ocular disease along with general failure to thrive are common. 

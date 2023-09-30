@@ -425,6 +425,26 @@ Both caused by turbulence in narrowed airway (asthma, COPD, heart failure)
 2. Expidited: minimal risk and no invasive procedures, little emotional risk
 3. Full: high risk, invasive, special pops, may involve deception
 
+## Systems thinking
+
+Linear - direct connection b/t cause and effect. To solve, break problem into parts and work to improve them simultaneously
+
+Systems - outcomes determined by interdependencies amoung elements that are indirect, circular, non-obvious. To solve we ID structure and relationships and ID actions that have greatest leverage
+
+Big habits: big picture, structure generates behavior, surface and test assumption, consider all term consequences and MENTAL MODELS.
+
+Shared mental models allow mutral understanding and communicaiton and allow healthcare to work better as a team
+
+ICEBERG: Events --> Patterns of behavior --> System structure --> Mental models
+
+### Ladder of inference
+ - Observe what you notice
+ - Understand the meaning you add and beliefs you develop as a result
+ - Acknowledge what you do based on you beliefs
+
+Use _reflection, inquiry_, and _advocacy_. Make your own thinking clear to others.
+
+
 
 
 # Other Notes
