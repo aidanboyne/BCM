@@ -8,9 +8,370 @@ resource: true
 
 # Lecture Notes
 
+## Acute kidney injury (AKI)
+- increase in serum creatinine by 0.3mg/dL in 48h
+- Increase in serum creatine by more than 50% baseline in past 7d
+- Decrease in urine vol <0.5mL/hr in past 6 hr
+- May be asymptomatic
+- Up to 5% of all hospital visits and 20% of ICU. 3.5d increase in LOS and 6.5x odds of death.
+  - Associated with high risk of CKD
+
+### Acute kidney disease (AKD)
+- less than 3 mo.
+- often interchanged with AKI
+- May be asymptomatic like AKI
+
+### Rule of PEES
+- Pre-renal (prerenal axotemia): before kidneys
+  - Most common
+  - More functional impairment of glomerular filtration rather than kidney damage
+  - ACE inhibitors and NSAIDs predispose to AKI 
+  - Means glomerulus is not getting adequate blood supply --> inadequate filtration
+    - NOT necessarily due to volume depletion (can be due to CHF, cirrhosis with hepatorenal, nephrotic syndrome)
+    - Decreased effective circulation: CHF, cirrhosis, nephrotic syndrome
+    - Vol. depletion: dehydration, vomit, diarrhea, hemorrhage, burn, diuretic, pancreatitis, NG tub suction
+    - Reduced renal flow: renal artery stenosis, vein thrombosis, ACE inhibitors, NSAIDS
+    - LAST THING ADD
+  - Low _effective_ arterial blood volume
+  - Prolonged pre-renal state increases risk of tubule and interstitial injury
+- Parenchymal (intrinsic): in kidney
+  - Vascular
+    - Renal vein thrombosis: usually due to hypercoag. state ie. in nephrotic syndrome. Presents with flank pain, hematuria, oligouria. Need CT/MRI for dx and treat with anticoags.
+    - Acute atheroembolic disease: usually after cardiac procedure in older, diabetic/smoker/HD/male pts. Systemic disorder with hematuria, hypocomplementemia, and reduction in eGFR. Good history needed for dx and supportive treatment.
+  - Glomerulus
+  - Tubules
+  - Interstitial
+- Post-renal: in urinary tract
+  - Obstruction at any point in the urinary tract
+  - Nephrolithiasis (stones), tumor, fibrosis, injury, ligation, lymphadenopathy, BPH, neurogenic bladder, medical urinary retention, strictures
+
+#### Kidney autoregulation
+- Kidney attempts to maintain glomerular hydrostatic pressure
+- Afferent prostaglandins (myogenic response):
+  - Dilate afferent arteriole
+  - NSAIDs block prostaglandins
+- Efferent Angiotensin II (tubuloglomerular feedback)
+  - Constrict efferent arteriole
+  - Blocked by RAS and ACE inhibitors
+  Control via tubulogromerular feedback and 
+
+#### Natural history of AKI/AKD
+- Benign and full recovery if treated appropriatley before tubular injury
+- Severe KI may only recover partially even if we get back to baseline creatanine (due to hyperfiltration by remaining nephrons)
+- Reecovery can take time (usually check around 3 mo.). Depends on injury duration and severity
+
+### Evaluating AKI
+
+#### H&P
+
+Extremely important to pay attention to timeline (pre-existing cond., medications). When did kidneys start becoming abnormal and what happened at that time (infection, new meds...). Check volumne status in exam: BP, HR, wieght, urine output, orthostatic vitals. Cardio, pulm, vascular: volume. Abdominal i.e. ascites, bladder fullness, bruits.
+
+#### Serum markers
+All of the following rise in AKI:
+
+- BUN (blood urea nitrogen)
+  - Freely filtered and reabsorbed
+  - Innacurate with high protein intake, cell turnover, or GI bleed
+- Serum Creatinine
+  - Free filtered, minimal secreted
+  - Based on muscle mass and age: everyone is different
+- Serum Cystatin-C
+  - Free filtered, no secretion
+  - Normal levels same for everyone
+  - Found in all nucleated cells
+- Patterns of increase aid differential:
+  - High BUN:SCr (>20:1) --> suggests prerenal state (lower effective aterial flow) because higher reabsorbtion of urea with Na+ and other solutes by PT (it wants to _preserve volume_)
+
+Relationship b/t creatinine and GFR is a exponential relationship. Keep this in mind: 0.5 --> 0.9 is much scarier than 4.2-->4.6. Curve differs between people - need baseline creatinine.
+
+![GFR creatinin](/img/GFR_creat.png)
+
+#### Urinary markers
+
+- Specific gravity is marker of urinary concentration and ADH activity. 
+- Glucosuria without hyperglycemia --> PT dysfunction (medication or injury)
+- Microscopic
+  - Sterile pyuria: interstitial inflammation
+  - Hematuria --> glomerular esp. with dysmorphia
+  - Casts
+    - Muddy brown: ATN
+    - RBC: glomerulonephritis
+    - WBC: interstitial disease
+- Electrolytes: Na+ and K+
+  - Low Na+ (<20meq/L) at expense of K+ suggests high aldosterone
+- Use FE<sub>Na</sub> = Clearance of Na+ / Clearance of Creatinine = (U<sub>Na</sub> x P<sub>Cr</sub>)/(P<sub>Na</sub> x U<sub>Cr</sub>)
+  - Can only use FE<sub>Na</sub> in oliguria
+
+#### Urine
+- Average person urine output (UOP): 800-2000mL/day
+  - Assumes average fluid intake
+- Polyuria > 3L/day
+  - Normal if you are drinking 3L/day
+  - Abnormal
+    - Osmotic diuresis (ie. glucosuria in DM)
+    - Diabetes insipidus
+    - Impaired concentrating ability (hypokalemia, hypercalcemia, tubulointerstitial injury)
+- Oliguria (< 500mL/day): usually prerenal axotemia
+- Anuria: usually urinary obstruction
+- Average osmolar intake about 600mosm/day
+  - Urinary concentrating ability 50-1200 mosm/L --> lowest amount to remove osmolar load = 0.5L/day
+
+#### Imaging
+
+* X-ray OK for stones (KUB).
+* Renal ultrasound is really good. Can see obstruction, parenchymal disease, doppler blood flow. Safe, no contrast, can use in pregnant pt, GFR independent. Dosen't really show uretral anatomy.
+* CT/MRI really good for Tumors, trauma, vascular images. CT most important for **stones**. High res and non invasive. Expensive, dye toxicity, radiation in CT
+* Renal angiography good in renal vascular disease. Good for precise imaging and can do angioplasty if needed. Invasive, expensive, dye toxicity
+* Radionuclide imaging: gives differential renal function (GFR) and evaluate for obstruction. High diagnostic accuracy but takes awhile and needs radioisotopes
+
+#### Histology
+
+Kidney biopsy (esp if suspecting glomerular disorder) is last option if things remain unclear.
+
+#### Case notes
+- BPH: dibbling urine, can only urinate with full bladder. Often presents with frequent UTI
+- Glomerular nephritis: Coca-cola urine = hematuria. Suggests kidney damage (Glomerulus should keep RBC, WBC, protein out of urine). Someone becoming hypertensive after infection suggests kidney issue. Evaluate by spinning urine and you will brobably see red cell cast.
+
+
+## Kidney and CKD
+- Vasa rectua: peritubular capilaries of juxtaglomerular nephrons
+- PT: bulk of reabsorbtion of water and solutes
+- Henle: Some solute reabsorbtion, urine concentration
+- Distal: fine tune
+
+Most common causes of end stage renal disease (ESRD): hypertension, diabetes, and glomerulonephritis. Hyperkalemia is commonly observed complication of CKD leading to complications such as cardiac arrythmias (prolonged PR, peaked T-waves, widened QRS in severe cases) and possible muscle weakness.
+
+In CKD we have impaired ability to secrete BUN, Creatinine, and Potassium (elevated), and decreased Na+, Bicarb, and pH as kidneys cannot excrete as much free water and acid generation is up. Hyperkalemia develops
+
+CKD leads to decreased renal phosphate secretion --> increased serum phosphate. This phosphate binds Ca2+, leading to serum hypocalcemia. This incerases PTH to get rid of phosphate and increases calclium release from bone to correct hypocalcemia. However, long term this leads to osteoperosis.
+
+ESRD is inflammatory state. Hepsidin is upregulated, leading to decreased GI absorbtion of Fe. We also see reduced EPO produciton due to inflammation and accumulation of uremic toxins (ie. IS, PCS) --> anemia. This can lead to heart failure.
+
+CRF presents as weakness, fatigue, confusion, increased BP and pitting edema. Also see SOB, metallic taste in mouth and nausea/vomiting. Uremic toxins can cause itchy skin or pertusis. Impaired PTH leads to cramps and renal osteodystrophy.
+
+#### Dialysis indications (AEIOU)
+- **A**cid/base disturbances: severe metabolic acidosis (<7.1-7.15)
+- **E**lectrolyte: severe hyperkalemia > 6.5 or rapid rise
+- **I**ntoxication (methanol, ethylene glycol, lithium, ASA)
+- **O**verload of volume (refractory to treatment)
+- **U**remia (pericarditis, encephalopathy)
+
+![Dialysis Types](/img/dialysis_types.png)
+
+CVC and arteriovenous grafts (AVF) have foriegn material: biofilm formation --> infection and thromous sites.
+
+## Kidney Transplant
+
+#### CKD Staging
+* Stage 1 with normal or high GFR (GFR > 90 mL/min)
+* Stage 2 Mild CKD (GFR = 60-89 mL/min)
+* Stage 3A Moderate CKD (GFR = 45-59 mL/min)
+* Stage 3B Moderate CKD (GFR = 30-44 mL/min)
+* Stage 4 Severe CKD (GFR = 15-29 mL/min)
+* Stage 5 End Stage CKD (GFR <15 mL/min)
+
+Kidney transplant is best option for ESKD (Stage V). Can hit 50-85% of basal filtration. Dialysis just does bare minimum for survival (10-15% of basal filtration). Studies have shown relative risk of mortality after about 1 year is 0.5 compared to waiting list. 
+
+Generally, people with ESKD die of _cardiovascular complications_ which are vastly reduced with transplant. Transplant is also much cheaper: average annual expenses for ESRD are 95k for HD, 75k for PD, and 37k for KT (after initial expenses). The most significant factor at patient level is improved QOL (improved uremic complications, anemia, sexual function), freedom from dialysis, less dietary/travel restricitons, and more normal lifestyle.
+
+### Types of translpant
+- Autograft: same person (i.e. skin graft)
+- Syngenic graft: identical twin
+- Allograft: most common, from nonidentical individual
+  - Deceased donor
+    - Procured from donors who are brain dead but still on life support
+  - Living donor: living-related or living-unrelated
+- Xenograft: from different species (i.e. bovine heart valve)
+
+Eligible patients are placed on waiting list. Long waiting times (3-5yrs) due to large number of patients and few available organs. Kidney usually lasts 8-12 years from deceased donor.
+
+Living donations make up 6000 (about 1/3 of transplants) procedures per year in US. You lose 1/2 nephrons but other kidney can compensate to about 65-70% of base GFR, enough in healthy donors to live normal rest of life.
+  - Reduced waiting time for recipient
+  - Elective vs. emergent surgery
+  - Better donor matching
+  - Better kidney function (usually 15-20yrs vs 8-12 for deceased)
+    - Longest donor kidney lasted 50+ years
+  - Better life expectancy
+  - Donors get priority for transplant if they devlop ESRD 
+
+First living donor transplant was in 1954 between monozygotic twins in Boston by Dr. Joseph Murray (got Nobel prize). In 2022 crossed 1 million transplants.
+
+#### Transplant process
+- Recipient evaluation
+  - Anyone on dialysis (ESRD)
+  - GFR ≤ 20mL/min/1.73m2 (not yet on dialysis)
+- Contraindications
+  - Severe uncorrectable systemic conditions (short life expectancy)
+  - Active infection, malignancy, illicit drug use
+  - Poor functional status (bed bound)
+  - Uncontrolled psychiatric disorder
+  - High risk medical non-compliance
+  - Anatomy such that tranplant is not possible
+- Surgery
+  - Kidney typically placed in R/L illiac fossa and hooked up to corresponding R/L common illiac artery and vein. The ureter is hooked up to dome of urinary bladder. Diseased kidney not removed unless necessary (i.e. very large polycystic kidney)
+  - Main barrier is transplant rejection. Mainly caused by:
+    - ABO blood group mismatch
+    - HLA mismatch
+- Pre-transplant tests
+  1. ABO blood typing
+    - AB antigens are carbohydrate moieties on blood cells and endothelium.
+    - Type A has A antigen and anti-B antibody and so on. O has no antigen but both antibodies
+      - O = universal donor
+      - AB = universal recipient
+  2. HLA (tissue typing)
+    - Group of proteins encoded by MHC genes
+    - Regulate immune response: self-recognition
+    - Self MHC = No reaction
+    - We primarily look at 6 antigens (1 from each parent of each HLA-A, HLA-B, HLA-DR): best match has lowest chance for transplant rejection
+      - Siblings are often best chance. If no related donor, only 1/100,000 chance of exact match.
+      - Can still do OK transplant if you don't have HLA antibodies (or very few) against donor mismatched HLA
+    - HLA antibodies develop via
+      1. Pregancy
+      2. Blood tranfusions
+      3. Prior transplant
+  3. Crossmatching
+    - Take recipient serum and mix with donor lymphocytes in presence of complement. If serum has HLA antibodies against donor, we don't see any cell lysis. If it does, ≥20% of cells are lysed.
+
+Overall, we need ABO compatibility, as much of HLA match as possible, and negative crossmatch.
+
+#### Immunosupression
+Prevent lymphocyte recognitionof non-self by blocking lymphocyte activation or proliveration. Use combination of agents. Prevent rejection, treat rejection episodes, and increase graft survival. However increase risk of infection and cancers.
+
+#### Kidney paired donation (KPD) and Domino Chain
+Exchange kidney transplant between 2 donor-recipient pairs (when living donor are ABO mismatch or positive crossmatch). Domino chains help registered pairs swap well (longest was 70 patients).
+
+## Pathology
+Classified on a spectrum from nephritic to nephrotic.
+- **Nephrotic**: _proteinuria_
+  - Minimal change disease, membranous N, FSGS, Amyloidosis, Diabetic nephropatyhy
+- **Nephritic**: _Hematuria + lowered GFR_
+  - IgA Nephropathy, post infections GN, Rapidly progressive GN
+
+_Keep in mind_: you can see a little mix in these disorders. However the primary features should be the same. Classically **mixed** disorders are membranoproliferative GN and lupus nephritis. _Biopsy_ gives us accurate diagnosis.
+
+### Biopsy
+- Send most superficial and deep to **EM**
+- Send glomerulus (cortical) for immunofluoresence
+- Send tubules and glomerulus to staining
+  - H&E
+  - Periodic acid-Schiff: basement membrane via glycoproteins, proteoglycans
+  - Methenamine silver
+  - Trichome: interstitial fibrosis
+  - Congo red, and some others
+
+![Glomerohisto](/img/glomerulus_histo.png)
+
+### Renal amyoloidosis
+- Plasma cell disorder: abnormal proliferation of amyloid light chain OR chronic inflammation causing serum amyloid associated protein --> insoluble fibrils cause aggregation and extracellular deposution. In glomerulus causes proteinuria, in vasculature reduced GFR, some more effets...
+
+#### Cases
+
+
+##### Case 1
+
+6y.o. presenting post strep infection. We would want to order antistreptolysin to see if hematuria and mild proteinuria is strep related. Biopsy shows hypercellular glomerulus with neutrophil infiltration. 
+
+We will see coarse, granular deposits of IgG and C3 along capillary wall and subepithelial humps on EM.
+
+Neutrophils in glomerulus will eventually die and release proteases, destroying glomerular membrane: proteinuria and hematuria.
+
+Diagnosis: Poststreptococcal glomerular nephritis. Classically presents with strep infection (group A beta-hemolytic). 1-2 weeks after sore throat or 2-6 weeks after skin infection we have antibodies, antigens, or complexes depositied followed by neutrophil invasion. This causes the proteinuria and hematuria and hypercellularity.
+
+
+##### Case 2
+44y.o. man with swelling and distended abd. SOB. Edema and ascites. Up serum cholesterol, low albumin, no hematuria, and normal creatinine. Negative hep B/C, fatty casts in urinalysis.
+
+On H&E we see uniform thickening on glomerular capillary walls. We do silver stain to highlight proteinaceous basement membrane. This has characteristic bubbly (or _spike and dome_) appearance. We get postitive granular IgG staining.
+
+Why is patient swollen? Proteinuria --> hypoalbuminemia --> low plasma oncotic pressure --> water to interstitium --> peripheral edema and down effective circulating volume --> RAS activation --> increased Na and water reteintion which further decreases oncotic pressure and worsens edema and ascitis (this fluid in abdomen makes it hard to breath).
+
+**Diagnosis: nephrotic syndrome**
+
+Patient returns with L-flank pain for 1 week. He was treated with prednisone for nephrotic syndrome. On CT we see large LT renal vein indicating thrombosis. In nephrotic syndrome, we are not only losing albimin but also coagulation inhibitors and factors. Hepatic fibrinogen synthesis increases to compensate and increases coagulability
+
+##### Case 3
+
+14y.o. boy with known minimal change disease presents ill with diffuse abd. pain (tenderness and guarding and rebound tenderness), fever, dehydration, fever.
+
+Glomerulus looks normal. However on EM, we have fused podocyte foot processes (effacement). Children with nephrotic syndrome are prone to developing spontaneous peritonitis for 2 reasons:
+1. **Loss of immunoglobulins** in urine
+2. Immunosuppression from **prednisone**
+
+
+##### Case 4
+
+25y.o. woman with new onset painlesss hematuria and proteinuria. URI past week. Microscopic blood, 3+ protein, and several RBC cases. Nephritic case.
+
+Biopsy: mesangium expansion due to mesangial cell proliferation (hypercellular). Lumens are intact. Electron dense mesangial deposits that are positive for Ig antibody. Generally we classify mesangial expansion and proliferation as ≥ 4 cells.
+
+**Diagnosis: IgA nephropathy** (most common nephropathy in the world, can present post URI) - due to mesangial immune complex deposition and injury.
+
+##### Case 5
+
+55y.o. rising serum creatinine with proteinuria. Has not seen physician in a long time. Biopsy presents with nodular glomerulus. EM shows thickened basement membrane. We call this presentation nodular glomerulosclerosis. We would not see immunofluoresence.
+
+**Diagnosis: Diabetic Neuropathy**
+
+##### Case 6
+
+65y.o. with HTN and no history of DM or familial kidney diseases. 
+
+Biopsy with H&E and especially PAS shows a particular region with segmental solidification of the tuft near PCT.
+
+**Diagnosis**: focal segmental glomerulosclerosis. Can be idiopathic or secondary (to HTN, obesity)
+
+##### Case 7
+
+Hypercellular, nonexudative glomerulus with **double layer membrane** on biopsy. This double layer is due to deposits (or even entire cells) in membrane. We call this membranoproliferative glomerular nephritis, a chronic condition. Characterized by **endocapillary hypercellularity** and **capillary wall thickening**.
+
+Chronic infections or autoimmune disorders or complement dysregulation cause cycles of capillary wall injury, proliferation/inflammation, and healing. Over time, this constant capillary wall remodeling causes formation of new basement membrane with cellular interposition. This is a _mixed_ nephritic and nephrotic syndrome to to general GBM damage.
+
+##### Case 8
+41y.o. has rapid deterioration of renal function with hemoturia, proteinuria, HTN, and oliguria. Patient dies and kidney biopsy is performed on autopsy. 
+
+We see a crescent shaped area outside the capillaries with extreme hypertrophy filling the Bowman's space and compressing the capillary tuft. On silver staining we see serious crusing and compaction of basement membrane, along with necrosis of some Bowman's membrane,
+
+**Diagnosis: Rapidly progressive glomerulonephritis**. Fibroblasts rapidly proliferate.
+
+##### Case 9
+
+Alport syndrome (genetic disorder). We see kidney disease with loss of hearing and eye abnormalities. Glomerulus looks normal under light microscopy but with EM we can see a very thin basement membrane at early stages.
+
+Later stages we actually see a "weaving basket" pattern with thick basement membrane.
+
+## Renal Radiology
+
+Kellen Carril (shadow)!!!
+
+#### Case 1
+39y.o. femal no significant PMHX with acute excruciating L back pain and dysuria. Worst pain of life with high BP, high RR, and high HR. 
+
+Differential:
+1. Kidney stone
+2. Some other stuff..
+
+We want **CT without contrast**. Iodine can obscure stone. To determine if a CT is with contrast, look at aorta (will be whitish), and liver (bright portal and hepatic veins).
+
+We see the left kidney has delayed uptake of contrast (delayed nephrogram), dilated calycies and renal pelvis, perinephric fat stranding and edema. Big thing though is stone in upper thrid of ureter.
+
+**Diagnosis**: Left obstructive uretal calculus with hydronephrosis.
+- Extremely common in ER
+- Often see at:
+  - Ureteropelvic junction
+  - Mid ureter: pelvic rim and vessels cross here
+  - Ureterovesical Junction
+
+Large stones causing obstruction cause classic costovertebral angle (CVA) tenderness. 
+
+
+
+# Pre-reading
+
 ## Kidney anatomy
 
 Kindeys excrete and remove metabolic waste and foreign substance via urine. Also activate vitamin D and help maintain fluid vol., pH, BP, and electrolytes. Secrete EPO.
+
+Adult kidneys filter about 150L/day (30x volume every day) and recive about 1/4 of CO. 
 
 Adrenal glands sit on top, ureters lead out to bladder. Posterior to peritoneum (retroparitoneal) and lie on posterior abominal wall. Both around T12-L3 and R. kidney lower to accomodate liver.
 
@@ -25,6 +386,12 @@ Outer renal cortex, inner renal medualla.
 Columns extend into medulla dividing it into renal pyramids whose apex (renal papilla) directed towards hilumn where urine is excreted into minor calyx --> major calyx --> renal pelvis. 
 
 Renal arteries are direct branches of abdominal aorta at L1-L2. R. renal a. is longer as abdominal aorta is L of vertebral column. Vertebral veins drain into IVC. L. renal vein drains L. inferior phrenic, L. suprarenal, and L. gonadal vv. It passes anterior to abdominal aorta and posterior to superior mesenteric a.
+
+Renal artery --> Interlobar arteries (through renal columns) --> Arcuate arteries (base of renal pyramids) --> cortical radiate arteries --> afferent arterioles.
+
+Efferent arterioles split again into capillaries surrounding loop of Henle (peritubular capillaries). Then form cortical radiate veins --> arcuate veins --> interlobar veins --> renal vein --> IVC.
+
+Each kidney has around 1 million nephrons.
 
 
 ### Ureters
@@ -177,3 +544,43 @@ Less space in utero is main cause of extremity defects.
 
 
 # Other Notes
+
+## Renal System Physiology
+
+### Bowman's Capsule and Glomerulus
+
+#### Juxtaglomerular complex
+- BP regulation, helps control GFR
+- Made of:
+  - Macula densa: Sense low Na, Cl (hypovolemia and hypotension)
+  - Extraglomerular mesanginal: pass signal from macula densa to juxtaglomerular cells
+  - Juxtaglomerular cells: recive signal and sense low pressure to secrete renin increasing Na reabsorbtion, rasing blood volume. Also constricts blood vessels to raise BP.
+  
+#### Bladder
+- Bladder has ureterovesical junction, preventing urine backflow.
+- Muscular wall with folds called _rugae_ allowing expansion and collapse. 
+- Mucosa layer in bladder wall with transitional epithelium
+  - Stretchy, forms barrier
+- **Detrusor Muscle** lies under this layer and contracts during urination.
+- Fibrous adventitia outer layer
+- Located anterior to vagina and uterus in females and immediatley anterior to recutm in males.
+- Holds about 750mL, less during pregnancy.
+
+##### Trigone region
+- 3 junctions:
+  - 2 **ureterovesical junctions**: where ureters fill the bladder
+  - 1 internal urethral orifice where bladder meets urethra. **Detrusor muscle** thickens here to form the **internal sphincter**
+    - Internal sphincter is under autonomic (involuntary) control and is closed with bladder is not filled
+    - External sphincter at floor of pelvis allows voluntary control of urination
+  - Very sensitive to pressure (around 3-400mL). This sends signals to **urination/micturition center** at spinal _S2 and S3_ resulting in micturition reflex: bladder contraction and relaxation of internal and external sphincters
+  - Pontine storage and micturition centers in pons control voluntary urination
+    - Pontine storage _stops micturition reflex_
+    - Pontine micturition center _allows micturition reflex_
+
+#### Urethra
+- Thin muscular tube draining bladder
+  - Passes through **prostate** as _prostatic urethra_ in males, then through **perineum** as _intermediate urethra_, and finally through **penis** as the _spongy urethra_.
+  - Passes through perineal floor of pelvis, then exits between labia minora above vaginal opening and below clitoris at **vulval vestibule**.
+
+### Glomerular Filtration
+
