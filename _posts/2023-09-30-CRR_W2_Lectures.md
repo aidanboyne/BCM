@@ -341,10 +341,8 @@ Later stages we actually see a "weaving basket" pattern with thick basement memb
 
 ## Renal Radiology
 
-Kellen Carril (shadow)!!!
-
 #### Case 1
-39y.o. femal no significant PMHX with acute excruciating L back pain and dysuria. Worst pain of life with high BP, high RR, and high HR. 
+39y.o. female no significant PMHX with acute excruciating L back pain and dysuria. Worst pain of life with high BP, high RR, and high HR. 
 
 Differential:
 1. Kidney stone
@@ -547,8 +545,6 @@ Less space in utero is main cause of extremity defects.
 
 ## Renal System Physiology
 
-### Bowman's Capsule and Glomerulus
-
 #### Juxtaglomerular complex
 - BP regulation, helps control GFR
 - Made of:
@@ -582,5 +578,18 @@ Less space in utero is main cause of extremity defects.
   - Passes through **prostate** as _prostatic urethra_ in males, then through **perineum** as _intermediate urethra_, and finally through **penis** as the _spongy urethra_.
   - Passes through perineal floor of pelvis, then exits between labia minora above vaginal opening and below clitoris at **vulval vestibule**.
 
-### Glomerular Filtration
+## Pathologies
 
+### Nephrotic Syndrome
+
+_Damage_ to glomerulus characterized by proteinuria (typically ≥ 3.5 g/day) resulting in
+- Hypoalbuminemia: pitting edema
+- Hypogammaglobulinemia: higher infection risk
+- Hypercoaguable state: loss of antithrombin
+- Hyperlipidimia/cholerserolemia: potential fatty casts in urine
+
+**Minimal change disease**: effacement of podocyte foot processes, allowing albumin but not immunoglobulins through (selective proteinuria). Idiopathic but assoicated with hodgkin's lymphoma. Not visible with light microscopy, or even usually immunofluorescence (cytokine mediated rather than antibody mediated damage). Treated with corticosteroids - generally good response in children.
+
+**Membranous nephropathy**: immune complex deposition (autoantibodies against M-type phospholipase A2, Neutral endopeptidase, or others) over time causes thick, granular _subepithelial deposits_ that increase width of the basement membrane. This is seen as **spike and dome** under EM. Usually idiopathic, but associated with hep B/C, tumors, SLE, and NSAIDs/penicillamines. The immune complexes cause complement activation and MAC recruitment, damaging podocytes and basement membrane. Most common nephrotic syndome in _caucasian adults_. Treatment with steroids has mixed results, and disease can progress to chronic kidney failure.
+
+**Diabetic nephropathy**: Leading cause of ESRD. Nonenzymatic glycolysation of vascular basement membrane results in hyaline arteriolosclerosis, especially in _efferent_ arteriole. This causes high GFP and ensuing hyperfiltration progressing into sclerosis of mesangium (Kimmelstiel-Wilson nodules). Glycemic control and hypertension control via ACE inhibitors/ARBs slow progression, but there are often no symptoms during hyperfiltration stage so screening for urine albumin is critical in diabetic patients.
