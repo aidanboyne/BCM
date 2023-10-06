@@ -361,7 +361,61 @@ We see the left kidney has delayed uptake of contrast (delayed nephrogram), dila
 
 Large stones causing obstruction cause classic costovertebral angle (CVA) tenderness. 
 
+## Tubulointerstitial disease
 
+Anything blocking efficient blood flow to renal artery --> tubular ischemia --> PCT necrosis.
+
+##### Case 1
+
+53y.o woman with essential HTN of hydrochlorothiazide. On d11 of treatment gets erythematous maculopapular rash and fever. History HTN, GERD, back pain. Meds: pantoprazole, NSAID, hydrochlorothiazide.
+
+* Tests: Urinalysis, CBC, kidney function
+  * BUN: 25, Creatinine: 1.9mg/dL (from 0.7 3 mo ago), normal CDC, high eosinophilia (12% on differential). Urinalysis with leukocyturia and WBC casts.
+* Biopsy: interstitial edema with monocytic infiltrates. Space between tubules is packed with monocytes with some eosinophils. We also have edema in intertubular space and WBC casts. There are missing cells in tubules indicating acute necrosis.
+
+We thus have damage to PCT due to the cell infiltrate which is trying to absorb the leakage, but they end up dying there creating cast. We can tell the difference between inflammatory cells (small dark nucleus) and tubular cells (larger, more eosinophilic nuclei).
+
+**Diagnosis**: Acute tubulointerstitial nephritis
+- Most common cause of acute tubulointerstitial nephritis is NSAID, however this is not the cause here.
+- We know it is probably hydrochlorothiazide because other 2 drugs have been in use for a while. **Timing**. It is binding some proteins in the tubules forming a _nephrogenic antigen_ which leads to _inflammation_ and damage to tubular epithelial cells. If not managed this can cause CKD.
+
+![ACI](/img/acute_interstitial_nephritis.png)
+
+##### Case 2
+
+22y.o. woman with sickle cell on hemodialysis 2yr ago. Creatinine progressivley increasing since 18 at 1.4mg/dl. She has requried 2 transfusions in past year and is on hydroxyurea. Sickle cell is known to cause CKD via microvascular occlusion in the peritubular capillaries. The lower loop is stressful region for RBC as it is hypoxic and has large osmotic gradient (in medulla). This causes sickling of RBC in those with sickle cell disease.
+
+Biopsy: We see significant interstial scarring with some tubular atrophy (tubule cells are no longer cuboidal, they look squamous now though).
+
+##### Case 3
+
+22y.o. male presents for exam for military service. History and labs reveal: HTN, history of UTI and nocturia, kidney function impairment. Otherwise healthy and well developed.
+- Ultrasound: hyperechoic kidney cortex and calyx. The surface is not smooth, collagen bands are pulling on the cortex.
+  - If you see larger/inflammed kidney - think acute. Atrophied kidney is suggestive of chronic issue.
+
+Biopsy reveals chronic interstitial nephritis. Most likley due to structural disorder.
+
+**Diagnosis**: reflex nephropathy due to vesicoureteral reflux (VUR).
+
+##### Case 4
+
+36y.o. man treating for bipolar disorder. Returns 2mo following lithium carbonate prescription with 4w history of increased urinary frequency and volume. You suspect pt. has diabetes insipidus.
+- Tested blood ADH and urine osmolality: reveals _nephrogenic_ diabetes insipidus (late DCT and collecting duct)
+  - Harder to treat than central diabetes insipidus (hypothalamus not producing ADH)
+
+##### Case 5
+
+62y.o. woman with multiple myeloma showed tubular injury on biopsy 1mo ago. She has glucosuria and high uring pH. Blood acidosis and high pCO2, low HCO3. She has **proximal renal tubular acidosis** (type-2). Multiple myeloma can result in direct PT injury due to overproduction of Ig. Free light chains pass through glomerulus in high concentration to ultrafiltrate and are endocytosed by tubular cells --> loss of function --> interstitial nephritis --> progressive interstitial fibrosis.
+- Type 1:
+- Type 2: bicarbonate is not properly reabsorbed by the kidney's filtering system
+
+##### Case 6
+
+Upregulated ENaC in cortical _collecting ducts_. This is characteristic of **Liddle syndrome** (Bartter does thick ascending). **Liddle syndrome** results in:
+ - Hypokalemia
+ - Metabolic alkalosis
+ - Hypertension
+ - Suppressed aldosterone levels
 
 # Pre-reading
 
