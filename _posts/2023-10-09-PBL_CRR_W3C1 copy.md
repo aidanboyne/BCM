@@ -43,9 +43,16 @@ Hypertension is very common with aortic dissection, and a sudden drop in BP indi
 
 Other findings on physical include wide pulse pressure, syncope or altered mental status, loss of peripheral pulse, and horner syndrome (compression of synpathetic nerve fibers).
 
-Patients with thoracic aortic dissection, particularly younger patients and others without an identifiable etiology for aortic dissection (eg, severe hypertension, pregnancy/delivery, aortic trauma), should be evaluated for possible underlying genetic (Marfan syndrome, Loeys-Dietz syndrome, Vascular Ehlers Danlos syndrome, Turner syndrome) or familial disorders (SMAD3 mutations, familial thoracic aortic aneurysm and dissection) known to be related. 
+Patients with thoracic aortic dissection, particularly younger patients and others without an identifiable etiology for aortic dissection (eg, severe hypertension, pregnancy/delivery, aortic trauma), should be evaluated for possible underlying genetic (**Marfan syndrome** (_FBN1 gene on Chromosome 15 coding for fibrilin for synthesis of elastic fibers_), **Loeys-Dietz syndrome** (connective tissue disorder, additionally causes twised arteries not seen Marfan), **Vascular Ehlers Danlos syndrome** (collagen type III disorder), Turner syndrome) or familial disorders (SMAD3 mutations, familial thoracic aortic aneurysm and dissection) known to be related. 
+
+**Visceral Pain**: Crushing, pressure, nausea... associated with organs i.e. MI. May be referred
+**Somatic Pain**: Very sharp, tearing or popping... aortic dissection presents with _somatic pain_
 
 ## Evaluation
+
+#### Labs
+
+In aortic dissection we expect to see _negative_ troponins, _positive_ d-dimer. Also check for kidney funciton (flap obstruciton of renal artery), lipids to start treating hyperlipidemia if suspected. 
 
 ### CXR
 
@@ -64,7 +71,7 @@ This can also present with the following conditions:
 * Cardiac tamponade
 * Fractured ribs or thoracic vertebrae
 
-Other CXR findings include L-apical cap, esophageal/tracheal deviation, L-bronchus depression, and pleural effusion.
+Other CXR findings include L-apical cap, esophageal/tracheal deviation, L-bronchus depression, and pleural effusion. Helps rule out pneumothroax
 
 
 #### CT Findings
@@ -137,7 +144,7 @@ Ascending aortic dissections are almost twice as common as descending dissection
 
 #### Consequences
 
-Most tears take place in the ascending aorta, usually in the right lateral wall where the greatest shear force on the aorta occurs. The tear usually dissects the media in two parts, forming a lumen between intima-media and media-adventitia. An AAD can propagate anterograde and/or retrograde and depending on the direction the dissection travels, cause branch obstruction that produces ischemia of affected territory (coronary, cerebral, spinal, or visceral), and for proximal type A AADs can instigate acute tamponade, aortic regurgitation or aortic rupture.
+Most tears take place in the ascending aorta, usually in the right lateral wall where the greatest shear force on the aorta occurs. The tear usually dissects the media in two parts, forming a lumen between intima-media and media-adventitia (in between the media, typically in the outer thrid). The blood supply to adventitia and outer thrid of media is from vaso vasorum while the internal 2/3 of the media is supplied by the lumen. We can also see tears in intima only. An AAD can propagate anterograde and/or retrograde and depending on the direction the dissection travels, cause branch obstruction that produces ischemia of affected territory (coronary, cerebral, spinal, or visceral), and for proximal type A AADs can instigate acute tamponade, aortic regurgitation or aortic rupture.
 
 Mortality is very high (20-30%). Other complications include 
 * Multiorgan failure
@@ -150,6 +157,8 @@ Mortality is very high (20-30%). Other complications include
 * Tamponade
 * Acute aortic regurgitation
 * Compression of superior vena cava
+* Horner's syndrome
+   - Eyelid drooping, pupil constriction, lack of sweating
 
 # Treatment
 
@@ -165,6 +174,7 @@ Type A repair involves excision of tear, obliteration of entry to false lumen, a
 
 Type B management is more variable:
 - For most patients who are hemodynamically stable with uncomplicated type B aortic dissection, we suggest ongoing medical therapy, rather than early endovascular intervention (Grade 2C). However, the patient and clinician may reasonably choose endovascular intervention in addition to ongoing medical therapy to prevent malperfusion or other aortic complications, placing more value on potentially improved aortic outcomes in the long term over potential perioperative complications (eg, stroke, spinal cord ischemia).
+   - As long as clot does not expand, we see neointimal formation and organization, patient's usually do ok.
 - Complicated acute type B aortic dissection requires urgent intervention, which can be lifesaving. Approximately 30 percent of patients presenting with type B aortic dissection are acutely complicated. Complications can also develop during a period of initial medical management. Complicated type B aortic dissection is present if there is a major aortic branch leading to end-organ ischemia (ie, malperfusion), rapid expansion or aneurysmal degeneration of the aortic wall, expanding hematoma, impending or frank rupture, propagation of the dissection (as may be manifested by persistent or recurrent pain), or refractory hypertension (persisting despite ≥3 classes of antihypertensives at max doses)
 
 ## Treatment
@@ -172,8 +182,6 @@ Type B management is more variable:
 #### Labetalol
 
 Labetalol is often chosen as treatment of acute hypertension by anesthesia providers peri-operatively as it produces a dose-related decrease in blood pressure without reflex tachycardia without significant reduction in heart rate. Labetalol is useful as it contains both selective, competitive, alpha1-adrenergic antagonism and non-selective, competitive, beta-adrenergic (B1 and B2) blocking activity in a single agent. When analyzed in the laboratory, the activity ratio of alpha to beta-blockade has been estimated to be approximately 1 to 3 and 1 to 7 following oral and intravenous (IV) administration, respectively.
-
-Managing hypertension, or high blood pressure, typically involves a combination of medical treatment and lifestyle changes. It's essential to work closely with a healthcare professional to create a personalized plan that suits your specific needs. Here's a comprehensive guide on managing hypertension both medically and through lifestyle changes:
 
 ### HTN Management
 
