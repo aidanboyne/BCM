@@ -1,6 +1,6 @@
 ---
-title: Chest Pain
-date: 2023-10-09 12:00:00 -500
+title: Chest Pain and Oral Presentation
+date: 2023-10-25 12:00:00 -500
 categories: [pom]
 tags: [crr]
 ---
@@ -136,4 +136,62 @@ Non-valvular murmurs: VSD, hypertrophic obstrutive cardiomyopathy, PDA
 - Rubs and knocks
     - Acute pericarditis: acute friction rub
     - Pericardial knock with constrictive pericarditis (similar to S3)
-    
+
+    Zaven CRRW5
+
+# Communicating in Medicine
+
+### General Principles
+
+**Organization**
+- Grammar of clinical communication
+- Different sections of facts v. opinions
+
+**Efficiency**
+- High signal to noise, report relavant info in fewest # syllables
+
+**Engagement**
+- Pacing, tone, eye contact, and simple language
+
+### History
+1. Name, reason for visit, HPI
+- Age, history, current complaint and duration
+- Chronological narrative of illness
+- Relevant ROS, risk factors
+- Patient perspective
+2. Med-surg hx and meds
+- Medical history as mentioned above + any details and other medical problems not mentioned
+- Surgeries
+- Read list of meds (don't give indications or doses, unless unusual)
+3. Allergies: list 'em
+4. Social/health behaviours
+- Fam support and living situaiton, occupation
+- Tobacco, alcohol, drug use
+- Other things as relevant
+5. Fam hx: only relevant (i.e. no history of any related or relevant conditions)
+
+ROS: usually not gone over in verbal presentation as those that are you put it in HPI
+
+### Physical
+1. Vitals
+2. General appearance
+3. Head-to-toe
+- Help listener visualize patient and simplify language when necessary
+
+### Summary statement
+Encapsulate clinical picture: 1-2 sentences distilling highlights: "middle aged man w hx of heavy smoking and CAD, here with xyz. ROS physical highlights..."
+
+## Systemic Edema
+- Think first: Heart failure and Cirrhosis (sometimes evident in physical), Nephrotic Syndrome (need serum/urine labs)
+- Think second: low albimin, vascular leak, meds, endocrine, excessive salt
+
+## Syncope Case
+- Transient loss of conciousness due to loss of perfusion to the brain
+- Reflex: Vasovagal (stress, heat), Situational (sneeze, pee, poo), Other (carotids)
+- Orthostatic: Decreased autonomic activity (neurodegenerative or systemic issues), Meds (alpha blocker, BP meds, TCAs), low-volume/postprandial
+- Cardiogenic: Arrythmias (AV block, SVT, VT) and structural (aortic stenosis, tamponade, PE, HOCM)
+- Can present similarly to seizure, stroke, and hypoglycemia
+
+- Sudden, witnessed, transient syncope in previously healthy middle aged woman in warm environment. No twitching during episode, groggy afterwards.
+
+
