@@ -5,8 +5,6 @@ categories: [pom]
 tags: [crr]
 ---
 
-Certainly, I'll provide answers to your medical student study guide for a radiology basics exam using medical terminology and formatting in markdown:
-
 ### 1. Imaging Modalities
 
 a. Different Imaging Modalities and Basics:
