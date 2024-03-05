@@ -21,3 +21,7 @@ package-lock.json
 # Misc
 assets/js/dist
 _archived
+
+# Random pages causing issues
+# _posts\2024-02-25-PBL_EGGS_W3C1.md
+# _posts\2024-02-26-PBL_EGGS_W3C2.md
