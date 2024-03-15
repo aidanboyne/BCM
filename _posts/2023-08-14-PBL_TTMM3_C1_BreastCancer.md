@@ -13,9 +13,8 @@ Breast cancer is uncontrolled growth of breast epithelial cells (thus an **adeno
 * Increased estrogen exposure
     - Early menarche, late menopause, post menopausal obesity, hormone replacement therapy, pregnancy, lack of breast feeding.
 
-![Breast Estrogen](/img/estrogen_breast.png)
-
-_Estrogen and Breast Cancer_
+  ![Breast Estrogen](/img/estrogen_breast.png)
+  _Estrogen and Breast Cancer_
 
 * Age 
 * Genetic predisposition
