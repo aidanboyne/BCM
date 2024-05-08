@@ -3,6 +3,7 @@
 icon: fas fa-laptop-medical	
 order: 3
 ---
+ - [Michelle's Drugs](https://docs.google.com/spreadsheets/d/1d-U0suFpJWxdav-NbzMe5OSE53FqL9qtfyCy5cdIxzo/edit?usp=sharing){:target="_blank"}{:rel="noopener noreferrer"}
  - [Class Google Drive](https://drive.google.com/drive/folders/1XqcQ2-GdQ1mJgteP2DBnJThAKhDx_ed7){:target="_blank"}{:rel="noopener noreferrer"}
  - [Blackboard](https://bcm.blackboard.com/ ){:target="_blank"}{:rel="noopener noreferrer"}
  - [Re-tagged AnKing Deck (In Progress)](https://drive.google.com/file/d/1TB8Gy-qSmiVFclc8XXv1i7I2BokXltth/view){:target="_blank"}{:rel="noopener noreferrer"}
